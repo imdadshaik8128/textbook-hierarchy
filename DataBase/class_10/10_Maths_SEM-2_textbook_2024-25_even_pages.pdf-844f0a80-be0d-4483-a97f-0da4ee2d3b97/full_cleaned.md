@@ -2,11 +2,226 @@
 
 ![](images/d4c97dc766946617a7a26e83582122a4473373b53ad674d8ff3583d71ea4baed.jpg)
 
+# u≤s¡‘· sêC≤ +>∑+ - bÂs¡ $<äT\T
+
+1 . sêC≤´+>∑eTTq≈£î ã<äT&Ó’ e⁄+&ÉT≥, $\varpi \mathfrak { O }$ Ä<äsêÙ\qT, dü +dü \qT, C≤rj·T |ü ‘êø£eTTqT,C≤rj·T ^‘·eTTqT >ös¡$+#·T≥—   
+2 . C≤rj·T kÕ«‘·+Á‘·´ b˛sê≥eTTq≈£î dü÷Œ]Ôì∫Ãq ñqï‘ê<äs¡ÙeTT\qT eTqdüT‡j·T+<äT ñ+#·Tø=ì yê{Ï ì nqTdü ]+#·T≥—   
+3 . u≤s¡‘· kÕs¡«uÖeT‘·«+, ◊ø£´‘·, nK+&É‘·qT dü eT]+#·T≥ eT]j·TT dü +s¡øÏ +#·T≥.   
+4 <˚X¯eTTqT s¡øÏ +#·T≥ eT]j·TT ø√]q|ü⁄&ÉT C≤‹øÏ ùde #˚j·TT{—   
+5 . uÛ≤s¡‘· Á|ü »\ eT<Ûä´ eT‘·, uÛ≤wü , ÁbÕ+rj·T, es¡ yÓ$<Ûä´eTT\qT n~Û >∑$T+∫, kÕeTs¡dü´eTTqT, k˛<äs¡ uÛ≤eeTTqT ô|+bı+~+#·T≥, Ád” \ >ös¡e+ ‘·–+#·T Ä#ês¡eTT\qT $&ÉHê&ÉT≥—   
+6 eTq ñeTà&ç dü +düÿè‹˙, düTdü +|ü qï dü +Á|ü <ëj·÷\qT >ös¡$+∫ s¡øÏå+#·T≥—   
+7 . n&Ée⁄\T, dü s¡düT‡\T, q<äT\T, n&É$ »+‘·Te⁄\‘√ dü Vü‰ ÁbÕø£è‹ø£ |ü ]dü sê\qT ø±bÕ&ç n_Û eè~ #˚j·TT≥ eT]j·TT dü eTdü Je⁄\ jÓT&É\ ø£s¡TD≤Ás¡‘· ø£*– e⁄+&ÉT≥.   
+8 XÊÁd”Ôj·T <äèø£Œ<∏ëìï, e÷qe‘êyê<ëìï, õC≤dü qT, dü +düÿs¡D ‘·‘ê«ìï ô|+bı+~+#·Tø=q≥+—   
+9. Á|ü »\ Ädæ ì dü +s¡øÏ +#·T≥, Væ≤+dü qT $&ÉHê&ÉT≥—   
+1 0. Á|ü j·T‘êï\T, kÕ<Ûäq\ ñqï‘·kÕsTT\qT ìs¡+‘·s¡+ n+<äTø=qTq≥T¢>± yÓ’j·TøÏÔø£, dü $Twæ ø±s¡´ s¡+>±\ìï+{Ï ˝À ÁX‚wü ‘· ø√dü +, ø£èwæ #˚j·TT≥ ÁbÕ<∏ä$Tø£ ø£s¡e´yÓT e⁄+&Ée˝…qT.   
+1 1. Äs¡T qT+&ç |ü <ëï\T>∑T dü +e‘·‡s¡eTT\ ej·TdüT‡ ø£*–q u≤\TìøÏ ˝Ò<ë u≤*ø£≈£î ‘·*¢ ‘·+Á&ç ˝Ò<ë dü +s¡ø£å≈£îì>±e⁄qï e´øÏ ‘·q_&É ˝Ò<ë dü +<äsê“qTkÕs¡eTT ‘·q dü +s¡øÏ ‘·TìøÏ $<ë´s¡ q≈£î neø±X¯eTT\T ø£*Œ+#·e˝…qT.
+
+(n~ø£s¡D+ 51 A)
+
+#
+
+6 qT + &ç 1 4 dü + e ‘·‡s¡eTT \ |æ \ \ + <ä ] øÏ ñ ∫ ‘· ì s¡“+ <ä b* yÓT + ≥ Ø $ <ä´q + ~ + #·&Üì øÏ ñ <˚› • + #·ã &ç q $ . Ç ~ @ Á|æ ˝Ÿ 1 , 2 0 1 0 qT + &ç n eT ˝À¢ øÏ e ∫Ã+ ~ .
+
+# #· ≥ +˝Àì eTTU≤´ +XÊ\T:
+
+|æ \ \ + <ä ]øÏ n+ <äTu≤≥T˝À bÕsƒ¡XÊ\ \ qT @sêŒ≥T#˚ j·÷*.   
+ bÕsƒ¡XÊ\ \ ≈£î eTÚ* ø£ e dü ‘·T \ qT ø£*Œ+ #ê* .   
+|æ \ \ + <ä ] ì e j·T düT‡≈£î ‘·– q ‘·s¡>∑‹˝À #˚ ]Œ+ #ê* .   
+ e j·T düT‡≈£î ‘·>∑ ‘·s¡>∑‹˝À #˚ ]Ãq ‘·sê«‘· ‘√{Ï yê] ‘√ dü e÷q + >± ñ + &É {≤ì øÏ Á|ü ‘˚ ´ø£• ø£åD Ç |æ Œ+ #ê* .   
+ Á|ü ‘˚ ´ø£ n e dü sê\T ø£* q |æ \ \ ≈£î kÕ<Ûës¡D |æ \ \ ‘√ bÕ≥T $ <ä´ø=q kÕ– + #·&Üì øÏ ‘·>∑T e dü ‘·T \T @ sêŒ≥T #˚ j·÷* .   
+ ã &ç ˝À #˚ s¡TÃø√&Üì øÏ b˝≤+ {Ï |ü Ø ø£\T ì s¡«Væ≤+ #·sê<äT . b≥T e + {Ï s¡T düT eTT , #êØ \T e dü÷\T #˚ j·T sê<äT .   
+ã&ç ˝À #˚ ]q |æ \ \ ù|s¡T rdæ y˚ j·T&É + n<˚ ‘·s¡>∑‹˝À ø=qkÕ–+#·&É + #˚ j·Tsê<äT.   
+ |æ \ *ï XÊØ s¡ø£+ >±, e÷q dæ ø£+ >± Væ≤+ dæ + #·sê<äT .   
+ e j·T düT‡ ì sês¡D |ü Á‘·+ Ç ‘·s¡ <ÛäèM ø£s¡D |ü Á‘ê\T ˝Ò e H˚ ø±s¡D + #˚ ‘· |æ \ \ ≈£î ã &ç ˝À Á|ü y˚ XÊìï ì sêø£] + #·sê<äT .   
+ ‘·–q n s¡ ‘·\Tqï yê] ì e÷Á‘·y˚T ñ bÕ<Ûë´j·TT \T>± ì j·T$T+#ê*.   
+|æ \ \T ìπs•+∫q kÕeTsê´\T kÕ~Û +#˚ ˝≤ uÀ<Ûä HêuÛÑ´dü q+, eT÷˝≤´+ø£q+ ñ+&Ü*.   
+ b* yÓT + ≥ Ø $ <ä´ |üPs¡Ôj˚T´e s¡≈£î |æ \ \ ≈£î b˝≤+ {Ï uÀs¡T |ü Ø ø£å\T ì s¡«Væ≤+ #·sê<äT .   
+ |ü <ëï\T >∑T dü + e ‘·‡sê\T |üPs¡ÔsTT q |üŒ{Ï øÏ ˙ , b* yÓT + ≥ Ø $ <ä´ |üPs¡Ôj˚T´e s¡≈£î bÕsƒ¡XÊ\ ˝À |æ \¢ \T ø=q kÕ>∑e #·TÃqT .   
+ ã \ V”≤q e sê\ ≈£î, Á|ü ‹≈£L\ |ü ] dæ ‘·T \ qT b<äT s=ÿ+ ≥T qï ãè+ <ë\ ≈£î #Ó + ~ q |æ \ \T @ $ <Ûä yÓT q $ e ø£‘·≈£î >∑T ] ø±≈£î+ &Ü #·÷&Ü*.   
+ sêC≤´+ >∑+ ˝À bı+ <äT |ü ] ∫ q $ \T e \ ≈£î n qT >∑T D + >±, $ <ë´s¡T \ qT uÛÑj·T + , Ä + <√fi¯q ≈£î >∑T ] #˚ j·T ì Ø‹˝À yê] dü s¡«‘√eTT U≤_Û eè~ øÏ ‘√&ÉŒ&˚ bÕsƒ¡´Á|ü D≤[ ø£ s¡÷ bı+ ~ + #ê* .
+
+# © Government of Andhra Pradesh, Amaravati
+
+First Published - 2024
+
+# All rights reserved
+
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means without the prior permission in writing of the publisher, nor be otherwise circulated in any form of binding or cover other than that in which it is published and without a similar condition including this condition being imposed on the subsequent purchaser.
+
+The copy right holder of this book is the Commissioner of School Education, Amaravati, Andhra Pradesh.
+
+This book has been printed on 70 G.S.M. SS Maplitho Title Page 220 G.S.M. White Art Card
+
+Free distribution by Samagra Shiksha, Government of Andhra Pradesh
+
+Printed in India
+
+at the A.P. Govt. Textbook Press
+
+Amaravati
+
+Andhra Pradesh
+
+# FOREWORD
+
+The National Curriculum Framework 2005, recommends that children’s life at school must be linked to their life outside the school. This principle marks a departure from the legacy of bookish learning which continues to shape our system and causes a gap between the school, home and community. The syllabi and textbooks developed on the basis of NCF signify an attempt to implement this basic idea. They also attempt to discourage rote learning and the maintenance of sharp boundaries between different subject areas. We hope these measures will take us significantly further in the direction of a childcentred system of education outlined in the National Policy on Education (1986).
+
+The success of this effort depends on the steps that school principals and teachers will take to encourage children to reflect on their own learning and to pursue imaginative activities and questions. We must recognise that, given space, time and freedom, children generate new knowledge by engaging with the information passed on to them by adults. Treating the prescribed textbook as the sole basis of examination is one of the key reasons why other resources and sites of learning are ignored. Inculcating creativity and initiative is possible if we perceive and treat children as participants in learning, not as receivers of a fixed body of knowledge.
+
+These aims imply considerable change in school routines and mode of functioning. Flexibility in the daily time-table is as necessary as rigour in implementing the annual calendar so that the required number of teaching days are actually devoted to teaching. The methods used for teaching and evaluation will also determine how effective this textbook proves for making children’s life at school a happy experience, rather than a source of stress or boredom. Syllabus designers have tried to address the problem of curricular burden by restructuring and reorienting knowledge at different stages with greater consideration for child psychology and the time available for teaching. The textbook attempts to enhance this endeavour by giving higher priority and space to opportunities for contemplation and wondering, discussion in small groups, and activities requiring hands-on experience.
+
+The National Council of Educational Research and Training (NCERT) appreciates the hard work done by the textbook development committee responsible for this book. We wish to thank the Chairperson of the advisory group in Science and Mathematics, Professor J.V. Narlikar and the Chief Advisors for this book, Professor P. Sinclair of IGNOU, New Delhi and Professor G.P. Dikshit (Retd.) of Lucknow University, Lucknow for guiding the work of this committee. Several teachers contributed to the development of this textbook; we are grateful to their principals for making this possible. We are
+
+# TEXTBOOK DEVELOPMENT COMMITTEE
+
+Chairperson, Advisory Group in Science and Mathematics
+
+J.V. Narlikar, Emeritus Professor, Inter-University Centre for Astronomy & Astrophysics (IUCAA), Ganeshkhind, Pune University, Pune
+
+# CHIEF ADVISORS
+
+P. Sinclair, Professor of Mathematics, IGNOU, New Delhi
+
+G.P. Dikshit, Professor (Retd.), Lucknow University, Lucknow
+
+# CHIEF COORDINATOR
+
+Hukum Singh, Professor and Head (Retd.), DESM, NCERT, New Delhi
+
+# MEMBERS
+
+Anjali Lal, PGT, DAV Public School, Sector-14, Gurgaon
+
+A.K. Wazalwar, Professor and Head, DESM, NCERT
+
+B.S. Upadhyaya, Professor, RIE, Mysore
+
+Jayanti Datta, PGT, Salwan Public School, Gurgaon
+
+Mahendra Shanker, Lecturer (S.G.) (Retd.), NCERT
+
+Manica Aggarwal, Green Park, New Delhi
+
+N.D. Shukla, Professor (Retd.), Lucknow University, Lucknow
+
+Ram Avtar, Professor (Retd.) & Consultant, DESM, NCERT
+
+Rama Balaji, TGT, K.V., MEG & Centre, St. John’s Road, Bangalore
+
+S. Jagdeeshan, Teacher and Member, Governing Council, Centre for Learning, Bangalore
+
+S.K.S. Gautam, Professor (Retd.), DESM, NCERT
+
+Vandita Kalra, Lecturer, Sarvodaya Kanya Vidyalaya, Vikaspuri District Centre, Delhi
+
+V.A. Sujatha, TGT, Kendriya Vidyalaya No. 1, Vasco, Goa
+
+V. Madhavi, TGT, Sanskriti School, Chankyapuri, New Delhi
+
+# MEMBER-COORDINATOR
+
+R.P. Maurya, Professor, DESM, NCERT, New Delhi
+
+# NATIONAL ANTHEM
+
+# &UMÃ7A¶Ã
+
+Jana gana mana adhinayaka jaya he
+
+Bharata bhagya vidhata
+
+Panjaba Sindhu Gujarata Maratha
+
+Dravida Utkala Banga
+
+Vindhya Himachala Yamuna Ganga
+
+uchchala jaladhi taranga
+
+Tava Subha name jage, tave subha asisa mage,
+
+gahe tava jaya gatha.
+
+Jana gana mangala dayaka jaya he
+
+Bharata bhagya vidhata.
+
+Jaya he, Jaya he, Jaya he,
+
+jaya jaya jaya jaya he.
+
+-Rabindranath Tagore
+
+ªT!'H7T QaÕ+rMÃ7¡ ªMÃ79
+
+XÕV£¶ÃXÕ!Õs¶r
+
+_&mG Õl7!7ªVr¶ÃH7VrV¦r
+
+És	 ex¶ ÃºÀÚH!
+
+Õl9 H¸Ã?MÃ7H77+r!!
+
+xÃ®?ª?aÕ¶ÃV£!
+
+¶ÃH;ÚyXÕf+r\Ý7&!
+
+¶ÃH;ÚyXÕfbZH¸!
+
+!9¶ÃHªMÃ7!s
+
+ªT!'H7!À ÚsMÃ7¡ªMÃ79
+
+XÕV£¶ÃXÕ!Õs¶r
+
+ªMÃ79ªMÃ79 ªMÃ79
+
+ªMÃ7ªMÃ7 ªMÃ7ªMÃ79
+
+CV£0É l+r pV¦r!¸V<
+
+# PLEDGE
+
+# É_¾ªÅ 8
+
+India is my country. All Indians are my brothers and sisters.
+
+I love my country and I am proud of its rich and varied heritage.
+
+I shall always strive to be worthy of it.
+
+I shall give my parents, teachers and all elders respect, and treat everyone with courtesy. I shall be kind to animals.
+
+To my country and my people, I pledge my devotion.
+
+In their well-being and prosperity alone lies my happiness.
+
+- Pydimarri Venkata Subba Rao
+
+XÕV£¶ÃÝ;Ú+rH¸¶ÃqXÕf¸7XÕV£UMÃ77?lV£¸+rGlV£7?7
+
++ÝT7+rÝ;ÈuwÉ_7G7Ñ+rwT7G7G_Tw\Ð7Tm94Õl\Ð7T+rÝ;Ú\rV£G¶Ã©
+
+G_l+r§v!V£©¡V£'%u¡ÎQV£¶ÃE×l	hu¤¡·GV£©s+ÝT7¡qZ ÝN¯ÑT7
+
++r¶Ã
+lÉ	e7
+wxE¯ÕsMÃ77
+w{_l¿?l@w!|V£N¯ÑT7É_¾\r@¶¥T7H7Vrl!
+
+T	e7Ã7¡ ^T7ª¶Ã7H¼?_lMÃ7¶¥x^T7
+
++rÝ;Ú_ +rÉ_ª?_G\ruV£¾¶¥x^TuÉ_¾ªÅÝG7Ñ+rwT7
+
+\r@É;ÄMÐ¸BÕHql7¨ßÓ+rbTsu¡ÎH7¸ß
+
+&&30se2gg8
 
 1062CH08
 
-# Chapter 8
+# chapter 8
 # INTRODUCTION TO TRIGONOMETRY
+
 
 There is perhaps nothing which so occupies the middle position of mathematics as trigonometry.
 
@@ -436,14 +651,7 @@ We shall now give the values of all the trigonometric ratios of $0 ^ { \circ }$ 
 
 Table 8.1   
 
-| ∠A      | 0°          | 30°   | 45°   | 60°   | 90°         |
-|---------|-------------|-------|-------|-------|-------------|
-| sin A   | 0           | 1/2   | 1/√2  | √3/2  | 1           |
-| cos A   | 1           | √3/2  | 1/√2  | 1/2   | 0           |
-| tan A   | 0           | 1/√3  | 1     | √3    | Not defined |
-| cosec A | Not defined | 2     | √2    | 2/√3  | 1           |
-| sec A   | 1           | 2/√3  | √2    | 2     | Not defined |
-| cot A   | Not defined | √3    | 1     | 1/√3  | 0           |
+<table><tr><td>∠A</td><td>0°</td><td>30°</td><td>45°</td><td>60°</td><td>90°</td></tr><tr><td>sin A</td><td>0</td><td>1/2</td><td>1/√2</td><td>√3/2</td><td>1</td></tr><tr><td>cos A</td><td>1</td><td>√3/2</td><td>1/√2</td><td>1/2</td><td>0</td></tr><tr><td>tan A</td><td>0</td><td>1/√3</td><td>1</td><td>√3</td><td>Not defined</td></tr><tr><td>cosec A</td><td>Not defined</td><td>2</td><td>√2</td><td>2/√3</td><td>1</td></tr><tr><td>sec A</td><td>1</td><td>2/√3</td><td>√2</td><td>2</td><td>Not defined</td></tr><tr><td>cot A</td><td>Not defined</td><td>√3</td><td>1</td><td>1/√3</td><td>0</td></tr></table>
 
 Remark : From the table above you can observe that as  A increases from $0 ^ { \circ }$ to $9 0 ^ { \circ }$ , sin A increases from 0 to 1 and cos A decreases from 1 to 0.
 
@@ -759,7 +967,7 @@ $$
 
 1062CH09
 
-# Chapter 9
+# chapter 9
 # SOME APPLICATIONS OF TRIGONOMETRY
 
 ### 9.1 Heights and Distances
@@ -1042,7 +1250,7 @@ In this chapter, you have studied the following points :
 
 1062CH10
 
-# Chapter 10
+# chapter 10
 # CIRCLES
 
 ### 10.1 Introduction
@@ -1361,7 +1569,7 @@ In this chapter, you have studied the following points :
 
 1062CH12
 
-# Chapter 11
+# chapter 11
 # AREAS RELATED TO CIRCLES
 
 ### 11.1 Areas of Sector and Segment of a Circle
@@ -1566,7 +1774,7 @@ $=$ Area of the corresponding sector – Area of the corresponding triangle.
 
 1062CH13
 
-# Chapter 12
+# chapter 12
 # SURFACE AREAS AND VOLUMES
 
 ### 12.1 Introduction
@@ -1864,7 +2072,7 @@ Fig. 12.16
 
 1062CH14
 
-# Chapter 13
+# chapter 13
 # STATISTICS
 
 ### 13.1 Introduction
@@ -1893,30 +2101,13 @@ which, more briefly, is written as ${ \overline { { x } } } = { \frac { \Sigma f
 
 Example 1 : The marks obtained by 30 students of Class X of a certain school in a Mathematics paper consisting of 100 marks are presented in table below. Find the mean of the marks obtained by the students.
 
-| Marks obtained (xi)     |   10 |   20 |   36 |   40 |   50 |   56 |   60 |   70 |   72 |   80 |   88 |   92 |   95 |
-|-------------------------|------|------|------|------|------|------|------|------|------|------|------|------|------|
-| Number of students (fi) |    1 |    1 |    3 |    4 |    3 |    2 |    4 |    4 |    1 |    1 |    2 |    3 |    1 |
+<table><tr><td>Marks obtained (xi)</td><td>10</td><td>20</td><td>36</td><td>40</td><td>50</td><td>56</td><td>60</td><td>70</td><td>72</td><td>80</td><td>88</td><td>92</td><td>95</td></tr><tr><td>Number of students (fi)</td><td>1</td><td>1</td><td>3</td><td>4</td><td>3</td><td>2</td><td>4</td><td>4</td><td>1</td><td>1</td><td>2</td><td>3</td><td>1</td></tr></table>
 
 Solution: Recall that to find the mean marks, we require the product of each $x _ { i }$ with the corresponding frequency $f _ { i }$ . So, let us put them in a column as shown in Table 13.1.
 
 Table 13.1   
 
-| Marks obtained (xi)   | Number of students (fi)   | fixi       |
-|-----------------------|---------------------------|------------|
-| 10                    | 1                         | 10         |
-| 20                    | 1                         | 20         |
-| 36                    | 3                         | 108        |
-| 40                    | 4                         | 160        |
-| 50                    | 3                         | 150        |
-| 56                    | 2                         | 112        |
-| 60                    | 4                         | 240        |
-| 70                    | 4                         | 280        |
-| 72                    | 1                         | 72         |
-| 80                    | 1                         | 80         |
-| 88                    | 2                         | 176        |
-| 92                    | 3                         | 276        |
-| 95                    | 1                         | 95         |
-| Total                 | Σfi=30                    | Σf.xi=1779 |
+<table><tr><td>Marks obtained (xi)</td><td>Number of students (fi)</td><td>fixi</td></tr><tr><td>10</td><td>1</td><td>10</td></tr><tr><td>20</td><td>1</td><td>20</td></tr><tr><td>36</td><td>3</td><td>108</td></tr><tr><td>40</td><td>4</td><td>160</td></tr><tr><td>50</td><td>3</td><td>150</td></tr><tr><td>56</td><td>2</td><td>112</td></tr><tr><td>60</td><td>4</td><td>240</td></tr><tr><td>70</td><td>4</td><td>280</td></tr><tr><td>72</td><td>1</td><td>72</td></tr><tr><td>80</td><td>1</td><td>80</td></tr><tr><td>88</td><td>2</td><td>176</td></tr><tr><td>92</td><td>3</td><td>276</td></tr><tr><td>95</td><td>1</td><td>95</td></tr><tr><td>Total</td><td>Σfi=30</td><td>Σf.xi=1779</td></tr></table>
 
 Now, 6 i if xx 1779 ${ \overline { { x } } } = { \frac { \Sigma f _ { i } x _ { i } } { \Sigma f _ { i } } } = { \frac { 1 7 7 9 } { 3 0 } } = 5 9 . 3$
 
@@ -1928,9 +2119,7 @@ Let us convert the ungrouped data of Example 1 into grouped data by forming clas
 
 Table 13.2   
 
-| Class interval     |   10 - 25 |   25 - 40 |   40 - 55 |   55 - 70 |   70 - 85 |   85 - 100 |
-|--------------------|-----------|-----------|-----------|-----------|-----------|------------|
-| Number of students |         2 |         3 |         7 |         6 |         6 |          6 |
+<table><tr><td>Class interval</td><td>10 - 25</td><td>25 - 40</td><td>40 - 55</td><td>55 - 70</td><td>70 - 85</td><td>85 - 100</td></tr><tr><td>Number of students</td><td>2</td><td>3</td><td>7</td><td>6</td><td>6</td><td>6</td></tr></table>
 
 Now, for each class-interval, we require a point which would serve as the representative of the whole class. It is assumed that the frequency of each class-interval is centred around its mid-point. So the mid-point (or class mark) of each class can be chosen to represent the observations falling in the class. Recall that we find the mid-point of a class (or its class mark) by finding the average of its upper and lower limits. That is,
 
@@ -1942,15 +2131,7 @@ With reference to Table 13.2, for the class 10-25, the class mark is $\frac { 1 
 
 Table 13.3   
 
-| Class interval   | Number of students (fi)   | Class mark (xi)   | fi xi            |
-|------------------|---------------------------|-------------------|------------------|
-| 10 - 25          | 2                         | 17.5              | 35.0             |
-| 25 - 40          | 3                         | 32.5              | 97.5             |
-| 40 - 55          | 7                         | 47.5              | 332.5            |
-| 55 - 70          | 6                         | 62.5              | 375.0            |
-| 70 - 85          | 6                         | 77.5              | 465.0            |
-| 85 - 100         | 6                         | 92.5              | 555.0            |
-| Total            | Σ fi = 30                 |                   | Σ fi xi = 1860.0 |
+<table><tr><td>Class interval</td><td>Number of students (fi)</td><td>Class mark (xi)</td><td>fi xi</td></tr><tr><td>10 - 25</td><td>2</td><td>17.5</td><td>35.0</td></tr><tr><td>25 - 40</td><td>3</td><td>32.5</td><td>97.5</td></tr><tr><td>40 - 55</td><td>7</td><td>47.5</td><td>332.5</td></tr><tr><td>55 - 70</td><td>6</td><td>62.5</td><td>375.0</td></tr><tr><td>70 - 85</td><td>6</td><td>77.5</td><td>465.0</td></tr><tr><td>85 - 100</td><td>6</td><td>92.5</td><td>555.0</td></tr><tr><td>Total</td><td>Σ fi = 30</td><td></td><td>Σ fi xi = 1860.0</td></tr></table>
 
 The sum of the values in the last column gives us $\Sigma f _ { i } x _ { i }$ . So, the mean $\overline { { x } }$ of the given data is given by
 
@@ -1976,15 +2157,7 @@ The third step is to find the product of $d _ { i }$ with the corresponding $f _
 
 Table 13.4   
 
-| Class interval   | Number of students (fi)   | Class mark (xi)   | di = xi - 47.5   | fdi        |
-|------------------|---------------------------|-------------------|------------------|------------|
-| 10 - 25          | 2                         | 17.5              | -30              | -60        |
-| 25 - 40          | 3                         | 32.5              | -15              | -45        |
-| 40 - 55          | 7                         | 47.5              | 0                | 0          |
-| 55 - 70          | 6                         | 62.5              | 15               | 90         |
-| 70 - 85          | 6                         | 77.5              | 30               | 180        |
-| 85 - 100         | 6                         | 92.5              | 45               | 270        |
-| Total            | Σfi = 30                  |                   |                  | Σfdi = 435 |
+<table><tr><td>Class interval</td><td>Number of students (fi)</td><td>Class mark (xi)</td><td>di = xi - 47.5</td><td>fdi</td></tr><tr><td>10 - 25</td><td>2</td><td>17.5</td><td>-30</td><td>-60</td></tr><tr><td>25 - 40</td><td>3</td><td>32.5</td><td>-15</td><td>-45</td></tr><tr><td>40 - 55</td><td>7</td><td>47.5</td><td>0</td><td>0</td></tr><tr><td>55 - 70</td><td>6</td><td>62.5</td><td>15</td><td>90</td></tr><tr><td>70 - 85</td><td>6</td><td>77.5</td><td>30</td><td>180</td></tr><tr><td>85 - 100</td><td>6</td><td>92.5</td><td>45</td><td>270</td></tr><tr><td>Total</td><td>Σfi = 30</td><td></td><td></td><td>Σfdi = 435</td></tr></table>
 
 So, from Table 13.4, the mean of the deviations, d = i if d6 . $\overline { { d } } = \frac { \Sigma f _ { i } d _ { i } } { \Sigma f _ { i } }$
 
@@ -2024,15 +2197,7 @@ Now, we calculate $u _ { i }$ in this way and continue as before (i.e., find $f 
 
 Table 13.5   
 
-| Class interval   | fi       | xi   | di = xi - a   | ui = xi - a/h   | fiu i     |
-|------------------|----------|------|---------------|-----------------|-----------|
-| 10 - 25          | 2        | 17.5 | -30           | -2              | -4        |
-| 25 - 40          | 3        | 32.5 | -15           | -1              | -3        |
-| 40 - 55          | 7        | 47.5 | 0             | 0               | 0         |
-| 55 - 70          | 6        | 62.5 | 15            | 1               | 6         |
-| 70 - 85          | 6        | 77.5 | 30            | 2               | 12        |
-| 85 - 100         | 6        | 92.5 | 45            | 3               | 18        |
-| Total            | Σfi = 30 |      |               |                 | Σfui = 29 |
+<table><tr><td>Class interval</td><td>fi</td><td>xi</td><td>di = xi - a</td><td>ui = xi - a/h</td><td>fiu i</td></tr><tr><td>10 - 25</td><td>2</td><td>17.5</td><td>-30</td><td>-2</td><td>-4</td></tr><tr><td>25 - 40</td><td>3</td><td>32.5</td><td>-15</td><td>-1</td><td>-3</td></tr><tr><td>40 - 55</td><td>7</td><td>47.5</td><td>0</td><td>0</td><td>0</td></tr><tr><td>55 - 70</td><td>6</td><td>62.5</td><td>15</td><td>1</td><td>6</td></tr><tr><td>70 - 85</td><td>6</td><td>77.5</td><td>30</td><td>2</td><td>12</td></tr><tr><td>85 - 100</td><td>6</td><td>92.5</td><td>45</td><td>3</td><td>18</td></tr><tr><td>Total</td><td>Σfi = 30</td><td></td><td></td><td></td><td>Σfui = 29</td></tr></table>
 
 Let ${ \overline { { u } } } = { \frac { \Sigma f _ { i } u _ { i } } { \Sigma f _ { i } } }$
 
@@ -2071,9 +2236,7 @@ Let us apply these methods in another example.
 
 Example 2 : The table below gives the percentage distribution of female teachers in the primary schools of rural areas of various states and union territories (U.T.) of India. Find the mean percentage of female teachers by all the three methods discussed in this section.
 
-| Percentage of female teachers   |   15 - 25 |   25 - 35 |   35 - 45 |   45 - 55 |   55 - 65 |   65 - 75 |   75 - 85 |
-|---------------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| Number of States/U.T.           |         6 |        11 |         7 |         4 |         4 |         2 |         1 |
+<table><tr><td>Percentage of female teachers</td><td>15 - 25</td><td>25 - 35</td><td>35 - 45</td><td>45 - 55</td><td>55 - 65</td><td>65 - 75</td><td>75 - 85</td></tr><tr><td>Number of States/U.T.</td><td>6</td><td>11</td><td>7</td><td>4</td><td>4</td><td>2</td><td>1</td></tr></table>
 
 Source : Seventh All India School Education Survey conducted by NCERT
 
@@ -2081,15 +2244,7 @@ Solution : Let us find the class marks, $x _ { i } ,$ of each class, and put the
 
 Table 13.6   
 
-| Percentage of female teachers   |   Number of States /U.T. (fi) |   xi |
-|---------------------------------|-------------------------------|------|
-| 15 - 25                         |                             6 |   20 |
-| 25 - 35                         |                            11 |   30 |
-| 35 - 45                         |                             7 |   40 |
-| 45 - 55                         |                             4 |   50 |
-| 55 - 65                         |                             4 |   60 |
-| 65 - 75                         |                             2 |   70 |
-| 75 - 85                         |                             1 |   80 |
+<table><tr><td>Percentage of female teachers</td><td>Number of States /U.T. (fi)</td><td>xi</td></tr><tr><td>15 - 25</td><td>6</td><td>20</td></tr><tr><td>25 - 35</td><td>11</td><td>30</td></tr><tr><td>35 - 45</td><td>7</td><td>40</td></tr><tr><td>45 - 55</td><td>4</td><td>50</td></tr><tr><td>55 - 65</td><td>4</td><td>60</td></tr><tr><td>65 - 75</td><td>2</td><td>70</td></tr><tr><td>75 - 85</td><td>1</td><td>80</td></tr></table>
 
 Here we take $a = 5 0$ , $h = 1 0$ , then $d _ { i } = x _ { i } - 5 0$ and $u _ { i } = \frac { x _ { i } - 5 0 } { 1 0 }$ 5 0x 
 
@@ -2097,16 +2252,7 @@ We now find $d _ { i }$ and $u$ and put them in Table 13.7.
 
 Table 13.7   
 
-| Percentage of female teachers   |   Number of states/U.T. (fi) | xi   | di=xi-50   | ui=xi-50/10   |   fi xi |   fdi |   futu |
-|---------------------------------|------------------------------|------|------------|---------------|---------|-------|--------|
-| 15 - 25                         |                            6 | 20   | -30        | -3            |     120 |  -180 |    -18 |
-| 25 - 35                         |                           11 | 30   | -20        | -2            |     330 |  -220 |    -22 |
-| 35 - 45                         |                            7 | 40   | -10        | -1            |     280 |   -70 |     -7 |
-| 45 - 55                         |                            4 | 50   | 0          | 0             |     200 |     0 |      0 |
-| 55 - 65                         |                            4 | 60   | 10         | 1             |     240 |    40 |      4 |
-| 65 - 75                         |                            2 | 70   | 20         | 2             |     140 |    40 |      4 |
-| 75 - 85                         |                            1 | 80   | 30         | 3             |      80 |    30 |      3 |
-| Total                           |                           35 |      |            |               |    1390 |  -360 |    -36 |
+<table><tr><td>Percentage of female teachers</td><td>Number of states/U.T. (fi)</td><td>xi</td><td>di=xi-50</td><td>ui=xi-50/10</td><td>fi xi</td><td>fdi</td><td>futu</td></tr><tr><td>15 - 25</td><td>6</td><td>20</td><td>-30</td><td>-3</td><td>120</td><td>-180</td><td>-18</td></tr><tr><td>25 - 35</td><td>11</td><td>30</td><td>-20</td><td>-2</td><td>330</td><td>-220</td><td>-22</td></tr><tr><td>35 - 45</td><td>7</td><td>40</td><td>-10</td><td>-1</td><td>280</td><td>-70</td><td>-7</td></tr><tr><td>45 - 55</td><td>4</td><td>50</td><td>0</td><td>0</td><td>200</td><td>0</td><td>0</td></tr><tr><td>55 - 65</td><td>4</td><td>60</td><td>10</td><td>1</td><td>240</td><td>40</td><td>4</td></tr><tr><td>65 - 75</td><td>2</td><td>70</td><td>20</td><td>2</td><td>140</td><td>40</td><td>4</td></tr><tr><td>75 - 85</td><td>1</td><td>80</td><td>30</td><td>3</td><td>80</td><td>30</td><td>3</td></tr><tr><td>Total</td><td>35</td><td></td><td></td><td></td><td>1390</td><td>-360</td><td>-36</td></tr></table>
 
 From the table above, we obtain $\Sigma f _ { i } = 3 5$ , 6f x = 1390,
 
@@ -2134,29 +2280,19 @@ Remark : The result obtained by all the three methods is the same. So the choice
 
 Example 3 : The distribution below shows the number of wickets taken by bowlers in oneday cricket matches. Find the mean number of wickets by choosing a suitable method. What does the mean signify?
 
-| Number of 
- wickets   |   20 - 60 |   60 - 100 |   100 - 150 |   150 - 250 |   250 - 350 |   350 - 450 |
-|-----------------------|-----------|------------|-------------|-------------|-------------|-------------|
-| Number of 
- bowlers   |         7 |          5 |          16 |          12 |           2 |           3 |
+<table><tr><td>Number of 
+wickets</td><td>20 - 60</td><td>60 - 100</td><td>100 - 150</td><td>150 - 250</td><td>250 - 350</td><td>350 - 450</td></tr><tr><td>Number of 
+bowlers</td><td>7</td><td>5</td><td>16</td><td>12</td><td>2</td><td>3</td></tr></table>
 
 Solution : Here, the class size varies, and the $x _ { i } \mathrm { s }$ are large. Let us still apply the step-deviation method with $a = 2 0 0$ and $h = 2 0$ . Then, we obtain the data as in Table 13.8.
 
 Table 13.8   
 
-| Number of 
- wickets 
- taken   |   Number of 
- bowlers 
- (fi) | xi   | di = xi - 200   | ui = di/20   |   uifi |
-|-------------------------------|------------------------------|------|-----------------|--------------|--------|
-| 20 - 60                       |                            7 | 40   | -160            | -8           |    -56 |
-| 60 - 100                      |                            5 | 80   | -120            | -6           |    -30 |
-| 100 - 150                     |                           16 | 125  | -75             | -3.75        |    -60 |
-| 150 - 250                     |                           12 | 200  | 0               | 0            |      0 |
-| 250 - 350                     |                            2 | 300  | 100             | 5            |     10 |
-| 350 - 450                     |                            3 | 400  | 200             | 10           |     30 |
-| Total                         |                           45 |      |                 |              |   -106 |
+<table><tr><td>Number of 
+wickets 
+taken</td><td>Number of 
+bowlers 
+(fi)</td><td>xi</td><td>di = xi - 200</td><td>ui = di/20</td><td>uifi</td></tr><tr><td>20 - 60</td><td>7</td><td>40</td><td>-160</td><td>-8</td><td>-56</td></tr><tr><td>60 - 100</td><td>5</td><td>80</td><td>-120</td><td>-6</td><td>-30</td></tr><tr><td>100 - 150</td><td>16</td><td>125</td><td>-75</td><td>-3.75</td><td>-60</td></tr><tr><td>150 - 250</td><td>12</td><td>200</td><td>0</td><td>0</td><td>0</td></tr><tr><td>250 - 350</td><td>2</td><td>300</td><td>100</td><td>5</td><td>10</td></tr><tr><td>350 - 450</td><td>3</td><td>400</td><td>200</td><td>10</td><td>30</td></tr><tr><td>Total</td><td>45</td><td></td><td></td><td></td><td>-106</td></tr></table>
 
 $$
 \mathrm {S o}, \bar {u} = \frac {- 1 0 6}{4 5}. \text {T h e r e f o r e ,} \bar {x} = 2 0 0 + 2 0 \left(\frac {- 1 0 6}{4 5}\right) = 2 0 0 - 4 7. 1 1 = 1 5 2. 8 9.
@@ -2180,74 +2316,51 @@ After all the groups have collected the data and formed grouped frequency distri
 
 1. A survey was conducted by a group of students as a part of their environment awareness programme, in which they collected the following data regarding the number of plants in 20 houses in a locality. Find the mean number of plants per house.
 
-| Number of plants   |   0 - 2 |   2 - 4 |   4 - 6 |   6 - 8 |   8 - 10 |   10 - 12 |   12 - 14 |
-|--------------------|---------|---------|---------|---------|----------|-----------|-----------|
-| Number of houses   |       1 |       2 |       1 |       5 |        6 |         2 |         3 |
+<table><tr><td>Number of plants</td><td>0 - 2</td><td>2 - 4</td><td>4 - 6</td><td>6 - 8</td><td>8 - 10</td><td>10 - 12</td><td>12 - 14</td></tr><tr><td>Number of houses</td><td>1</td><td>2</td><td>1</td><td>5</td><td>6</td><td>2</td><td>3</td></tr></table>
 
 Which method did you use for finding the mean, and why?
 
 2. Consider the following distribution of daily wages of 50 workers of a factory.
 
-| Daily wages (in')   |   500 - 520 |   520 -540 |   540 - 560 |   560 - 580 |   580 -600 |
-|---------------------|-------------|------------|-------------|-------------|------------|
-| Number of workers   |          12 |         14 |           8 |           6 |         10 |
+<table><tr><td>Daily wages (in‘)</td><td>500 - 520</td><td>520 -540</td><td>540 - 560</td><td>560 - 580</td><td>580 -600</td></tr><tr><td>Number of workers</td><td>12</td><td>14</td><td>8</td><td>6</td><td>10</td></tr></table>
 
 Find the mean daily wages of the workers of the factory by using an appropriate method.
 
 3. The following distribution shows the daily pocket allowance of children of a locality. The mean pocket allowance is Rs 18. Find the missing frequency f.
 
-| Daily pocket allowance (in `)   |   11 - 13 |   13 - 15 |   15 - 17 |   17 - 19 | 19 - 21   |   21 - 23 |   23 - 25 |
-|---------------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| Number of children              |         7 |         6 |         9 |        13 | f         |         5 |         4 |
+<table><tr><td>Daily pocket allowance (in `)</td><td>11 - 13</td><td>13 - 15</td><td>15 - 17</td><td>17 - 19</td><td>19 - 21</td><td>21 - 23</td><td>23 - 25</td></tr><tr><td>Number of children</td><td>7</td><td>6</td><td>9</td><td>13</td><td>f</td><td>5</td><td>4</td></tr></table>
 
 4. Thirty women were examined in a hospital by a doctor and the number of heartbeats per minute were recorded and summarised as follows. Find the mean heartbeats per minute for these women, choosing a suitable method.
 
-| No. of heartbeats per minute   |   65-68 |   68-71 |   71-74 |   74-77 |   77-80 |   80-83 |   83-86 |
-|--------------------------------|---------|---------|---------|---------|---------|---------|---------|
-| Number of women                |       2 |       4 |       3 |       8 |       7 |       4 |       2 |
+<table><tr><td>No. of heartbeats per minute</td><td>65-68</td><td>68-71</td><td>71-74</td><td>74-77</td><td>77-80</td><td>80-83</td><td>83-86</td></tr><tr><td>Number of women</td><td>2</td><td>4</td><td>3</td><td>8</td><td>7</td><td>4</td><td>2</td></tr></table>
 
 5. In a retail market, fruit vendors were selling mangoes kept in packing boxes. These boxes contained varying number of mangoes. The following was the distribution of mangoes according to the number of boxes.
 
-| Number of mangoes   |   50 - 52 |   53 -55 |   56 - 58 |   59 - 61 |   62 -64 |
-|---------------------|-----------|----------|-----------|-----------|----------|
-| Number of boxes     |        15 |      110 |       135 |       115 |       25 |
+<table><tr><td>Number of mangoes</td><td>50 - 52</td><td>53 -55</td><td>56 - 58</td><td>59 - 61</td><td>62 -64</td></tr><tr><td>Number of boxes</td><td>15</td><td>110</td><td>135</td><td>115</td><td>25</td></tr></table>
 
 Find the mean number of mangoes kept in a packing box. Which method of finding the mean did you choose?
 
 6. The table below shows the daily expenditure on food of 25 households in a locality.
 
-| Daily expenditure (in')   |   100 - 150 |   150 - 200 |   200 - 250 |   250 - 300 |   300 - 350 |
-|---------------------------|-------------|-------------|-------------|-------------|-------------|
-| Number of households      |           4 |           5 |          12 |           2 |           2 |
+<table><tr><td>Daily expenditure (in‘)</td><td>100 - 150</td><td>150 - 200</td><td>200 - 250</td><td>250 - 300</td><td>300 - 350</td></tr><tr><td>Number of households</td><td>4</td><td>5</td><td>12</td><td>2</td><td>2</td></tr></table>
 
 Find the mean daily expenditure on food by a suitable method.
 
 7. To find out the concentration of ${ \mathrm { S O } } _ { 2 }$ in the air (in parts per million, i.e., ppm), the data was collected for 30 localities in a certain city and is presented below:
 
-| Concentration of SO2 (in ppm)   |   Frequency |
-|---------------------------------|-------------|
-| 0.00 - 0.04                     |           4 |
-| 0.04 - 0.08                     |           9 |
-| 0.08 - 0.12                     |           9 |
-| 0.12 - 0.16                     |           2 |
-| 0.16 - 0.20                     |           4 |
-| 0.20 - 0.24                     |           2 |
+<table><tr><td>Concentration of SO2 (in ppm)</td><td>Frequency</td></tr><tr><td>0.00 - 0.04</td><td>4</td></tr><tr><td>0.04 - 0.08</td><td>9</td></tr><tr><td>0.08 - 0.12</td><td>9</td></tr><tr><td>0.12 - 0.16</td><td>2</td></tr><tr><td>0.16 - 0.20</td><td>4</td></tr><tr><td>0.20 - 0.24</td><td>2</td></tr></table>
 
 Find the mean concentration of $\mathrm { S O } _ { 2 }$ in the air.
 
 8. A class teacher has the following absentee record of 40 students of a class for the whole term. Find the mean number of days a student was absent.
 
-| Number of 
- days     |   0 - 6 |   6 - 10 |   10 - 14 |   14 - 20 |   20 - 28 |   28 - 38 |   38 - 40 |
-|----------------------|---------|----------|-----------|-----------|-----------|-----------|-----------|
-| Number of 
- students |      11 |       10 |         7 |         4 |         4 |         3 |         1 |
+<table><tr><td>Number of 
+days</td><td>0 - 6</td><td>6 - 10</td><td>10 - 14</td><td>14 - 20</td><td>20 - 28</td><td>28 - 38</td><td>38 - 40</td></tr><tr><td>Number of 
+students</td><td>11</td><td>10</td><td>7</td><td>4</td><td>4</td><td>3</td><td>1</td></tr></table>
 
 9. The following table gives the literacy rate (in percentage) of 35 cities. Find the mean literacy rate.
 
-| Literacy rate (in %)   |   45 - 55 |   55 - 65 |   65 - 75 |   75 - 85 |   85 - 95 |
-|------------------------|-----------|-----------|-----------|-----------|-----------|
-| Number of cities       |         3 |        10 |        11 |         8 |         3 |
+<table><tr><td>Literacy rate (in %)</td><td>45 - 55</td><td>55 - 65</td><td>65 - 75</td><td>75 - 85</td><td>85 - 95</td></tr><tr><td>Number of cities</td><td>3</td><td>10</td><td>11</td><td>8</td><td>3</td></tr></table>
 
 ### 13.3 Mode of Grouped Data
 
@@ -2263,11 +2376,9 @@ Find the mode of the data.
 
 Solution : Let us form the frequency distribution table of the given data as follows:
 
-| Number of 
- wickets   |   0 |   1 |   2 |   3 |   4 |   5 |   6 |
-|-----------------------|-----|-----|-----|-----|-----|-----|-----|
-| Number of 
- matches   |   1 |   1 |   3 |   2 |   1 |   1 |   1 |
+<table><tr><td>Number of 
+wickets</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>Number of 
+matches</td><td>1</td><td>1</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td></tr></table>
 
 Clearly, 2 is the number of wickets taken by the bowler in the maximum number (i.e., 3) of matches. So, the mode of this data is 2.
 
@@ -2291,10 +2402,8 @@ Let us consider the following examples to illustrate the use of this formula.
 
 Example ${ \boldsymbol { 5 } } :$ A survey conducted on 20 households in a locality by a group of students resulted in the following frequency table for the number of family members in a household:
 
-| Family size          |   1 - 3 |   3 - 5 |   5 - 7 |   7 - 9 |   9 - 11 |
-|----------------------|---------|---------|---------|---------|----------|
-| Number of 
- families |       7 |       8 |       2 |       2 |        1 |
+<table><tr><td>Family size</td><td>1 - 3</td><td>3 - 5</td><td>5 - 7</td><td>7 - 9</td><td>9 - 11</td></tr><tr><td>Number of 
+families</td><td>7</td><td>8</td><td>2</td><td>2</td><td>1</td></tr></table>
 
 Find the mode of this data.
 
@@ -2369,66 +2478,33 @@ Remark : The mode can also be calculated for grouped data with unequal class siz
 
 1. The following table shows the ages of the patients admitted in a hospital during a year:
 
-| Age (in years)   |   5 - 15 |   15 - 25 |   25 - 35 |   35 - 45 |   45 - 55 |   55 - 65 |
-|------------------|----------|-----------|-----------|-----------|-----------|-----------|
-| N0. of patients  |        6 |        11 |        21 |        23 |        14 |         5 |
+<table><tr><td>Age (in years)</td><td>5 - 15</td><td>15 - 25</td><td>25 - 35</td><td>35 - 45</td><td>45 - 55</td><td>55 - 65</td></tr><tr><td>N0. of patients</td><td>6</td><td>11</td><td>21</td><td>23</td><td>14</td><td>5</td></tr></table>
 
 Find the mode and the mean of the data given above. Compare and interpret the two measures of central tendency.
 
 2. The following data gives the information on the observed lifetimes (in hours) of 225 electrical components :
 
-| Lifetimes (in hours)   |   0 - 20 |   20 - 40 |   40 - 60 |   60 - 80 |   80 - 100 |   100 - 120 |
-|------------------------|----------|-----------|-----------|-----------|------------|-------------|
-| Frequency              |       10 |        35 |        52 |        61 |         38 |          29 |
+<table><tr><td>Lifetimes (in hours)</td><td>0 - 20</td><td>20 - 40</td><td>40 - 60</td><td>60 - 80</td><td>80 - 100</td><td>100 - 120</td></tr><tr><td>Frequency</td><td>10</td><td>35</td><td>52</td><td>61</td><td>38</td><td>29</td></tr></table>
 
 Determine the modal lifetimes of the components.
 
 3. The following data gives the distribution of total monthly household expenditure of 200 families of a village. Find the modal monthly expenditure of the families. Also, find the mean monthly expenditure :
 
-| Expenditure (in')   |   Number of families |
-|---------------------|----------------------|
-| 1000 - 1500         |                   24 |
-| 1500 - 2000         |                   40 |
-| 2000 - 2500         |                   33 |
-| 2500 - 3000         |                   28 |
-| 3000 - 3500         |                   30 |
-| 3500 - 4000         |                   22 |
-| 4000 - 4500         |                   16 |
-| 4500 - 5000         |                    7 |
+<table><tr><td>Expenditure (in‘)</td><td>Number of families</td></tr><tr><td>1000 - 1500</td><td>24</td></tr><tr><td>1500 - 2000</td><td>40</td></tr><tr><td>2000 - 2500</td><td>33</td></tr><tr><td>2500 - 3000</td><td>28</td></tr><tr><td>3000 - 3500</td><td>30</td></tr><tr><td>3500 - 4000</td><td>22</td></tr><tr><td>4000 - 4500</td><td>16</td></tr><tr><td>4500 - 5000</td><td>7</td></tr></table>
 
 4. The following distribution gives the state-wise teacher-student ratio in higher secondary schools of India. Find the mode and mean of this data. Interpret the two measures.
 
-| Number of students per teacher   |   Number of states / U.T. |
-|----------------------------------|---------------------------|
-| 15 - 20                          |                         3 |
-| 20 - 25                          |                         8 |
-| 25 - 30                          |                         9 |
-| 30 - 35                          |                        10 |
-| 35 - 40                          |                         3 |
-| 40 - 45                          |                         0 |
-| 45 - 50                          |                         0 |
-| 50 - 55                          |                         2 |
+<table><tr><td>Number of students per teacher</td><td>Number of states / U.T.</td></tr><tr><td>15 - 20</td><td>3</td></tr><tr><td>20 - 25</td><td>8</td></tr><tr><td>25 - 30</td><td>9</td></tr><tr><td>30 - 35</td><td>10</td></tr><tr><td>35 - 40</td><td>3</td></tr><tr><td>40 - 45</td><td>0</td></tr><tr><td>45 - 50</td><td>0</td></tr><tr><td>50 - 55</td><td>2</td></tr></table>
 
 5. The given distribution shows the number of runs scored by some top batsmen of the world in one-day international cricket matches.
 
-| Runs scored   |   Number of batsmen |
-|---------------|---------------------|
-| 3000 - 4000   |                   4 |
-| 4000 - 5000   |                  18 |
-| 5000 - 6000   |                   9 |
-| 6000 - 7000   |                   7 |
-| 7000 - 8000   |                   6 |
-| 8000 - 9000   |                   3 |
-| 9000 - 10000  |                   1 |
-| 10000 - 11000 |                   1 |
+<table><tr><td>Runs scored</td><td>Number of batsmen</td></tr><tr><td>3000 - 4000</td><td>4</td></tr><tr><td>4000 - 5000</td><td>18</td></tr><tr><td>5000 - 6000</td><td>9</td></tr><tr><td>6000 - 7000</td><td>7</td></tr><tr><td>7000 - 8000</td><td>6</td></tr><tr><td>8000 - 9000</td><td>3</td></tr><tr><td>9000 - 10000</td><td>1</td></tr><tr><td>10000 - 11000</td><td>1</td></tr></table>
 
 Find the mode of the data.
 
 6. A student noted the number of cars passing through a spot on a road for 100 periods each of 3 minutes and summarised it in the table given below. Find the mode of the data :
 
-| No. of cars   |   0 - 10 |   10 - 20 |   20 - 30 |   30 - 40 |   40 - 50 |   50 - 60 |   60 - 70 |   70 - 80 |
-|---------------|----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| Frequency     |        7 |        14 |        13 |        12 |        20 |        11 |        15 |         8 |
+<table><tr><td>No. of cars</td><td>0 - 10</td><td>10 - 20</td><td>20 - 30</td><td>30 - 40</td><td>40 - 50</td><td>50 - 60</td><td>60 - 70</td><td>70 - 80</td></tr><tr><td>Frequency</td><td>7</td><td>14</td><td>13</td><td>12</td><td>20</td><td>11</td><td>15</td><td>8</td></tr></table>
 
 ### 13.4 Median of Grouped Data
 
@@ -2436,56 +2512,26 @@ As you have studied in Class IX, the median is a measure of central tendency whi
 
 Suppose, we have to find the median of the following data, which gives the marks, out of 50, obtained by 100 students in a test :
 
-| Marks obtained     |   20 |   29 |   28 |   33 |   42 |   38 |   43 |   25 |
-|--------------------|------|------|------|------|------|------|------|------|
-| Number of students |    6 |   28 |   24 |   15 |    2 |    4 |    1 |   20 |
+<table><tr><td>Marks obtained</td><td>20</td><td>29</td><td>28</td><td>33</td><td>42</td><td>38</td><td>43</td><td>25</td></tr><tr><td>Number of students</td><td>6</td><td>28</td><td>24</td><td>15</td><td>2</td><td>4</td><td>1</td><td>20</td></tr></table>
 
 First, we arrange the marks in ascending order and prepare a frequency table as follows :
 
 Table 13.9   
 
-| Marks obtained   |   Number of students
- (Frequency) |
-|------------------|-----------------------------------|
-| 20               |                                 6 |
-| 25               |                                20 |
-| 28               |                                24 |
-| 29               |                                28 |
-| 33               |                                15 |
-| 38               |                                 4 |
-| 42               |                                 2 |
-| 43               |                                 1 |
-| Total            |                               100 |
+<table><tr><td>Marks obtained</td><td>Number of students
+(Frequency)</td></tr><tr><td>20</td><td>6</td></tr><tr><td>25</td><td>20</td></tr><tr><td>28</td><td>24</td></tr><tr><td>29</td><td>28</td></tr><tr><td>33</td><td>15</td></tr><tr><td>38</td><td>4</td></tr><tr><td>42</td><td>2</td></tr><tr><td>43</td><td>1</td></tr><tr><td>Total</td><td>100</td></tr></table>
 
 Here $n = 1 0 0$ , which is even. The median will be the average of the $\frac { n } { 2 }$ th and the $\left( { \frac { n } { 2 } } + 1 \right)$ th observations, i.e., the 50th and 51st observations. To find these observations, we proceed as follows:
 
 Table 13.10   
 
-| Marks obtained   | Number of students   |
-|------------------|----------------------|
-| 20               | 6                    |
-| upto 25          | 6 + 20 = 26          |
-| upto 28          | 26 + 24 = 50         |
-| upto 29          | 50 + 28 = 78         |
-| upto 33          | 78 + 15 = 93         |
-| upto 38          | 93 + 4 = 97          |
-| upto 42          | 97 + 2 = 99          |
-| upto 43          | 99 + 1 = 100         |
+<table><tr><td>Marks obtained</td><td>Number of students</td></tr><tr><td>20</td><td>6</td></tr><tr><td>upto 25</td><td>6 + 20 = 26</td></tr><tr><td>upto 28</td><td>26 + 24 = 50</td></tr><tr><td>upto 29</td><td>50 + 28 = 78</td></tr><tr><td>upto 33</td><td>78 + 15 = 93</td></tr><tr><td>upto 38</td><td>93 + 4 = 97</td></tr><tr><td>upto 42</td><td>97 + 2 = 99</td></tr><tr><td>upto 43</td><td>99 + 1 = 100</td></tr></table>
 
 Now we add another column depicting this information to the frequency table above and name it as cumulative frequency column.
 
 Table 13.11   
 
-|   Marks obtained |   Number of students |   Cumulative frequency |
-|------------------|----------------------|------------------------|
-|               20 |                    6 |                      6 |
-|               25 |                   20 |                     26 |
-|               28 |                   24 |                     50 |
-|               29 |                   28 |                     78 |
-|               33 |                   15 |                     93 |
-|               38 |                    4 |                     97 |
-|               42 |                    2 |                     99 |
-|               43 |                    1 |                    100 |
+<table><tr><td>Marks obtained</td><td>Number of students</td><td>Cumulative frequency</td></tr><tr><td>20</td><td>6</td><td>6</td></tr><tr><td>25</td><td>20</td><td>26</td></tr><tr><td>28</td><td>24</td><td>50</td></tr><tr><td>29</td><td>28</td><td>78</td></tr><tr><td>33</td><td>15</td><td>93</td></tr><tr><td>38</td><td>4</td><td>97</td></tr><tr><td>42</td><td>2</td><td>99</td></tr><tr><td>43</td><td>1</td><td>100</td></tr></table>
 
 From the table above, we see that:
 
@@ -2507,18 +2553,7 @@ Consider a grouped frequency distribution of marks obtained, out of 100, by 53 s
 
 Table 13.12   
 
-| Marks    |   Number of students |
-|----------|----------------------|
-| 0 - 10   |                    5 |
-| 10 - 20  |                    3 |
-| 20 - 30  |                    4 |
-| 30 - 40  |                    3 |
-| 40 - 50  |                    3 |
-| 50 - 60  |                    4 |
-| 60 - 70  |                    7 |
-| 70 - 80  |                    9 |
-| 80 - 90  |                    7 |
-| 90 - 100 |                    8 |
+<table><tr><td>Marks</td><td>Number of students</td></tr><tr><td>0 - 10</td><td>5</td></tr><tr><td>10 - 20</td><td>3</td></tr><tr><td>20 - 30</td><td>4</td></tr><tr><td>30 - 40</td><td>3</td></tr><tr><td>40 - 50</td><td>3</td></tr><tr><td>50 - 60</td><td>4</td></tr><tr><td>60 - 70</td><td>7</td></tr><tr><td>70 - 80</td><td>9</td></tr><tr><td>80 - 90</td><td>7</td></tr><tr><td>90 - 100</td><td>8</td></tr></table>
 
 From the table above, try to answer the following questions:
 
@@ -2530,19 +2565,8 @@ Similarly, we can compute the cumulative frequencies of the other classes, i.e.,
 
 Table 13.13   
 
-| Marks obtained   | Number of students
- (Cumulative frequency)   |
-|------------------|----------------------------------------------|
-| Less than 10     | 5                                            |
-| Less than 20     | 5 + 3 = 8                                    |
-| Less than 30     | 8 + 4 = 12                                   |
-| Less than 40     | 12 + 3 = 15                                  |
-| Less than 50     | 15 + 3 = 18                                  |
-| Less than 60     | 18 + 4 = 22                                  |
-| Less than 70     | 22 + 7 = 29                                  |
-| Less than 80     | 29 + 9 = 38                                  |
-| Less than 90     | 38 + 7 = 45                                  |
-| Less than 100    | 45 + 8 = 53                                  |
+<table><tr><td>Marks obtained</td><td>Number of students
+(Cumulative frequency)</td></tr><tr><td>Less than 10</td><td>5</td></tr><tr><td>Less than 20</td><td>5 + 3 = 8</td></tr><tr><td>Less than 30</td><td>8 + 4 = 12</td></tr><tr><td>Less than 40</td><td>12 + 3 = 15</td></tr><tr><td>Less than 50</td><td>15 + 3 = 18</td></tr><tr><td>Less than 60</td><td>18 + 4 = 22</td></tr><tr><td>Less than 70</td><td>22 + 7 = 29</td></tr><tr><td>Less than 80</td><td>29 + 9 = 38</td></tr><tr><td>Less than 90</td><td>38 + 7 = 45</td></tr><tr><td>Less than 100</td><td>45 + 8 = 53</td></tr></table>
 
 The distribution given above is called the cumulative frequency distribution of the less than type. Here 10, 20, 30, . . . 100, are the upper limits of the respective class intervals.
 
@@ -2550,19 +2574,8 @@ We can similarly make the table for the number of students with scores, more tha
 
 Table 13.14   
 
-| Marks obtained           | Number of students
- (Cumulative frequency)   |
-|--------------------------|----------------------------------------------|
-| More than or equal to 0  | 53                                           |
-| More than or equal to 10 | 53 - 5 = 48                                  |
-| More than or equal to 20 | 48 - 3 = 45                                  |
-| More than or equal to 30 | 45 - 4 = 41                                  |
-| More than or equal to 40 | 41 - 3 = 38                                  |
-| More than or equal to 50 | 38 - 3 = 35                                  |
-| More than or equal to 60 | 35 - 4 = 31                                  |
-| More than or equal to 70 | 31 - 7 = 24                                  |
-| More than or equal to 80 | 24 - 9 = 15                                  |
-| More than or equal to 90 | 15 - 7 = 8                                   |
+<table><tr><td>Marks obtained</td><td>Number of students
+(Cumulative frequency)</td></tr><tr><td>More than or equal to 0</td><td>53</td></tr><tr><td>More than or equal to 10</td><td>53 – 5 = 48</td></tr><tr><td>More than or equal to 20</td><td>48 – 3 = 45</td></tr><tr><td>More than or equal to 30</td><td>45 – 4 = 41</td></tr><tr><td>More than or equal to 40</td><td>41 – 3 = 38</td></tr><tr><td>More than or equal to 50</td><td>38 – 3 = 35</td></tr><tr><td>More than or equal to 60</td><td>35 – 4 = 31</td></tr><tr><td>More than or equal to 70</td><td>31 – 7 = 24</td></tr><tr><td>More than or equal to 80</td><td>24 – 9 = 15</td></tr><tr><td>More than or equal to 90</td><td>15 – 7 = 8</td></tr></table>
 
 The table above is called a cumulative frequency distribution of the more than type. Here 0, 10, 20, . . ., 90 give the lower limits of the respective class intervals.
 
@@ -2572,18 +2585,7 @@ Let us combine Tables 13.12 and 13.13 to get Table 13.15 given below:
 
 Table 13.15   
 
-| Marks    |   Number of students (f) |   Cumulative frequency (cf) |
-|----------|--------------------------|-----------------------------|
-| 0 - 10   |                        5 |                           5 |
-| 10 - 20  |                        3 |                           8 |
-| 20 - 30  |                        4 |                          12 |
-| 30 - 40  |                        3 |                          15 |
-| 40 - 50  |                        3 |                          18 |
-| 50 - 60  |                        4 |                          22 |
-| 60 - 70  |                        7 |                          29 |
-| 70 - 80  |                        9 |                          38 |
-| 80 - 90  |                        7 |                          45 |
-| 90 - 100 |                        8 |                          53 |
+<table><tr><td>Marks</td><td>Number of students (f)</td><td>Cumulative frequency (cf)</td></tr><tr><td>0 - 10</td><td>5</td><td>5</td></tr><tr><td>10 - 20</td><td>3</td><td>8</td></tr><tr><td>20 - 30</td><td>4</td><td>12</td></tr><tr><td>30 - 40</td><td>3</td><td>15</td></tr><tr><td>40 - 50</td><td>3</td><td>18</td></tr><tr><td>50 - 60</td><td>4</td><td>22</td></tr><tr><td>60 - 70</td><td>7</td><td>29</td></tr><tr><td>70 - 80</td><td>9</td><td>38</td></tr><tr><td>80 - 90</td><td>7</td><td>45</td></tr><tr><td>90 - 100</td><td>8</td><td>53</td></tr></table>
 
 Now in a grouped data, we may not be able to find the middle observation by looking at the cumulative frequencies as the middle observation will be some value in
 
@@ -2623,14 +2625,7 @@ So, about half the students have scored marks less than 66.4, and the other half
 
 Example 7 : A survey regarding the heights (in cm) of 51 girls of Class X of a school was conducted and the following data was obtained:
 
-| Height (in cm)   |   Number of girls |
-|------------------|-------------------|
-| Less than 140    |                 4 |
-| Less than 145    |                11 |
-| Less than 150    |                29 |
-| Less than 155    |                40 |
-| Less than 160    |                46 |
-| Less than 165    |                51 |
+<table><tr><td>Height (in cm)</td><td>Number of girls</td></tr><tr><td>Less than 140</td><td>4</td></tr><tr><td>Less than 145</td><td>11</td></tr><tr><td>Less than 150</td><td>29</td></tr><tr><td>Less than 155</td><td>40</td></tr><tr><td>Less than 160</td><td>46</td></tr><tr><td>Less than 165</td><td>51</td></tr></table>
 
 Find the median height.
 
@@ -2640,14 +2635,7 @@ The given distribution being of the less than type, 140, 145, 150, . . ., 165 gi
 
 Table 13.16   
 
-| Class intervals   |   Frequency |   Cumulative frequency |
-|-------------------|-------------|------------------------|
-| Below 140         |           4 |                      4 |
-| 140 - 145         |           7 |                     11 |
-| 145 - 150         |          18 |                     29 |
-| 150 - 155         |          11 |                     40 |
-| 155 - 160         |           6 |                     46 |
-| 160 - 165         |           5 |                     51 |
+<table><tr><td>Class intervals</td><td>Frequency</td><td>Cumulative frequency</td></tr><tr><td>Below 140</td><td>4</td><td>4</td></tr><tr><td>140 - 145</td><td>7</td><td>11</td></tr><tr><td>145 - 150</td><td>18</td><td>29</td></tr><tr><td>150 - 155</td><td>11</td><td>40</td></tr><tr><td>155 - 160</td><td>6</td><td>46</td></tr><tr><td>160 - 165</td><td>5</td><td>51</td></tr></table>
 
 Now n = 51. So, $\frac { n } { 2 } = \frac { 5 1 } { 2 } = 2 5 . 5$ . This observation lies in the class 145 - 150. Then,
 
@@ -2671,33 +2659,11 @@ This means that the height of about $50 \%$ of the girls is less than this heigh
 
 Example 8 : The median of the following data is 525. Find the values of $x$ and $y$ , if the total frequency is 100.
 
-| Class intervals   | Frequency   |
-|-------------------|-------------|
-| 0 - 100           | 2           |
-| 100 - 200         | 5           |
-| 200 - 300         | x           |
-| 300 - 400         | 12          |
-| 400 - 500         | 17          |
-| 500 - 600         | 20          |
-| 600 - 700         | y           |
-| 700 - 800         | 9           |
-| 800 - 900         | 7           |
-| 900 - 1000        | 4           |
+<table><tr><td>Class intervals</td><td>Frequency</td></tr><tr><td>0 - 100</td><td>2</td></tr><tr><td>100 - 200</td><td>5</td></tr><tr><td>200 - 300</td><td>x</td></tr><tr><td>300 - 400</td><td>12</td></tr><tr><td>400 - 500</td><td>17</td></tr><tr><td>500 - 600</td><td>20</td></tr><tr><td>600 - 700</td><td>y</td></tr><tr><td>700 - 800</td><td>9</td></tr><tr><td>800 - 900</td><td>7</td></tr><tr><td>900 - 1000</td><td>4</td></tr></table>
 
 ## Solution :
 
-| Class intervals   | Frequency   | Cumulative frequency   |
-|-------------------|-------------|------------------------|
-| 0 - 100           | 2           | 2                      |
-| 100 - 200         | 5           | 7                      |
-| 200 - 300         | x           | 7 + x                  |
-| 300 - 400         | 12          | 19 + x                 |
-| 400 - 500         | 17          | 36 + x                 |
-| 500 - 600         | 20          | 56 + x                 |
-| 600 - 700         | y           | 56 + x + y             |
-| 700 - 800         | 9           | 65 + x + y             |
-| 800 - 900         | 7           | 72 + x + y             |
-| 900 - 1000        | 4           | 76 + x + y             |
+<table><tr><td>Class intervals</td><td>Frequency</td><td>Cumulative frequency</td></tr><tr><td>0 - 100</td><td>2</td><td>2</td></tr><tr><td>100 - 200</td><td>5</td><td>7</td></tr><tr><td>200 - 300</td><td>x</td><td>7 + x</td></tr><tr><td>300 - 400</td><td>12</td><td>19 + x</td></tr><tr><td>400 - 500</td><td>17</td><td>36 + x</td></tr><tr><td>500 - 600</td><td>20</td><td>56 + x</td></tr><tr><td>600 - 700</td><td>y</td><td>56 + x + y</td></tr><tr><td>700 - 800</td><td>9</td><td>65 + x + y</td></tr><tr><td>800 - 900</td><td>7</td><td>72 + x + y</td></tr><tr><td>900 - 1000</td><td>4</td><td>76 + x + y</td></tr></table>
 
 It is given that $n = 1 0 0$
 
@@ -2763,53 +2729,19 @@ $$
 
 1. The following frequency distribution gives the monthly consumption of electricity of 68 consumers of a locality. Find the median, mean and mode of the data and compare them.
 
-| Monthly consumption (in units)   |   Number of consumers |
-|----------------------------------|-----------------------|
-| 65 - 85                          |                     4 |
-| 85 - 105                         |                     5 |
-| 105 - 125                        |                    13 |
-| 125 - 145                        |                    20 |
-| 145 - 165                        |                    14 |
-| 165 - 185                        |                     8 |
-| 185 - 205                        |                     4 |
+<table><tr><td>Monthly consumption (in units)</td><td>Number of consumers</td></tr><tr><td>65 - 85</td><td>4</td></tr><tr><td>85 - 105</td><td>5</td></tr><tr><td>105 - 125</td><td>13</td></tr><tr><td>125 - 145</td><td>20</td></tr><tr><td>145 - 165</td><td>14</td></tr><tr><td>165 - 185</td><td>8</td></tr><tr><td>185 - 205</td><td>4</td></tr></table>
 
 2. If the median of the distribution given below is 28.5, find the values of $x$ and y.
 
-| Class interval   | Frequency   |
-|------------------|-------------|
-| 0 - 10           | 5           |
-| 10 - 20          | x           |
-| 20 - 30          | 20          |
-| 30 - 40          | 15          |
-| 40 - 50          | y           |
-| 50 - 60          | 5           |
-| Total            | 60          |
+<table><tr><td>Class interval</td><td>Frequency</td></tr><tr><td>0 - 10</td><td>5</td></tr><tr><td>10 - 20</td><td>x</td></tr><tr><td>20 - 30</td><td>20</td></tr><tr><td>30 - 40</td><td>15</td></tr><tr><td>40 - 50</td><td>y</td></tr><tr><td>50 - 60</td><td>5</td></tr><tr><td>Total</td><td>60</td></tr></table>
 
 3. A life insurance agent found the following data for distribution of ages of 100 policy holders. Calculate the median age, if policies are given only to persons having age 18 years onwards but less than 60 year.
 
-| Age (in years)   |   Number of policy holders |
-|------------------|----------------------------|
-| Below 20         |                          2 |
-| Below 25         |                          6 |
-| Below 30         |                         24 |
-| Below 35         |                         45 |
-| Below 40         |                         78 |
-| Below 45         |                         89 |
-| Below 50         |                         92 |
-| Below 55         |                         98 |
-| Below 60         |                        100 |
+<table><tr><td>Age (in years)</td><td>Number of policy holders</td></tr><tr><td>Below 20</td><td>2</td></tr><tr><td>Below 25</td><td>6</td></tr><tr><td>Below 30</td><td>24</td></tr><tr><td>Below 35</td><td>45</td></tr><tr><td>Below 40</td><td>78</td></tr><tr><td>Below 45</td><td>89</td></tr><tr><td>Below 50</td><td>92</td></tr><tr><td>Below 55</td><td>98</td></tr><tr><td>Below 60</td><td>100</td></tr></table>
 
 4. The lengths of 40 leaves of a plant are measured correct to the nearest millimetre, and the data obtained is represented in the following table :
 
-| Length (in mm)   |   Number of leaves |
-|------------------|--------------------|
-| 118 - 126        |                  3 |
-| 127 - 135        |                  5 |
-| 136 - 144        |                  9 |
-| 145 - 153        |                 12 |
-| 154 - 162        |                  5 |
-| 163 - 171        |                  4 |
-| 172 - 180        |                  2 |
+<table><tr><td>Length (in mm)</td><td>Number of leaves</td></tr><tr><td>118 - 126</td><td>3</td></tr><tr><td>127 - 135</td><td>5</td></tr><tr><td>136 - 144</td><td>9</td></tr><tr><td>145 - 153</td><td>12</td></tr><tr><td>154 - 162</td><td>5</td></tr><tr><td>163 - 171</td><td>4</td></tr><tr><td>172 - 180</td><td>2</td></tr></table>
 
 Find the median length of the leaves.
 
@@ -2817,31 +2749,19 @@ Find the median length of the leaves.
 
 5. The following table gives the distribution of the life time of 400 neon lamps :
 
-| Life time (in hours)   |   Number of lamps |
-|------------------------|-------------------|
-| 1500 - 2000            |                14 |
-| 2000 - 2500            |                56 |
-| 2500 - 3000            |                60 |
-| 3000 - 3500            |                86 |
-| 3500 - 4000            |                74 |
-| 4000 - 4500            |                62 |
-| 4500 - 5000            |                48 |
+<table><tr><td>Life time (in hours)</td><td>Number of lamps</td></tr><tr><td>1500 - 2000</td><td>14</td></tr><tr><td>2000 - 2500</td><td>56</td></tr><tr><td>2500 - 3000</td><td>60</td></tr><tr><td>3000 - 3500</td><td>86</td></tr><tr><td>3500 - 4000</td><td>74</td></tr><tr><td>4000 - 4500</td><td>62</td></tr><tr><td>4500 - 5000</td><td>48</td></tr></table>
 
 Find the median life time of a lamp.
 
 6. 100 surnames were randomly picked up from a local telephone directory and the frequency distribution of the number of letters in the English alphabets in the surnames was obtained as follows:
 
-| Number of letters   |   1 - 4 |   4 - 7 |   7 - 10 |   10 - 13 |   13 - 16 |   16 - 19 |
-|---------------------|---------|---------|----------|-----------|-----------|-----------|
-| Number of surnames  |       6 |      30 |       40 |        16 |         4 |         4 |
+<table><tr><td>Number of letters</td><td>1 - 4</td><td>4 - 7</td><td>7 - 10</td><td>10 - 13</td><td>13 - 16</td><td>16 - 19</td></tr><tr><td>Number of surnames</td><td>6</td><td>30</td><td>40</td><td>16</td><td>4</td><td>4</td></tr></table>
 
 Determine the median number of letters in the surnames. Find the mean number of letters in the surnames? Also, find the modal size of the surnames.
 
 7. The distribution below gives the weights of 30 students of a class. Find the median weight of the students.
 
-| Weight (in kg)   |   40 - 45 |   45 - 50 |   50 - 55 |   55 - 60 |   60 - 65 |   65 - 70 |   70 - 75 |
-|------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| No. of students  |         2 |         3 |         8 |         6 |         6 |         3 |         2 |
+<table><tr><td>Weight (in kg)</td><td>40 - 45</td><td>45 - 50</td><td>50 - 55</td><td>55 - 60</td><td>60 - 65</td><td>65 - 70</td><td>70 - 75</td></tr><tr><td>No. of students</td><td>2</td><td>3</td><td>8</td><td>6</td><td>6</td><td>3</td><td>2</td></tr></table>
 
 ### 13.5 Summary
 
@@ -2879,7 +2799,7 @@ For calculating mode and median for grouped data, it should be ensured that the 
 
 1062CH15
 
-# Chapter 14
+# chapter 15
 # PROBABILITY
 
 ## 14
@@ -3357,10 +3277,8 @@ Fig. 14.6
 
 22. Refer to Example 13. (i) Complete the following table:
 
-| Event:
- 'Sum on 2 dice'   | 2    | 3   | 4   | 5   | 6   | 7   | 8    | 9   | 10   | 11   | 12   |
-|---------------------------|------|-----|-----|-----|-----|-----|------|-----|------|------|------|
-| Probability               | 1/36 |     |     |     |     |     | 5/36 |     |      |      | 1/36 |
+<table><tr><td>Event:
+‘Sum on 2 dice’</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td></tr><tr><td>Probability</td><td>1/36</td><td></td><td></td><td></td><td></td><td></td><td>5/36</td><td></td><td></td><td></td><td>1/36</td></tr></table>
 
 (ii) A student argues that ‘there are 11 possible outcomes 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12. Therefore, each of them has a probability $\frac { 1 } { 1 1 }$ . Do you agree with this argument? Justify your answer.
 
@@ -3485,25 +3403,7 @@ Modellers look for a balance between simplification (for ease of solution) and a
 
 A problem dating back to the early 13th century, posed by Leonardo Fibonacci asks how many rabbits you would have if you started with just two and let them reproduce. Assume that a pair of rabbits produces a pair of offspring each month and that each pair of rabbits produces their first offspring at the age of 2 months. Month by month the number of pairs of rabbits is given by the sum of the rabbits in the two preceding months, except for the 0th and the 1st months.
 
-|   Month |   Pairs of Rabbits |
-|---------|--------------------|
-|       0 |                  1 |
-|       1 |                  1 |
-|       2 |                  2 |
-|       3 |                  3 |
-|       4 |                  5 |
-|       5 |                  8 |
-|       6 |                 13 |
-|       7 |                 21 |
-|       8 |                 34 |
-|       9 |                 55 |
-|      10 |                 89 |
-|      11 |                144 |
-|      12 |                233 |
-|      13 |                377 |
-|      14 |                610 |
-|      15 |                987 |
-|      16 |               1597 |
+<table><tr><td>Month</td><td>Pairs of Rabbits</td></tr><tr><td>0</td><td>1</td></tr><tr><td>1</td><td>1</td></tr><tr><td>2</td><td>2</td></tr><tr><td>3</td><td>3</td></tr><tr><td>4</td><td>5</td></tr><tr><td>5</td><td>8</td></tr><tr><td>6</td><td>13</td></tr><tr><td>7</td><td>21</td></tr><tr><td>8</td><td>34</td></tr><tr><td>9</td><td>55</td></tr><tr><td>10</td><td>89</td></tr><tr><td>11</td><td>144</td></tr><tr><td>12</td><td>233</td></tr><tr><td>13</td><td>377</td></tr><tr><td>14</td><td>610</td></tr><tr><td>15</td><td>987</td></tr><tr><td>16</td><td>1597</td></tr></table>
 
 After just 16 months, you have nearly 1600 pairs of rabbits!
 
@@ -3536,9 +3436,7 @@ Step 3 (Solving the mathematical problem) : Summing the numbers in each pair abo
 
 We do this in the following table.
 
-| Sum         | 2    | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10   | 11   | 12   |
-|-------------|------|------|------|------|------|------|------|------|------|------|------|
-| Probability | 1/36 | 2/36 | 3/36 | 4/36 | 5/36 | 6/36 | 5/36 | 4/36 | 3/36 | 2/36 | 1/36 |
+<table><tr><td>Sum</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td></tr><tr><td>Probability</td><td>1/36</td><td>2/36</td><td>3/36</td><td>4/36</td><td>5/36</td><td>6/36</td><td>5/36</td><td>4/36</td><td>3/36</td><td>2/36</td><td>1/36</td></tr></table>
 
 Observe that the chance of getting a sum of a seven is 1/6, which is larger than the chances of getting other numbers as sums.
 
@@ -4030,9 +3928,7 @@ $\frac { 9 } { 1 0 }$
 
 22. (i)
 
-| 'Sum on 2 dice'   | 2    | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10   | 11   | 12   |
-|-------------------|------|------|------|------|------|------|------|------|------|------|------|
-| Probability       | 1/36 | 2/36 | 3/36 | 4/36 | 5/36 | 6/36 | 5/36 | 4/36 | 3/36 | 2/36 | 1/36 |
+<table><tr><td>‘Sum on 2 dice’</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td></tr><tr><td>Probability</td><td>1/36</td><td>2/36</td><td>3/36</td><td>4/36</td><td>5/36</td><td>6/36</td><td>5/36</td><td>4/36</td><td>3/36</td><td>2/36</td><td>1/36</td></tr></table>
 
 (ii) No. The eleven sums are not equally likely.
 

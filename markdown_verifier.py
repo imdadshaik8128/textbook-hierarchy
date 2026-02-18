@@ -3,7 +3,7 @@ import re
 
 HEADING_PATTERN = re.compile(r'^(#{1,6})\s+(.*)')
 
-ROOT_FOLDER = "DataBase"   # your main root folder
+ROOT_FOLDER = "DataBase_v2"   # your main root folder
 
 
 def extract_hierarchy(md_path):

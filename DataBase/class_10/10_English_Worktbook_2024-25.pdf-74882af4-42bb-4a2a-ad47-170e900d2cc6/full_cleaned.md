@@ -385,7 +385,7 @@ To write is human, to edit is divine.
 
 — Stephen King
 
-# UNIT 1
+# UNIT
 
 # A Letter to God
 
@@ -397,25 +397,11 @@ To write is human, to edit is divine.
 
 Read the story again and rearrange the jumbled sentences to make a coherent story.
 
-| Write the correct order in numbers in the column below   | Jumbled sentences                                                                                     |
-|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-|                                                          | But it rained heavily and hailstorm thrashed his corn field and all the corn was destroyed.           |
-|                                                          | He wrote 'To God' on the envelope and posted it.                                                      |
-|                                                          | Lencho predicted it will rain and it did. He and his wife were happy.                                 |
-|                                                          | Lencho felt desperate but believed that God would help him.                                           |
-|                                                          | Their corn field was longing for water.                                                               |
-|                                                          | The postman and the postmaster laughed at Lencho's letter but were surprised by the faith of the man. |
+<table><tr><td>Write the correct order in numbers in the column below</td><td>Jumbled sentences</td></tr><tr><td></td><td>But it rained heavily and hailstorm thrashed his corn field and all the corn was destroyed.</td></tr><tr><td></td><td>He wrote ‘To God’ on the envelope and posted it.</td></tr><tr><td></td><td>Lencho predicted it will rain and it did. He and his wife were happy.</td></tr><tr><td></td><td>Lencho felt desperate but believed that God would help him.</td></tr><tr><td></td><td>Their corn field was longing for water.</td></tr><tr><td></td><td>The postman and the postmaster laughed at Lencho&#x27;s letter but were surprised by the faith of the man.</td></tr></table>
 
 1076CH01
 
-|    | He wrote a letter to God asking for a hundred pesos to sow his field again and to survive until the next crop came up.                                                                                                                                                |
-|----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    | After some days, Lencho went to the post office to receive the money as the postmaster watched him.                                                                                                                                                                   |
-|    | He immediately went to the counter and asked for a pen and paper, wrote a few lines and posted the letter.                                                                                                                                                            |
-|    | Lencho, his wife, and their children lived in a lonely house in a valley.                                                                                                                                                                                             |
-|    | When the postmaster opened the letter, it said "Oh! Thanks for sending the money. But I have received only seventy pesos. Next time you please send the money directly to me. The people at the post office are a bunch of crooks. They have taken the thirty pesos." |
-|    | He opened the letter and was happy to find the money. He counted and found it was only seventy pesos.                                                                                                                                                                 |
-|    | The postmaster collected about 70 pesos from his colleagues and sent it to Lencho.                                                                                                                                                                                    |
+<table><tr><td></td><td>He wrote a letter to God asking for a hundred pesos to sow his field again and to survive until the next crop came up.</td></tr><tr><td></td><td>After some days, Lencho went to the post office to receive the money as the postmaster watched him.</td></tr><tr><td></td><td>He immediately went to the counter and asked for a pen and paper, wrote a few lines and posted the letter.</td></tr><tr><td></td><td>Lencho, his wife, and their children lived in a lonely house in a valley.</td></tr><tr><td></td><td>When the postmaster opened the letter, it said “Oh! Thanks for sending the money. But I have received only seventy pesos. Next time you please send the money directly to me. The people at the post office are a bunch of crooks. They have taken the thirty pesos.”</td></tr><tr><td></td><td>He opened the letter and was happy to find the money. He counted and found it was only seventy pesos.</td></tr><tr><td></td><td>The postmaster collected about 70 pesos from his colleagues and sent it to Lencho.</td></tr></table>
 
 Create a graphic description based on the given summary of ‘A Letter to God’.
 
@@ -501,17 +487,16 @@ light-headed, light year, light-hearted, light sleeper, light-duty
 
 1. You have come across Relative Clauses in the lesson ‘A Letter to God’. Read about the relative clauses again. Complete the sentences given below in the table by adding the most suitable clause from the box and make it a relative clause. The first one has been done for you.
 
-| contains meaning of words
- stitches clothes
- tell lies
- won the best actor award this year
- hit a century
- is faithful   | need to fill in the application
- is a crook
- help themselves
- won the Nobel prize
- believe in hard work   |
-|--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+<table><tr><td>contains meaning of words
+stitches clothes
+tell lies
+won the best actor award this year
+hit a century
+is faithful</td><td>need to fill in the application
+is a crook
+help themselves
+won the Nobel prize
+believe in hard work</td></tr></table>
 
 (a) A tailor is a person who stitches clothes.   
 (b) A dictionary is a book   
@@ -666,27 +651,11 @@ Norman Littleford
 
 1. The tailor here is a cheat, but Lencho in the story, ‘A Letter to God’, is naive and simple. He has immense faith in God. How do you distinguish between Lencho and the tailor? What makes them different? Working in pairs, list the actions and qualities of Lencho and the tailor and draw their character sketches.
 
-| Action: What does the person do?                              | What quality it reveals?      |
-|---------------------------------------------------------------|-------------------------------|
-| Lencho lost all his crops.                                    | He is helpless. Prays to God. |
-| How does he manage the situation?                             | ___________                   |
-| Does he harm anyone by his action?                            | ___________                   |
-| How do others think of him?                                   | ___________                   |
-| What is your judgement of him?                                | ___________                   |
-| He received 70 pesos and he thought 30 pesos had been stolen. | ___________                   |
+<table><tr><td>Action: What does the person do?</td><td>What quality it reveals?</td></tr><tr><td>Lencho lost all his crops.</td><td>He is helpless. Prays to God.</td></tr><tr><td>How does he manage the situation?</td><td>___________</td></tr><tr><td>Does he harm anyone by his action?</td><td>___________</td></tr><tr><td>How do others think of him?</td><td>___________</td></tr><tr><td>What is your judgement of him?</td><td>___________</td></tr><tr><td>He received 70 pesos and he thought 30 pesos had been stolen.</td><td>___________</td></tr></table>
 
 Now, write the character sketch of Lencho and the tailor.
 
-| Lencho   | The tailor   |
-|----------|--------------|
-|          |              |
-|          |              |
-|          |              |
-|          |              |
-|          |              |
-|          |              |
-|          |              |
-|          |              |
+<table><tr><td>Lencho</td><td>The tailor</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></table>
 
 # 2. Writing a portrait or description of a person
 
@@ -728,16 +697,8 @@ Now, write a description of any one of the above based on the details given. You
 
 below gives you ideas on how the Process Approach is helpful for improving your writing.
 
-| Writing: The Process Approach   | Writing: The Process Approach                                                                                                          |
-|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| The processes                   | What do you do?                                                                                                                        |
-| Brainstorming                   | Note down as many ideas as you can about a given topic. Then arrange the ideas in a sequence.                                          |
-| Outlining                       | Create an outline of your writing-
-   which ideas will go first, how will they be supported by evidence, will there be a picture, etc. |
-| Drafting                        | Write the first draft; here the focus is on the content and not the form.                                                              |
-| Revising                        | Revise the first draft, improve it. Add or delete ideas and improve the language.                                                      |
-| Proofreading                    | Proofread the draft with the help of the teacher; here the focus is on the form and not the content.                                   |
-| Final draft                     | Write the final draft now.                                                                                                             |
+<table><tr><td colspan="2">Writing: The Process Approach</td></tr><tr><td>The processes</td><td>What do you do?</td></tr><tr><td>Brainstorming</td><td>Note down as many ideas as you can about a given topic. Then arrange the ideas in a sequence.</td></tr><tr><td>Outlining</td><td>Create an outline of your writing—
+  which ideas will go first, how will they be supported by evidence, will there be a picture, etc.</td></tr><tr><td>Drafting</td><td>Write the first draft; here the focus is on the content and not the form.</td></tr><tr><td>Revising</td><td>Revise the first draft, improve it. Add or delete ideas and improve the language.</td></tr><tr><td>Proofreading</td><td>Proofread the draft with the help of the teacher; here the focus is on the form and not the content.</td></tr><tr><td>Final draft</td><td>Write the final draft now.</td></tr></table>
 
 Raavi/Mohini
 
@@ -777,7 +738,7 @@ Having collected the required data, information and ideas, plan and organise the
 
 # UNIT 2
 
-# Nelson Mandela: Long Walk to Freedom
+# Nelson Man dela: Lon g Walk to Freedom
 
 # Let’s Begin
 
@@ -909,14 +870,7 @@ Idi om Break the ice: to end a conflict or commence a friendship
 
 2. Sardar Patel called upon young students to understand the meaning of freedom and ways to sustain it. Here are two key words which he stressed upon—‘Freedom’ and ‘Responsibility’. Working in pairs, find words and phrases which convey the feeling of these words and write below.
 
-| Freedom   | Responsibility   |
-|-----------|------------------|
-|           |                  |
-|           |                  |
-|           |                  |
-|           |                  |
-|           |                  |
-|           |                  |
+<table><tr><td>Freedom</td><td>Responsibility</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></table>
 
 You may have written above at least seven to eight words for each key word. Using the words write at least five sentences describing ‘Freedom’ and ‘Responsibility’. One has been done for you.
 
@@ -1025,38 +979,15 @@ A few minutes ago, walking back from lunch, I started to cross the street when I
 
 For interviewer   
 
-|   S. No. | Questions to be framed   |
-|----------|--------------------------|
-|        1 |                          |
-|        2 |                          |
-|        3 |                          |
-|        4 |                          |
-|        5 |                          |
+<table><tr><td>S. No.</td><td>Questions to be framed</td></tr><tr><td>1</td><td></td></tr><tr><td>2</td><td></td></tr><tr><td>3</td><td></td></tr><tr><td>4</td><td></td></tr><tr><td>5</td><td></td></tr></table>
 
 For interviewee   
 
-|   S. No. | Answers by the Interviewee   |
-|----------|------------------------------|
-|        1 |                              |
-|        2 |                              |
-|        3 |                              |
-|        4 |                              |
-|        5 |                              |
+<table><tr><td>S. No.</td><td>Answers by the Interviewee</td></tr><tr><td>1</td><td></td></tr><tr><td>2</td><td></td></tr><tr><td>3</td><td></td></tr><tr><td>4</td><td></td></tr><tr><td>5</td><td></td></tr></table>
 
 2. Make groups of four and find out the background information on Nelson Mandela, Mahatma Gandhi, and Martin Luther King. All three of them fought against all odds and used non-violence to achieve their aim. Choose any two of the above stated leaders and do a comparative study of their principles and lives.
 
-|   S. No. | Leader 1:   | Leader 2:   |
-|----------|-------------|-------------|
-|        1 |             |             |
-|        2 |             |             |
-|        3 |             |             |
-|        4 |             |             |
-|        5 |             |             |
-|        6 |             |             |
-|        7 |             |             |
-|        8 |             |             |
-|        9 |             |             |
-|       10 |             |             |
+<table><tr><td>S. No.</td><td>Leader 1:</td><td>Leader 2:</td></tr><tr><td>1</td><td></td><td></td></tr><tr><td>2</td><td></td><td></td></tr><tr><td>3</td><td></td><td></td></tr><tr><td>4</td><td></td><td></td></tr><tr><td>5</td><td></td><td></td></tr><tr><td>6</td><td></td><td></td></tr><tr><td>7</td><td></td><td></td></tr><tr><td>8</td><td></td><td></td></tr><tr><td>9</td><td></td><td></td></tr><tr><td>10</td><td></td><td></td></tr></table>
 
 # Project
 
@@ -1073,7 +1004,7 @@ For interviewee
 
 # UNIT 3
 
-# Two Stories about Flying
+# Two St ories about Flying
 
 # Let’s Begin
 
@@ -1120,11 +1051,7 @@ You have read two stories about flying. ‘His First Flight’ is about how a yo
 
 2.	 You have another story, ‘The Black Aeroplane’ in the lesson. Read the story again and develop at least five multiple choice questions based on the story. Work in pairs and ask your partner to answer them. The questions may be based on the events, persons, reasons and causes of the events, and results in the story.
 
-|   Your questions |
-|------------------|
-|                1 |
-|                2 |
-|                3 |
+<table><tr><td>Your questions</td></tr><tr><td>1.</td></tr><tr><td>2.</td></tr><tr><td>3.</td></tr></table>
 
 4.
 
@@ -1211,21 +1138,11 @@ I am working on the book since Thursday.
 
 Can you meet me during tea time.
 
-|   1. mobile-immobile |   2. |
-|----------------------|------|
-|                    3 |    4 |
-|                    5 |    6 |
-|                    7 |    8 |
+<table><tr><td>1. mobile—immobile</td><td>2.</td></tr><tr><td>3.</td><td>4.</td></tr><tr><td>5.</td><td>6.</td></tr><tr><td>7.</td><td>8.</td></tr></table>
 
 # 3.	 In groups of five, create a word-web or collocation chart of words with prefixes ‘il’ and ‘in’ .
 
-|   Example: logical-illogical |   Example: secure-insecure |
-|------------------------------|----------------------------|
-|                            1 |                          1 |
-|                            2 |                          2 |
-|                            3 |                          3 |
-|                            4 |                          4 |
-|                            5 |                          5 |
+<table><tr><td>Example: logical—illogical</td><td>Example: secure—insecure</td></tr><tr><td>1.</td><td>1.</td></tr><tr><td>2.</td><td>2.</td></tr><tr><td>3.</td><td>3.</td></tr><tr><td>4.</td><td>4.</td></tr><tr><td>5.</td><td>5.</td></tr></table>
 
 # Grammar
 
@@ -1749,7 +1666,6 @@ Lagan Nu Custard
 ![](images/aaeec74c4fb69617a50c75dd365e886b4521e47de36a43d72f0a7f1f96a29f46.jpg)  
 Ravo
 
-![](images/60d562baccac2e4f289ac30815e7e67ba9dc58145e85627bcdd9546d72979e66.jpg)  
 Parsi Malido
 
 ![](images/b5a63e4c36df9d01016813e040d98a14b89471a780592952796efa7ec3e67baf.jpg)  
@@ -1997,14 +1913,7 @@ Our railways have undergone magical transformation since independence from elect
 
 3. Mijbil is an active animal who shows many emotions. Refer to the chapter and complete the following Table.
 
-| What Mijbil Does           | How Mijbil feels       |
-|----------------------------|------------------------|
-| 1. Plunges, rolls in water | 1. Goes wild with joy. |
-| 2.                         | 2.                     |
-| 3.                         | 3.                     |
-| 4.                         | 4.                     |
-| 5.                         | 5.                     |
-| 6.                         | 6.                     |
+<table><tr><td>What Mijbil Does</td><td>How Mijbil feels</td></tr><tr><td>1. Plunges, rolls in water</td><td>1. Goes wild with joy.</td></tr><tr><td>2.</td><td>2.</td></tr><tr><td>3.</td><td>3.</td></tr><tr><td>4.</td><td>4.</td></tr><tr><td>5.</td><td>5.</td></tr><tr><td>6.</td><td>6.</td></tr></table>
 
 # Look Up and Understand
 
@@ -2374,40 +2283,38 @@ What animals can be exported or imported under law? (Customs seizures show a var
 (a) Name of the pet and draw the animal on a chart paper.   
 (b) My pet: (Make a table like the following and write its specifications)
 
-| has                                                                                                                                          | can                                                                                                                                                                                                   | is                                                                                                                                                                     |
-|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| For example: 
- webbed feet, 
- long legs. fat 
- legs, etc. 
- heavy body, 
- very light 
- weight, soft 
- fur, feather, 
- sense of 
- smell, etc. | Swim, fly, run, 
- grow tall, small 
- size, 
- hunt, carry 
- weight, guard the 
- house, etc. 
- communicate, 
- sing, speak, make 
- variety of sounds 
- to communicate, 
- show affection, 
- emotion, etc. | Warm-blooded, 
- mammal, good 
- swimmer, 
- largest animal, 
- smallest 
- animal, good 
- hunter, etc. 
- sensitive, 
- ferocious, short 
- tempered, 
- docile, smart, 
- etc. |
+<table><tr><td>has</td><td>can</td><td>is</td></tr><tr><td>For example: 
+webbed feet, 
+long legs. fat 
+legs, etc. 
+heavy body, 
+very light 
+weight, soft 
+fur, feather, 
+sense of 
+smell, etc.</td><td>Swim, fly, run, 
+grow tall, small 
+size, 
+hunt, carry 
+weight, guard the 
+house, etc. 
+communicate, 
+sing, speak, make 
+variety of sounds 
+to communicate, 
+show affection, 
+emotion, etc.</td><td>Warm-blooded, 
+mammal, good 
+swimmer, 
+largest animal, 
+smallest 
+animal, good 
+hunter, etc. 
+sensitive, 
+ferocious, short 
+tempered, 
+docile, smart, 
+etc.</td></tr></table>
 
 (c) What all do you have to do to keep the animal with you at home? (You can refer to the dos and don’ts given on page no. 102 of the textbook First Flight.)   
 (d) Prepare a write up, share it in the class, and put it on the wall for the class to read.
@@ -2548,10 +2455,9 @@ The verbs picked and get are combined with up and on respectively. Together they
 
 Now, complete each sentence using a verb from box A and a word from box B (by making a phrasal verb). Use the correct form of the verb wherever necessary.
 
-| A
- break, drive, get, fill, wake, turn   | B
- out, down, off, on, in, up   |
-|------------------------------------------|---------------------------------|
+<table><tr><td>A
+break, drive, get, fill, wake, turn</td><td>B
+out, down, off, on, in, up</td></tr></table>
 
 (a) It was evening. She _ the light.   
 (b) Do not Ramesh. He was studying late at night yesterday.   
@@ -3320,13 +3226,7 @@ Q.6. How, as a student, will you create a new world?
 
 1. Some verbs are given below. Write their nouns and adverb forms in the space provided.
 
-| VERB      | NOUN   | ADVERB   |
-|-----------|--------|----------|
-| encourage |        |          |
-| excite    |        |          |
-| trouble   |        |          |
-| beautify  |        |          |
-| tremble   |        |          |
+<table><tr><td>VERB</td><td>NOUN</td><td>ADVERB</td></tr><tr><td>encourage</td><td></td><td></td></tr><tr><td>excite</td><td></td><td></td></tr><tr><td>trouble</td><td></td><td></td></tr><tr><td>beautify</td><td></td><td></td></tr><tr><td>tremble</td><td></td><td></td></tr></table>
 
 # Grammar
 
@@ -3523,8 +3423,7 @@ Vanka
 
 1. Suppose you were asked to find a groom or a bride for a member of your family. What characteristics would you look for in them? Make a list.
 
-|    |    |
-|----|----|
+<table><tr><td></td><td></td></tr></table>
 
 You can also talk to them to know what they think their partner must possess.
 
@@ -3532,67 +3431,10 @@ You can also talk to them to know what they think their partner must possess.
 
 Proofreading symbols generally in use have been strongly influenced by the British Standard’s Institution’s BS 5261 Part 2: 1976 and supplements. The most common are included here.
 
-| Instruction                                                                                                   | Textual mark                                                                       | Marginal mark                                                                                                       |
-|---------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Correction is concluded                                                                                       | None                                                                               | /                                                                                                                   |
-| Insert in text the matter indicated in the margin                                                             | /                                                                                  | New matter followed by /                                                                                            |
-| Insert additional matter identified by a letter in a diamond                                                  | / Followed by, e.g. /                                                              | The relevant section of the copy should be supplied with the corresponding letter marked on it in a diamond, e.g. / |
-| Delete                                                                                                        | / through character(s) or &#124;--&#124; through words to be deleted               | / or /                                                                                                              |
-| Close up and delete space between characters or words                                                         | linking characters                                                                 | /                                                                                                                   |
-| Delete and close up                                                                                           | / through character or &#124;--&#124; through characters, e.g. character character | / or /                                                                                                              |
-| Substitute character or substitute part of one or more word(s)                                                | / through character or &#124;--&#124; through word(s)                              | New character or new word(s) followed by /                                                                          |
-| Substitute or insert full point or decimal point                                                              | / or / through character where required                                            | / or /                                                                                                              |
-| Substitute or insert colon                                                                                    | / or / through character where required                                            | / or /                                                                                                              |
-| Substitute or insert semicolon                                                                                | / or / through character where required                                            | ; / or ; /                                                                                                          |
-| Substitute or insert comma                                                                                    | / or / through character where required                                            | , / or , or ;                                                                                                       |
-| Substitute or insert solidus (oblique)                                                                        | / or / through character where required                                            | /                                                                                                                   |
-| Substitute or insert character in superior (superscript) position                                             | / or / through character where required                                            | / or / under character e.g. / or /                                                                                  |
-| Substitute or insert character in inferior (subscript) position                                               | / or / through character where required                                            | / or / over character e.g. /                                                                                        |
-| Substitute or insert opening or closing parenthesis, square bracket, or curly brace                           | / or / through character where required                                            | (/ ) or / /, [ / ], or { / }                                                                                        |
-| Substitute or insert hyphen                                                                                   | / or / through character where required                                            | / or = or / /                                                                                                       |
-| Substitute or insert rule                                                                                     | / or / through character, e.g. /em                                                 | Give the size of rule in marginal mark &#124;em &#124; 4mm &#124;                                                   |
-| Set in or change to bold type                                                                                 | ~ under character(s) to be set or changed                                          | bold or bf or ~                                                                                                     |
-| Set in or change to bold italic type                                                                          | ~ under character(s) to be set or changed                                          | bold or bfital or LL                                                                                                |
-| Set in or change to italic                                                                                    | ~ under character(s) to be set or changed                                          | ital or LL                                                                                                          |
-| Change italic to upright (roman) type                                                                         | Encircle character(s) to be changed                                                | rom or ↓                                                                                                            |
-| Set in or change to capital letters                                                                           | ~ under character(s) to be set or changed                                          | cap or ≡                                                                                                            |
-| Change capital letters to lower-case letters                                                                  | Encircle character(s) to be changed                                                | lc or ≡                                                                                                             |
-| Spell out number or abbreviation                                                                              | Encircle matter to be changed /38pp                                                | sp                                                                                                                  |
-| Set in or change to small capital letters                                                                     | ~ under character(s) to be set or changed                                          | sc or sCap or =                                                                                                     |
-| Set in or change to capital letters for initial letters and small capital letters for the rest of the word(s) | ~ under initial letters and ~ under rest of the word(s)                            | ~ where space does not permit textual marks, encircle the affected area instead                                     |
+<table><tr><td>Instruction</td><td>Textual mark</td><td>Marginal mark</td></tr><tr><td>Correction is concluded</td><td>None</td><td>/</td></tr><tr><td>Insert in text the matter indicated in the margin</td><td>/</td><td>New matter followed by /</td></tr><tr><td>Insert additional matter identified by a letter in a diamond</td><td>/ Followed by, e.g. /</td><td>The relevant section of the copy should be supplied with the corresponding letter marked on it in a diamond, e.g. /</td></tr><tr><td>Delete</td><td>/ through character(s) or |——| through words to be deleted</td><td>/ or /</td></tr><tr><td>Close up and delete space between characters or words</td><td>linking characters</td><td>/</td></tr><tr><td>Delete and close up</td><td>/ through character or |——| through characters, e.g. character character</td><td>/ or /</td></tr><tr><td>Substitute character or substitute part of one or more word(s)</td><td>/ through character or |——| through word(s)</td><td>New character or new word(s) followed by /</td></tr><tr><td>Substitute or insert full point or decimal point</td><td>/ or / through character where required</td><td>/ or /</td></tr><tr><td>Substitute or insert colon</td><td>/ or / through character where required</td><td>/ or /</td></tr><tr><td>Substitute or insert semicolon</td><td>/ or / through character where required</td><td>; / or ; /</td></tr><tr><td>Substitute or insert comma</td><td>/ or / through character where required</td><td>, / or , or ;</td></tr><tr><td>Substitute or insert solidus (oblique)</td><td>/ or / through character where required</td><td>/</td></tr><tr><td>Substitute or insert character in superior (superscript) position</td><td>/ or / through character where required</td><td>/ or / under character e.g. / or /</td></tr><tr><td>Substitute or insert character in inferior (subscript) position</td><td>/ or / through character where required</td><td>/ or / over character e.g. /</td></tr><tr><td>Substitute or insert opening or closing parenthesis, square bracket, or curly brace</td><td>/ or / through character where required</td><td>(/ ) or / /, [ / ], or { / }</td></tr><tr><td>Substitute or insert hyphen</td><td>/ or / through character where required</td><td>/ or = or / /</td></tr><tr><td>Substitute or insert rule</td><td>/ or / through character, e.g. /em</td><td>Give the size of rule in marginal mark |em | 4mm |</td></tr><tr><td>Set in or change to bold type</td><td>~ under character(s) to be set or changed</td><td>bold or bf or ~</td></tr><tr><td>Set in or change to bold italic type</td><td>~ under character(s) to be set or changed</td><td>bold or bfital or LL</td></tr><tr><td>Set in or change to italic</td><td>~ under character(s) to be set or changed</td><td>ital or LL</td></tr><tr><td>Change italic to upright (roman) type</td><td>Encircle character(s) to be changed</td><td>rom or ↓</td></tr><tr><td>Set in or change to capital letters</td><td>~ under character(s) to be set or changed</td><td>cap or ≡</td></tr><tr><td>Change capital letters to lower-case letters</td><td>Encircle character(s) to be changed</td><td>lc or ≡</td></tr><tr><td>Spell out number or abbreviation</td><td>Encircle matter to be changed /38pp</td><td>sp</td></tr><tr><td>Set in or change to small capital letters</td><td>~ under character(s) to be set or changed</td><td>sc or sCap or =</td></tr><tr><td>Set in or change to capital letters for initial letters and small capital letters for the rest of the word(s)</td><td>~ under initial letters and ~ under rest of the word(s)</td><td>~ where space does not permit textual marks, encircle the affected area instead</td></tr></table>
 
 Note:   
 
-| Instruction                                                                | Textual mark                                                   | Marginal mark                                                                                                                                                                      |
-|----------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Change small capital letters to lower-case letters                         | Encircle character(s) to be changed                            | lc or ≠                                                                                                                                                                            |
-| Start new paragraph                                                        | ~                                                              | NP or ~ or !                                                                                                                                                                       |
-| Run on (no new paragraph)                                                  | ~                                                              | ~ or ~                                                                                                                                                                             |
-| Transpose characters or words                                              | ~ between characters or words, numbered when necessary         | trs or tr or ~                                                                                                                                                                     |
-| Transpose lines                                                            | ~                                                              | trs or tr or ~                                                                                                                                                                     |
-| Invert type                                                                | Encircle character to be inverted                              | ~                                                                                                                                                                                  |
-| Transpose a number of lines                                                | ~ ③ ~ ② ~ ①                                                    | To be used when the sequence cannot be clearly indicated otherwise. Rules extend from the margin into the text, with each line to be transplanted numbered in the correct sequence |
-| Centre                                                                     | [ ] or [ enclosing matter to be centred ]                      |                                                                                                                                                                                    |
-| Insert space between characters                                            | &#124; between characters affected                             | ~ or #                                                                                                                                                                             |
-| Insert space between words                                                 | &#124; between words affected                                  | ~ or (more#)                                                                                                                                                                       |
-| Reduce space between characters                                            | &#124; between characters affected                             | ~ or (less #)                                                                                                                                                                      |
-| Reduce space between words                                                 | &#124; between words affected                                  | ~                                                                                                                                                                                  |
-| Equalize space between characters or words                                 | &#124; between characters or words affected                    | ~ or (eq #)                                                                                                                                                                        |
-| Close up to normal interlinear spacing                                     | ( each side of column linking lines )                          |                                                                                                                                                                                    |
-| Insert space between lines or paragraphs                                   | ~ or ~                                                         | The marginal mark extends between the lines of text. Give the size of the space to be inserted if necessary                                                                        |
-| Reduce space between lines or paragraphs                                   | ~ or ~                                                         | The marginal mark extends between the lines of text. Give the amount by which the space is to be reduced if necessary                                                              |
-| Take over character(s), word(s), or line to next line, column, or page     | ~                                                              | The textual mark surrounds the matter to be taken over and extends into the margin                                                                                                 |
-| Take back character(s), word(s), or line to previous line, column, or page | ~                                                              | The textual mark surrounds the matter to be taken back and extends into the margin                                                                                                 |
-| Insert or substitute em space, en space, or thin space                     | □ (em), □ (en), ‡ or ⌊(thin)                                   | □ (em), □ (en), ‡ or ⌊(thin)                                                                                                                                                       |
-| Indent                                                                     | ~                                                              | ~                                                                                                                                                                                  |
-| Cancel indent                                                              | ~                                                              | ~                                                                                                                                                                                  |
-| Move matter specified distance to the right                                | enclosing matter to be moved to the right                      | ~                                                                                                                                                                                  |
-| Move matter specified distance to the left                                 | enclosing matter to be the left                                | ~                                                                                                                                                                                  |
-| Correct vertical alignment                                                 | &#124;&#124;                                                   | &#124;&#124; or align                                                                                                                                                              |
-| Correct horizontal alignment                                               | Single line above and below misaligned matter, e.g. misaligned | = or align                                                                                                                                                                         |
-| Correction made in error. Leave unchanged                                  | under characters to remain                                     | ~ or (stet)                                                                                                                                                                        |
-| Remove extraneous mark(s) or replace damaged character(s)                  | Encircle mark(s) to be removed or character(s) to be changed   | ×                                                                                                                                                                                  |
-| Wrong font. Replace by character(s) of correct font                        | Encircle character(s) to be changed                            | × or wf                                                                                                                                                                            |
-| Refer to appropriate authority anything of doubtful accuracy               | Encircle word(s) affected                                      | ?                                                                                                                                                                                  |
+<table><tr><td>Instruction</td><td>Textual mark</td><td>Marginal mark</td></tr><tr><td>Change small capital letters to lower-case letters</td><td>Encircle character(s) to be changed</td><td>lc or ≠</td></tr><tr><td>Start new paragraph</td><td>~</td><td>NP or ~ or !</td></tr><tr><td>Run on (no new paragraph)</td><td>~</td><td>~ or ~</td></tr><tr><td>Transpose characters or words</td><td>~ between characters or words, numbered when necessary</td><td>trs or tr or ~</td></tr><tr><td>Transpose lines</td><td>~</td><td>trs or tr or ~</td></tr><tr><td>Invert type</td><td>Encircle character to be inverted</td><td>~</td></tr><tr><td>Transpose a number of lines</td><td>~ ③ ~ ② ~ ①</td><td>To be used when the sequence cannot be clearly indicated otherwise. Rules extend from the margin into the text, with each line to be transplanted numbered in the correct sequence</td></tr><tr><td>Centre</td><td>[ ] or [ enclosing matter to be centred ]</td><td></td></tr><tr><td>Insert space between characters</td><td>| between characters affected</td><td>~ or #</td></tr><tr><td>Insert space between words</td><td>| between words affected</td><td>~ or (more#)</td></tr><tr><td>Reduce space between characters</td><td>| between characters affected</td><td>~ or (less #)</td></tr><tr><td>Reduce space between words</td><td>| between words affected</td><td>~</td></tr><tr><td>Equalize space between characters or words</td><td>| between characters or words affected</td><td>~ or (eq #)</td></tr><tr><td>Close up to normal interlinear spacing</td><td>( each side of column linking lines )</td><td></td></tr><tr><td>Insert space between lines or paragraphs</td><td>~ or ~</td><td>The marginal mark extends between the lines of text. Give the size of the space to be inserted if necessary</td></tr><tr><td>Reduce space between lines or paragraphs</td><td>~ or ~</td><td>The marginal mark extends between the lines of text. Give the amount by which the space is to be reduced if necessary</td></tr><tr><td>Take over character(s), word(s), or line to next line, column, or page</td><td>~</td><td>The textual mark surrounds the matter to be taken over and extends into the margin</td></tr><tr><td>Take back character(s), word(s), or line to previous line, column, or page</td><td>~</td><td>The textual mark surrounds the matter to be taken back and extends into the margin</td></tr><tr><td>Insert or substitute em space, en space, or thin space</td><td>□ (em), □ (en), ‡ or ⌊(thin)</td><td>□ (em), □ (en), ‡ or ⌊(thin)</td></tr><tr><td>Indent</td><td>~</td><td>~</td></tr><tr><td>Cancel indent</td><td>~</td><td>~</td></tr><tr><td>Move matter specified distance to the right</td><td>enclosing matter to be moved to the right</td><td>~</td></tr><tr><td>Move matter specified distance to the left</td><td>enclosing matter to be the left</td><td>~</td></tr><tr><td>Correct vertical alignment</td><td>||</td><td>|| or align</td></tr><tr><td>Correct horizontal alignment</td><td>Single line above and below misaligned matter, e.g. misaligned</td><td>= or align</td></tr><tr><td>Correction made in error. Leave unchanged</td><td>under characters to remain</td><td>~ or (stet)</td></tr><tr><td>Remove extraneous mark(s) or replace damaged character(s)</td><td>Encircle mark(s) to be removed or character(s) to be changed</td><td>×</td></tr><tr><td>Wrong font. Replace by character(s) of correct font</td><td>Encircle character(s) to be changed</td><td>× or wf</td></tr><tr><td>Refer to appropriate authority anything of doubtful accuracy</td><td>Encircle word(s) affected</td><td>?</td></tr></table>
 
 # Notes

@@ -327,21 +327,10 @@ Ploughing along the contour lines can decelerate the flow of water down the slop
 (v) Plantation of trees on a large scale to check soil erosion.   
 (vi) The Great Plains of India are made up of these soils.
 
-| S   | F   | G   | S   | F   | O   | B   | R   | O   | M   | S   | U   | A   | P   | J   |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| Q   | G   | A   | F   | F   | O   | R   | E   | S   | T   | A   | T   | I   | O   | N   |
-| P   | N   | R   | E   | C   | P   | R   | S   | L   | D   | M   | I   | L   | N   | F   |
-| S   | N   | A   | T   | Q   | X   | U   | O   | V   | A   | I   | O   | L   | A   | L   |
-| O   | D   | E   | I   | D   | R   | J   | U   | J   | L   | D   | B   | N   | B   | D   |
-| T   | G   | H   | M   | I   | N   | E   | R   | A   | L   | S   | A   | X   | M   | W   |
-| B   | V   | J   | K   | M   | E   | D   | C   | R   | U   | P   | F   | M   | H   | R   |
-| L   | A   | T   | E   | R   | I   | T   | E   | M   | V   | A   | Z   | T   | V   | L   |
-| A   | B   | Z   | O   | E   | N   | M   | F   | T   | I   | S   | D   | L   | R   | C   |
-| C   | G   | N   | N   | S   | Z   | I   | O   | P   | A   | X   | T   | Y   | J   | H   |
-| K   | J   | G   | K   | D   | T   | D   | C   | S   | L   | S   | E   | G   | E   | W   |
+<table><tr><td>S</td><td>F</td><td>G</td><td>S</td><td>F</td><td>O</td><td>B</td><td>R</td><td>O</td><td>M</td><td>S</td><td>U</td><td>A</td><td>P</td><td>J</td></tr><tr><td>Q</td><td>G</td><td>A</td><td>F</td><td>F</td><td>O</td><td>R</td><td>E</td><td>S</td><td>T</td><td>A</td><td>T</td><td>I</td><td>O</td><td>N</td></tr><tr><td>P</td><td>N</td><td>R</td><td>E</td><td>C</td><td>P</td><td>R</td><td>S</td><td>L</td><td>D</td><td>M</td><td>I</td><td>L</td><td>N</td><td>F</td></tr><tr><td>S</td><td>N</td><td>A</td><td>T</td><td>Q</td><td>X</td><td>U</td><td>O</td><td>V</td><td>A</td><td>I</td><td>O</td><td>L</td><td>A</td><td>L</td></tr><tr><td>O</td><td>D</td><td>E</td><td>I</td><td>D</td><td>R</td><td>J</td><td>U</td><td>J</td><td>L</td><td>D</td><td>B</td><td>N</td><td>B</td><td>D</td></tr><tr><td>T</td><td>G</td><td>H</td><td>M</td><td>I</td><td>N</td><td>E</td><td>R</td><td>A</td><td>L</td><td>S</td><td>A</td><td>X</td><td>M</td><td>W</td></tr><tr><td>B</td><td>V</td><td>J</td><td>K</td><td>M</td><td>E</td><td>D</td><td>C</td><td>R</td><td>U</td><td>P</td><td>F</td><td>M</td><td>H</td><td>R</td></tr><tr><td>L</td><td>A</td><td>T</td><td>E</td><td>R</td><td>I</td><td>T</td><td>E</td><td>M</td><td>V</td><td>A</td><td>Z</td><td>T</td><td>V</td><td>L</td></tr><tr><td>A</td><td>B</td><td>Z</td><td>O</td><td>E</td><td>N</td><td>M</td><td>F</td><td>T</td><td>I</td><td>S</td><td>D</td><td>L</td><td>R</td><td>C</td></tr><tr><td>C</td><td>G</td><td>N</td><td>N</td><td>S</td><td>Z</td><td>I</td><td>O</td><td>P</td><td>A</td><td>X</td><td>T</td><td>Y</td><td>J</td><td>H</td></tr><tr><td>K</td><td>J</td><td>G</td><td>K</td><td>D</td><td>T</td><td>D</td><td>C</td><td>S</td><td>L</td><td>S</td><td>E</td><td>G</td><td>E</td><td>W</td></tr></table>
 
 # Chapter 2
-# FOREST AND WILD LIFE RESOURCE
+# FOREST AND WILPLIFE RESOURCE
 
 ![](images/f132d544746430a867b77cbdbd6c5ae24fcfc439d0e67f292f2097dfbd6a64ff.jpg)
 
@@ -510,7 +499,7 @@ forest lands are protected from any further depletion
 (i) Describe how communities have conserved and protected forests and wildlife in India?   
 (ii) Write a note on good practices towards conserving forest and wildlife.
 
-# Chapter 3
+# chapter 3
 # WATER RESOURCES
 
 ![](images/bb476625ae3377e4e178d485d5536e40b323ea6d26efa3787e22bcb20d1f1805.jpg)
@@ -1089,23 +1078,7 @@ Suddenly, Shri Ram Chandra Reddy stood up and offered 80 acres of land to be dis
 
 Solve the puzzle by following your search horizontally and vertically to find the hidden answers.
 
-| A   | Z   | M   | X   | N   | C   | B   | V   | N   | X   | A   | H   | D   | Q   |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| S   | D   | E   | W   | S   | R   | J   | D   | Q   | J   | Z   | V   | R   | E   |
-| D   | K   | H   | A   | R   | I   | F   | G   | W   | F   | M   | R   | F   | W   |
-| F   | N   | L   | R   | G   | C   | H   | H   | R   | S   | B   | S   | V   | T   |
-| G   | B   | C   | W   | H   | E   | A   | T   | Y   | A   | C   | H   | B   | R   |
-| H   | R   | T   | K   | A   | S   | S   | E   | P   | H   | X   | A   | N   | W   |
-| J   | I   | E   | S   | J   | O   | W   | A   | R   | J   | Z   | H   | D   | T   |
-| K   | C   | L   | A   | E   | G   | A   | C   | O   | F   | F   | E   | E   | Y   |
-| L   | T   | E   | F   | Y   | M   | T   | A   | T   | S   | S   | R   | G   | I   |
-| P   | D   | E   | J   | O   | U   | Y   | V   | E   | J   | G   | F   | A   | U   |
-| O   | U   | M   | H   | Q   | S   | U   | D   | I   | T   | S   | W   | S   | P   |
-| U   | O   | A   | C   | O   | T   | T   | O   | N   | E   | A   | H   | F   | O   |
-| Y   | O   | L   | F   | L   | U   | S   | R   | Q   | Q   | D   | T   | W   | I   |
-| T   | M   | U   | A   | H   | R   | G   | Y   | K   | T   | R   | A   | B   | F   |
-| E   | A   | K   | D   | G   | D   | Q   | H   | S   | U   | O   | I   | W   | H   |
-| W   | Q   | Z   | C   | X   | V   | B   | N   | M   | K   | J   | A   | S   | L   |
+<table><tr><td>A</td><td>Z</td><td>M</td><td>X</td><td>N</td><td>C</td><td>B</td><td>V</td><td>N</td><td>X</td><td>A</td><td>H</td><td>D</td><td>Q</td></tr><tr><td>S</td><td>D</td><td>E</td><td>W</td><td>S</td><td>R</td><td>J</td><td>D</td><td>Q</td><td>J</td><td>Z</td><td>V</td><td>R</td><td>E</td></tr><tr><td>D</td><td>K</td><td>H</td><td>A</td><td>R</td><td>I</td><td>F</td><td>G</td><td>W</td><td>F</td><td>M</td><td>R</td><td>F</td><td>W</td></tr><tr><td>F</td><td>N</td><td>L</td><td>R</td><td>G</td><td>C</td><td>H</td><td>H</td><td>R</td><td>S</td><td>B</td><td>S</td><td>V</td><td>T</td></tr><tr><td>G</td><td>B</td><td>C</td><td>W</td><td>H</td><td>E</td><td>A</td><td>T</td><td>Y</td><td>A</td><td>C</td><td>H</td><td>B</td><td>R</td></tr><tr><td>H</td><td>R</td><td>T</td><td>K</td><td>A</td><td>S</td><td>S</td><td>E</td><td>P</td><td>H</td><td>X</td><td>A</td><td>N</td><td>W</td></tr><tr><td>J</td><td>I</td><td>E</td><td>S</td><td>J</td><td>O</td><td>W</td><td>A</td><td>R</td><td>J</td><td>Z</td><td>H</td><td>D</td><td>T</td></tr><tr><td>K</td><td>C</td><td>L</td><td>A</td><td>E</td><td>G</td><td>A</td><td>C</td><td>O</td><td>F</td><td>F</td><td>E</td><td>E</td><td>Y</td></tr><tr><td>L</td><td>T</td><td>E</td><td>F</td><td>Y</td><td>M</td><td>T</td><td>A</td><td>T</td><td>S</td><td>S</td><td>R</td><td>G</td><td>I</td></tr><tr><td>P</td><td>D</td><td>E</td><td>J</td><td>O</td><td>U</td><td>Y</td><td>V</td><td>E</td><td>J</td><td>G</td><td>F</td><td>A</td><td>U</td></tr><tr><td>O</td><td>U</td><td>M</td><td>H</td><td>Q</td><td>S</td><td>U</td><td>D</td><td>I</td><td>T</td><td>S</td><td>W</td><td>S</td><td>P</td></tr><tr><td>U</td><td>O</td><td>A</td><td>C</td><td>O</td><td>T</td><td>T</td><td>O</td><td>N</td><td>E</td><td>A</td><td>H</td><td>F</td><td>O</td></tr><tr><td>Y</td><td>O</td><td>L</td><td>F</td><td>L</td><td>U</td><td>S</td><td>R</td><td>Q</td><td>Q</td><td>D</td><td>T</td><td>W</td><td>I</td></tr><tr><td>T</td><td>M</td><td>U</td><td>A</td><td>H</td><td>R</td><td>G</td><td>Y</td><td>K</td><td>T</td><td>R</td><td>A</td><td>B</td><td>F</td></tr><tr><td>E</td><td>A</td><td>K</td><td>D</td><td>G</td><td>D</td><td>Q</td><td>H</td><td>S</td><td>U</td><td>O</td><td>I</td><td>W</td><td>H</td></tr><tr><td>W</td><td>Q</td><td>Z</td><td>C</td><td>X</td><td>V</td><td>B</td><td>N</td><td>M</td><td>K</td><td>J</td><td>A</td><td>S</td><td>L</td></tr></table>
 
 1 . The two staple food crops of India.   
 2 . This is the summer cropping season of India.   
@@ -1919,21 +1892,10 @@ Solve the puzzle by following your search horizontally and vertically to find th
 5 . A public sector steel plant located in Chhattisgarh.   
 6 . Railway diesel engines are manufactured in Uttar Pradesh at this place.
 
-| G   | G   | G   | P   | V   | A   | R   | A   | N   | A   | S   | I   |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| U   | O   | J   | I   | P   | G   | X   | K   | M   | Q   | W   | V   |
-| K   | S   | U   | G   | A   | R   | C   | A   | N   | E   | E   | N   |
-| O   | T   | T   | O   | N   | O   | Z   | V   | O   | P   | T   | R   |
-| A   | U   | E   | L   | U   | B   | H   | I   | L   | A   | I   | U   |
-| T   | K   | O   | C   | R   | A   | Q   | N   | T   | R   | L   | N   |
-| E   | I   | R   | O   | N   | S   | T   | E   | E   | L   | S   | J   |
-| E   | N   | A   | N   | O   | E   | P   | I   | T   | L   | R   | Y   |
-| G   | A   | N   | U   | J   | D   | R   | A   | G   | D   | T   | A   |
-| N   | T   | A   | R   | P   | O   | A   | P   | U   | E   | P   | Y   |
-| A   | S   | N   | A   | E   | N   | J   | D   | I   | Y   | S   | K   |
-| S   | M   | H   | V   | L   | I   | A   | J   | H   | S   | K   | G   |
+<table><tr><td>G</td><td>G</td><td>G</td><td>P</td><td>V</td><td>A</td><td>R</td><td>A</td><td>N</td><td>A</td><td>S</td><td>I</td></tr><tr><td>U</td><td>O</td><td>J</td><td>I</td><td>P</td><td>G</td><td>X</td><td>K</td><td>M</td><td>Q</td><td>W</td><td>V</td></tr><tr><td>K</td><td>S</td><td>U</td><td>G</td><td>A</td><td>R</td><td>C</td><td>A</td><td>N</td><td>E</td><td>E</td><td>N</td></tr><tr><td>O</td><td>T</td><td>T</td><td>O</td><td>N</td><td>O</td><td>Z</td><td>V</td><td>O</td><td>P</td><td>T</td><td>R</td></tr><tr><td>A</td><td>U</td><td>E</td><td>L</td><td>U</td><td>B</td><td>H</td><td>I</td><td>L</td><td>A</td><td>I</td><td>U</td></tr><tr><td>T</td><td>K</td><td>O</td><td>C</td><td>R</td><td>A</td><td>Q</td><td>N</td><td>T</td><td>R</td><td>L</td><td>N</td></tr><tr><td>E</td><td>I</td><td>R</td><td>O</td><td>N</td><td>S</td><td>T</td><td>E</td><td>E</td><td>L</td><td>S</td><td>J</td></tr><tr><td>E</td><td>N</td><td>A</td><td>N</td><td>O</td><td>E</td><td>P</td><td>I</td><td>T</td><td>L</td><td>R</td><td>Y</td></tr><tr><td>G</td><td>A</td><td>N</td><td>U</td><td>J</td><td>D</td><td>R</td><td>A</td><td>G</td><td>D</td><td>T</td><td>A</td></tr><tr><td>N</td><td>T</td><td>A</td><td>R</td><td>P</td><td>O</td><td>A</td><td>P</td><td>U</td><td>E</td><td>P</td><td>Y</td></tr><tr><td>A</td><td>S</td><td>N</td><td>A</td><td>E</td><td>N</td><td>J</td><td>D</td><td>I</td><td>Y</td><td>S</td><td>K</td></tr><tr><td>S</td><td>M</td><td>H</td><td>V</td><td>L</td><td>I</td><td>A</td><td>J</td><td>H</td><td>S</td><td>K</td><td>G</td></tr></table>
 
-# Chapter 7
+
+# chapter 7
 # LIFELINES OF NATIONAL ECONOMY
 
 ![](images/81b01fd8dfe29e70fd498d67ab80433d5b6dfb486857815bf1aec4c1b6832fe4.jpg)
@@ -2016,12 +1978,7 @@ The distribution pattern of the Railway network in the country has been largely 
 Table 7.1: India: Railway Track   
 The Indian Railway network runs on multiple gauge operations extending over 67,956 km.   
 
-| Gauge in metres                | Route (Km)   |
-|--------------------------------|--------------|
-| Broad Gauge (1.676)            | 63950        |
-| Metre Gauge (1.000)            | 2,402        |
-| Narrow Gauge (0.762 and 0.610) | 1,604        |
-| Total                          | 67,956       |
+<table><tr><td>Gauge in metres</td><td>Route (Km)</td></tr><tr><td>Broad Gauge (1.676)</td><td>63950</td></tr><tr><td>Metre Gauge (1.000)</td><td>2,402</td></tr><tr><td>Narrow Gauge (0.762 and 0.610)</td><td>1,604</td></tr><tr><td>Total</td><td>67,956</td></tr></table>
 
 Source: Railway Yearbook 2019–20, Ministry of Railways, Government of India.   
 Website: www.indianrailways.gov.in
@@ -2249,21 +2206,7 @@ Prepare a project on the heritage tourism in India.
 
 Start your search vertically, horizontally or diagonally and reach various destinations across the country!
 
-| S   | H   | E   | R   | S   | H   | A   | H   | S   | U   | R   | I   | M   | A   | R   | G   |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| A   | R   | T   | P   | R   | N   | X   | E   | L   | A   | T   | A   | D   | L   | A   | Y   |
-| J   | M   | M   | X   | I   | P   | O   | R   | A   | Y   | M   | P   | G   | H   | T   | X   |
-| Y   | C   | H   | E   | N   | N   | N   | A   | I   | I   | K   | M   | C   | A   | I   | M   |
-| O   | D   | C   | D   | A   | L   | M   | C   | S   | O   | T   | P   | O   | R   | C   | P   |
-| A   | P   | T   | R   | G   | S   | K   | J   | M   | J   | L   | E   | A   | N   | E   | R   |
-| R   | A   | E   | T   | A   | J   | P   | O   | R   | M   | W   | M   | A   | S   | X   | O   |
-| I   | L   | S   | B   | R   | O   | A   | D   | G   | A   | U   | G   | E   | L   | O   | T   |
-| A   | S   | N   | L   | C   | M   | E   | C   | U   | K   | Z   | M   | A   | A   | J   | E   |
-| L   | M   | U   | G   | H   | A   | L   | S   | A   | R   | A   | I   | B   | S   | N   | A   |
-| G   | O   | E   | T   | V   | R   | A   | Y   | F   | T   | O   | R   | E   | A   | J   | M   |
-| K   | Q   | A   | I   | P   | M   | N   | Y   | R   | Y   | A   | Y   | H   | L   | I   | N   |
-| Q   | K   | O   | L   | K   | A   | T   | A   | E   | U   | I   | T   | W   | B   | E   | A   |
-| N   | I   | T   | N   | K   | D   | E   | M   | O   | U   | R   | P   | N   | P   | J   | D   |
+<table><tr><td>S</td><td>H</td><td>E</td><td>R</td><td>S</td><td>H</td><td>A</td><td>H</td><td>S</td><td>U</td><td>R</td><td>I</td><td>M</td><td>A</td><td>R</td><td>G</td></tr><tr><td>A</td><td>R</td><td>T</td><td>P</td><td>R</td><td>N</td><td>X</td><td>E</td><td>L</td><td>A</td><td>T</td><td>A</td><td>D</td><td>L</td><td>A</td><td>Y</td></tr><tr><td>J</td><td>M</td><td>M</td><td>X</td><td>I</td><td>P</td><td>O</td><td>R</td><td>A</td><td>Y</td><td>M</td><td>P</td><td>G</td><td>H</td><td>T</td><td>X</td></tr><tr><td>Y</td><td>C</td><td>H</td><td>E</td><td>N</td><td>N</td><td>N</td><td>A</td><td>I</td><td>I</td><td>K</td><td>M</td><td>C</td><td>A</td><td>I</td><td>M</td></tr><tr><td>O</td><td>D</td><td>C</td><td>D</td><td>A</td><td>L</td><td>M</td><td>C</td><td>S</td><td>O</td><td>T</td><td>P</td><td>O</td><td>R</td><td>C</td><td>P</td></tr><tr><td>A</td><td>P</td><td>T</td><td>R</td><td>G</td><td>S</td><td>K</td><td>J</td><td>M</td><td>J</td><td>L</td><td>E</td><td>A</td><td>N</td><td>E</td><td>R</td></tr><tr><td>R</td><td>A</td><td>E</td><td>T</td><td>A</td><td>J</td><td>P</td><td>O</td><td>R</td><td>M</td><td>W</td><td>M</td><td>A</td><td>S</td><td>X</td><td>O</td></tr><tr><td>I</td><td>L</td><td>S</td><td>B</td><td>R</td><td>O</td><td>A</td><td>D</td><td>G</td><td>A</td><td>U</td><td>G</td><td>E</td><td>L</td><td>O</td><td>T</td></tr><tr><td>A</td><td>S</td><td>N</td><td>L</td><td>C</td><td>M</td><td>E</td><td>C</td><td>U</td><td>K</td><td>Z</td><td>M</td><td>A</td><td>A</td><td>J</td><td>E</td></tr><tr><td>L</td><td>M</td><td>U</td><td>G</td><td>H</td><td>A</td><td>L</td><td>S</td><td>A</td><td>R</td><td>A</td><td>I</td><td>B</td><td>S</td><td>N</td><td>A</td></tr><tr><td>G</td><td>O</td><td>E</td><td>T</td><td>V</td><td>R</td><td>A</td><td>Y</td><td>F</td><td>T</td><td>O</td><td>R</td><td>E</td><td>A</td><td>J</td><td>M</td></tr><tr><td>K</td><td>Q</td><td>A</td><td>I</td><td>P</td><td>M</td><td>N</td><td>Y</td><td>R</td><td>Y</td><td>A</td><td>Y</td><td>H</td><td>L</td><td>I</td><td>N</td></tr><tr><td>Q</td><td>K</td><td>O</td><td>L</td><td>K</td><td>A</td><td>T</td><td>A</td><td>E</td><td>U</td><td>I</td><td>T</td><td>W</td><td>B</td><td>E</td><td>A</td></tr><tr><td>N</td><td>I</td><td>T</td><td>N</td><td>K</td><td>D</td><td>E</td><td>M</td><td>O</td><td>U</td><td>R</td><td>P</td><td>N</td><td>P</td><td>J</td><td>D</td></tr></table>
 
 ## Appendix-I
 

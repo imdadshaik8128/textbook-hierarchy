@@ -18,7 +18,7 @@ def remove_image_tags(md_root, matched_images):
 
     for root, _, files in os.walk(md_root):
         for file in files:
-            if file.lower() != "full_cleaned.md":
+            if file.lower() != "full.md":
                 continue
 
             md_path = os.path.join(root, file)
@@ -51,7 +51,7 @@ def clean_before_chapter_one(md_root):
 
     for root, _, files in os.walk(md_root):
         for file in files:
-            if file.lower() != "full_cleaned.md":
+            if file.lower() != "full.md":
                 continue
 
             md_path = os.path.join(root, file)

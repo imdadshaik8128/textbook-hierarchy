@@ -7,6 +7,7 @@
 
 With this chapter, we resume the tour of democracy that we started last year. We noted last year that in a democracy all power does not rest with any one organ of the government. An intelligent sharing of power among legislature, executive and judiciary is very important to the design of a democracy. In this and the next two chapters, we carry this idea of power-sharing forward. We start with two stories from Belgium and Sri Lanka. Both these stories are about how democracies handle demands for power-sharing. The stories yield some general conclusions about the need for power-sharing in democracy. This allows us to discuss various forms of power-sharing that will be taken up in the following two chapters.
 
+Chapter I
 
 I have a simple equation in mind. Sharing power $=$ dividing power $=$ weakening the country. Why do we start by talking of this?
 
@@ -174,6 +175,7 @@ groups, who otherwise, would feel alienated from the government. This method is 
 
 In my school, the class monitor changes every month. Is that what you call a power sharing arrangement?
 
+![](images/b5b495e9022586d004abad91a866183204e9bd24669e6b6df001b3c396015ee3.jpg)
 
 Here are some examples of power sharing. Which of the four types of power sharing do these represent? Who is sharing power with whom?
 
@@ -201,7 +203,7 @@ Ouseph – Every society needs some form of power sharing even if it is small or
 
 “We need to give more power to the panchayats to realise the dream of Mahatma Gandhi and the hopes of the makers of our Constitution. Panchayati Raj establishes true democracy. It restores power to the only place where power belongs in a democracy – in the hands of the people. Giving power to Panchayats is also a way to reduce corruption and increase administrative effi ciency. When people participate in the planning and implementation of developmental schemes, they would naturally exercise greater control over these schemes. This would eliminate the corrupt middlemen. Thus, Panchayati Raj will strengthen the foundations of our democracy.”
 
-6. Different arguments are usually put forth in favour of and against power sharing. Identify those which are in favour of power sharing and select the answer using the codes given below? Power sharing:
+6. Diff erent arguments are usually put forth in favour of and against power sharing. Identify those which are in favour of power sharing and select the answer using the codes given below? Power sharing:
 
 A. reduces confl ict among diff erent communities   
 B. decreases the possibility of arbitrariness   
@@ -211,11 +213,7 @@ E. increases instability and divisiveness
 F. promotes people’s participation in government   
 G. undermines the unity of a country
 
-| (a)   | A   | B   | D   | F   |
-|-------|-----|-----|-----|-----|
-| (b)   | A   | C   | E   | F   |
-| (c)   | A   | B   | D   | G   |
-| (d)   | B   | C   | D   | G   |
+<table><tr><td>(a)</td><td>A</td><td>B</td><td>D</td><td>F</td></tr><tr><td>(b)</td><td>A</td><td>C</td><td>E</td><td>F</td></tr><tr><td>(c)</td><td>A</td><td>B</td><td>D</td><td>G</td></tr><tr><td>(d)</td><td>B</td><td>C</td><td>D</td><td>G</td></tr></table>
 
 7. Consider the following statements about power sharing arrangements in Belgium and Sri Lanka.
 
@@ -231,19 +229,9 @@ Which of the statements given above are correct?
 
 8. Match List I (forms of power sharing) with List II (forms of government) and select the correct answer using the codes given below in the lists:
 
-|    | List I                                             | List II                 |
-|----|----------------------------------------------------|-------------------------|
-|  1 | Power shared among different organs of government  | A. Community government |
-|  2 | Power shared among governments at different levels | B. Separation of powers |
-|  3 | Power shared by different social groups            | C. Coalition government |
-|  4 | Power shared by two or more political parties      | D. Federal government   |
+<table><tr><td></td><td>List I</td><td>List II</td></tr><tr><td>1.</td><td>Power shared among different organs of government</td><td>A. Community government</td></tr><tr><td>2.</td><td>Power shared among governments at different levels</td><td>B. Separation of powers</td></tr><tr><td>3.</td><td>Power shared by different social groups</td><td>C. Coalition government</td></tr><tr><td>4.</td><td>Power shared by two or more political parties</td><td>D. Federal government</td></tr></table>
 
-|     | 1   | 2   | 3   | 4   |
-|-----|-----|-----|-----|-----|
-| (a) | D   | A   | B   | C   |
-| (b) | B   | C   | D   | A   |
-| (c) | B   | D   | A   | C   |
-| (d) | C   | D   | A   | B   |
+<table><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>(a)</td><td>D</td><td>A</td><td>B</td><td>C</td></tr><tr><td>(b)</td><td>B</td><td>C</td><td>D</td><td>A</td></tr><tr><td>(c)</td><td>B</td><td>D</td><td>A</td><td>C</td></tr><tr><td>(d)</td><td>C</td><td>D</td><td>A</td><td>B</td></tr></table>
 
 9. Consider the following two statements on power sharing and select the answer using the codes given below:
 
@@ -252,11 +240,7 @@ B. It helps to reduce the possibility of confl ict between social groups.
 
 Which of these statements are true and false?
 
-| (a) A is true but B is false   |
-|--------------------------------|
-| (b) Both A and B are true      |
-| (c) Both A and B are false     |
-| (d) A is false but B is true   |
+<table><tr><td>(a) A is true but B is false</td></tr><tr><td>(b) Both A and B are true</td></tr><tr><td>(c) Both A and B are false</td></tr><tr><td>(d) A is false but B is true</td></tr></table>
 
 
 # Chapter 2
@@ -267,6 +251,7 @@ Which of these statements are true and false?
 ## Overview
 
 In the previous chapter, we noted that vertical division of power among different levels of government is one of the major forms of power-sharing in modern democracies. In this chapter, we focus on this form of powersharing. It is most commonly referred to as federalism. We begin by describing federalism in general terms. The rest of the chapter tries to understand the theory and practice of federalism in India. A discussion of the federal constitutional provisions is followed by an analysis of the policies and politics that has strengthened federalism in practice. Towards the end of the chapter, we turn to the local government, a new and third tier of Indian federalism.
+
 
 ![](images/812f851fb40a9ecc550253409e91f7355f6f6059ee3cc7a000c6304202579138.jpg)
 
@@ -304,10 +289,11 @@ The second route is where a large country decides to divide its power between th
 
 If federalism works only in big countries, why did Belgium adopt it?
 
-## Glossary
+## GlO ssary
 
 Jurisdiction: The area over which someone has legal authority. The area may be defi ned in terms of geographical boundaries or in terms of certain kinds of subjects.
 
+![](images/fd34d0e5acd5f9bf115722b290eda4ba5fed4d2dcc7aa6f7394b4ded8f41064c.jpg)
 
 Some Nepalese citizens were discussing the proposals on the adoption of federalism in their new constitution. This is what some of them said:
 
@@ -364,6 +350,7 @@ News items that relate only to the Central Government,
 News items that relate only to your or any other State Government,   
  News items about the relationship between the Central and State Governments.
 
+![](images/a8ea9652d2b45afb6faf6d70fddd872fe97e473c37c6e8ace9bd6413e73ae66e.jpg)
 
  Pokharan, the place where India conducted its nuclear tests, lies in Rajasthan. Suppose the Government of Rajasthan was opposed to the Central Government’s nuclear policy, could it prevent the nt of India from conducting the nuclear tests?
 
@@ -444,30 +431,7 @@ Find out about any three languages that are spoken in India but are not included
 
 Scheduled Languages of India   
 
-| Language   | Proportion of speakers (%)   |
-|------------|------------------------------|
-| Assamese   | 1.26                         |
-| Bengali    | 8.03                         |
-| Bodo       | 0.12                         |
-| Dogri      | 0.21                         |
-| Gujarati   | 4.58                         |
-| Hindi      | 43.63                        |
-| Kannada    | 3.61                         |
-| Kashmiri   | 0.56                         |
-| Konkani    | 0.19                         |
-| Maithili   | 1.12                         |
-| Malayalam  | 2.88                         |
-| Manipuri   | 0.15                         |
-| Marathi    | 6.86                         |
-| Nepali     | 0.24                         |
-| Odia       | 3.10                         |
-| Punjabi    | 2.74                         |
-| Sanskrit   | N                            |
-| Santali    | 0.61                         |
-| Sindhi     | 0.23                         |
-| Tamil      | 5.70                         |
-| Telugu     | 6.70                         |
-| Urdu       | 4.19                         |
+<table><tr><td>Language</td><td>Proportion of speakers (%)</td></tr><tr><td>Assamese</td><td>1.26</td></tr><tr><td>Bengali</td><td>8.03</td></tr><tr><td>Bodo</td><td>0.12</td></tr><tr><td>Dogri</td><td>0.21</td></tr><tr><td>Gujarati</td><td>4.58</td></tr><tr><td>Hindi</td><td>43.63</td></tr><tr><td>Kannada</td><td>3.61</td></tr><tr><td>Kashmiri</td><td>0.56</td></tr><tr><td>Konkani</td><td>0.19</td></tr><tr><td>Maithili</td><td>1.12</td></tr><tr><td>Malayalam</td><td>2.88</td></tr><tr><td>Manipuri</td><td>0.15</td></tr><tr><td>Marathi</td><td>6.86</td></tr><tr><td>Nepali</td><td>0.24</td></tr><tr><td>Odia</td><td>3.10</td></tr><tr><td>Punjabi</td><td>2.74</td></tr><tr><td>Sanskrit</td><td>N</td></tr><tr><td>Santali</td><td>0.61</td></tr><tr><td>Sindhi</td><td>0.23</td></tr><tr><td>Tamil</td><td>5.70</td></tr><tr><td>Telugu</td><td>6.70</td></tr><tr><td>Urdu</td><td>4.19</td></tr></table>
 
 N — Stands for negligible.
 
@@ -582,39 +546,21 @@ Harish: This policy has only helped to consolidate the dominance of English over
 A. Defence; B. Police; C. Agriculture; D. Education;   
 E. Banking; F. Forests; G. Communications; H. Trade; I. Marriages
 
-| Union List      |    |
-|-----------------|----|
-| State List      |    |
-| Concurrent List |    |
+<table><tr><td>Union List</td><td></td></tr><tr><td>State List</td><td></td></tr><tr><td>Concurrent List</td><td></td></tr></table>
 
 
 ## Exercises
 
 
-
 10. Examine the following pairs that give the level of government in India and the powers of the government at that level to make laws on the subjects mentioned against each. Which of the following pairs is not correctly matched?
 
-| (a) State government              | State List       |
-|-----------------------------------|------------------|
-| (b) Central government            | Union List       |
-| (c) Central and State governments | Concurrent List  |
-| (d) Local governments             | Residuary powers |
+<table><tr><td>(a) State government</td><td>State List</td></tr><tr><td>(b) Central government</td><td>Union List</td></tr><tr><td>(c) Central and State governments</td><td>Concurrent List</td></tr><tr><td>(d) Local governments</td><td>Residuary powers</td></tr></table>
 
 11. Match List I with List II and select the correct answer using the codes given below the lists:
 
-| List I                   | List II           |
-|--------------------------|-------------------|
-| 1. Union of India        | A. Prime Minister |
-| 2. State                 | B. Sarpanch       |
-| 3. Municipal Corporation | C. Governor       |
-| 4. Gram Panchayat        | D. Mayor          |
+<table><tr><td>List I</td><td>List II</td></tr><tr><td>1. Union of India</td><td>A. Prime Minister</td></tr><tr><td>2. State</td><td>B. Sarpanch</td></tr><tr><td>3. Municipal Corporation</td><td>C. Governor</td></tr><tr><td>4. Gram Panchayat</td><td>D. Mayor</td></tr></table>
 
-|     | 1   | 2   | 3   | 4   |
-|-----|-----|-----|-----|-----|
-| (a) | D   | A   | B   | C   |
-| (b) | B   | C   | D   | A   |
-| (c) | A   | C   | D   | B   |
-| (d) | C   | D   | A   | B   |
+<table><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>(a)</td><td>D</td><td>A</td><td>B</td><td>C</td></tr><tr><td>(b)</td><td>B</td><td>C</td><td>D</td><td>A</td></tr><tr><td>(c)</td><td>A</td><td>C</td><td>D</td><td>B</td></tr><tr><td>(d)</td><td>C</td><td>D</td><td>A</td><td>B</td></tr></table>
 
 12. Consider the following two statements.
 
@@ -723,13 +669,7 @@ A ‘time use survey’ was conducted in six states of our country. It shows tha
 
 Daily time use (hours: minutes)   
 
-| Activities                     | Men   | Women   |
-|--------------------------------|-------|---------|
-| Income generating work         | 6:00  | 2:40    |
-| Household and related work     | 0:30  | 5:00    |
-| Talking, Gossip                | 1:25  | 1:20    |
-| No work/ Leisure               | 3:40  | 3:50    |
-| Sleep, self-care, reading etc. | 12:25 | 11:10   |
+<table><tr><td>Activities</td><td>Men</td><td>Women</td></tr><tr><td>Income generating work</td><td>6:00</td><td>2:40</td></tr><tr><td>Household and related work</td><td>0:30</td><td>5:00</td></tr><tr><td>Talking, Gossip</td><td>1:25</td><td>1:20</td></tr><tr><td>No work/ Leisure</td><td>3:40</td><td>3:50</td></tr><tr><td>Sleep, self-care, reading etc.</td><td>12:25</td><td>11:10</td></tr></table>
 
 Source: Government of India, Time Use Survey, 1998-99.
 
@@ -922,17 +862,7 @@ Although every caste has some members who are rich, the upper castes are heavily
 
 Percentage of population living below the poverty line, 1999– —2000   
 
-| Caste and Community groups   |   Rural |    |   Urban |
-|------------------------------|---------|----|---------|
-| Scheduled Tribes             |    45.8 |    |    35.6 |
-| Scheduled Castes             |    35.9 |    |    38.3 |
-| Other Backward Classes       |    27   |    |    29.5 |
-| Muslim Upper Castes          |    26.8 |    |    34.2 |
-| Hindu Upper Castes           |    11.7 |    |     9.9 |
-| Christian Upper Castes       |     9.6 |    |     5.4 |
-| Sikh Upper Castes            |     0   |    |     4.9 |
-| Other Upper Castes           |    16   |    |     2.7 |
-| All Groups                   |    27   |    |    23.4 |
+<table><tr><td>Caste and Community groups</td><td>Rural</td><td></td><td>Urban</td></tr><tr><td>Scheduled Tribes</td><td>45.8</td><td></td><td>35.6</td></tr><tr><td>Scheduled Castes</td><td>35.9</td><td></td><td>38.3</td></tr><tr><td>Other Backward Classes</td><td>27.0</td><td></td><td>29.5</td></tr><tr><td>Muslim Upper Castes</td><td>26.8</td><td></td><td>34.2</td></tr><tr><td>Hindu Upper Castes</td><td>11.7</td><td></td><td>9.9</td></tr><tr><td>Christian Upper Castes</td><td>9.6</td><td></td><td>5.4</td></tr><tr><td>Sikh Upper Castes</td><td>0.0</td><td></td><td>4.9</td></tr><tr><td>Other Upper Castes</td><td>16.0</td><td></td><td>2.7</td></tr><tr><td>All Groups</td><td>27.0</td><td></td><td>23.4</td></tr></table>
 
 Note: ‘Upper Caste’ here means those who are not from SC, ST, or OBC. Below the poverty line means those who spent $\yen 327$ or less per person per month in rural and $\yen 454$ or less per person per month in urban areas.
 
@@ -964,8 +894,6 @@ Thus, caste plays different kinds of roles in politics. In some situations, expr
 At the same time, exclusive attention to caste can produce negative results as well. As in the case of religion, politics based on caste identity alone is not very healthy in a democracy. It can divert attention from other pressing issues like poverty, development and corruption. In some cases, caste division leads to tensions, confl ict and even violence.
 
 ![](images/8bf8891fdead42b940bdc62082ff3040af806728ee9d018deb7f0f9f80a24078.jpg)
-
-## Exercises
 
 1. Mention diff erent aspects of life in which women are discriminated or disadvantaged in India.   
 2. State diff erent forms of communal politics with one example each.   
@@ -1009,19 +937,9 @@ Which of the statements are correct?
 
 12. Match List I with List II and select the correct answer using the codes given below the Lists:
 
-|    | List I                                                                      | List II        |
-|----|-----------------------------------------------------------------------------|----------------|
-|  1 | A person who believes in equal rights and opportunities for women and men   | A. Communalist |
-|  2 | A person who says that religion is the principal basis of community         | B. Feminist    |
-|  3 | A person who thinks that caste is the principal basis of community          | C. Secularist  |
-|  4 | A person who does not discriminate others on the basis of religious beliefs | D. Castiest    |
+<table><tr><td></td><td>List I</td><td>List II</td></tr><tr><td>1.</td><td>A person who believes in equal rights and opportunities for women and men</td><td>A. Communalist</td></tr><tr><td>2.</td><td>A person who says that religion is the principal basis of community</td><td>B. Feminist</td></tr><tr><td>3.</td><td>A person who thinks that caste is the principal basis of community</td><td>C. Secularist</td></tr><tr><td>4.</td><td>A person who does not discriminate others on the basis of religious beliefs</td><td>D. Castiest</td></tr></table>
 
-|     | 1   | 2   | 3   | 4   |
-|-----|-----|-----|-----|-----|
-| (a) | B   | C   | A   | D   |
-| (b) | B   | A   | D   | C   |
-| (c) | D   | C   | A   | B   |
-| (d) | C   | A   | B   | D   |
+<table><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>(a)</td><td>B</td><td>C</td><td>A</td><td>D</td></tr><tr><td>(b)</td><td>B</td><td>A</td><td>D</td><td>C</td></tr><tr><td>(c)</td><td>D</td><td>C</td><td>A</td><td>B</td></tr><tr><td>(d)</td><td>C</td><td>A</td><td>B</td><td>D</td></tr></table>
 
 
 
@@ -1136,6 +1054,7 @@ As we have seen, large societies need representative democracy. As societies bec
 
 responsible government could be formed. They needed a mechanism to support or restrain the government, make policies, justify or oppose them. Political parties fulfi ll these needs that every representative government has. We can say that parties are a necessary condition for a democracy.
 
+![](images/502384c28572f69f17b101111427a0d930adb511847bf62ff19a4a57813c9175.jpg)
 
 Categorise these photographs by the functions of political parties they illustrate. Find one photograph or news clipping from your own area for each of the functions listed above.
 
@@ -1165,6 +1084,7 @@ So, which of these is better? Perhaps the best answer to this very common questi
 
 ![](images/6ed55c366933127f1b72e1178ca842ffa3f4ed26b0b2bf4fc795e8fff3fd33f0.jpg)
 
+![](images/ec50534682495e9dcf1acda703cba65460970254b2e3a7f12640c09d876c9cd9.jpg)
 
 Let us apply what we have learnt about party systems to the various states within India. Here are three major types of party systems that exist at the State level. Can you fi nd the names of at least two States for each of these types?
 
@@ -1317,6 +1237,7 @@ Does this suggest that in democracies people contest elections only to make mone
 
 But isn’t it true that there are politicians committed to the well-being of the people?
 
+![](images/51026ec1b1b2d02ec1a9c4525abd78e08e872be533b65833dffbdec733bdd3e7.jpg)
 
 Can you identify which of the challenges described in this section are being highlighted in these cartoons (on pages 57 to 59)? What are the ways to curb the misuse of money and muscle power in politics?
 
@@ -1361,8 +1282,6 @@ pressure on political parties. This can be done through petitions, publicity and
 
 those who want this, join political parties. The quality of democracy depends on the degree of public participation. It is diffi cult to reform politics if ordinary citizens do not take part in it and simply criticise it from the outside. The problem of bad politics can be solved by more and better politics. We shall return to this theme in the fi nal chapter.
 
-## Exercises
-
 1. State the various functions political parties perform in a democracy.   
 2. What are the various challenges faced by political parties?   
 3. Suggest some reforms to strengthen parties so that they perform their functions well?   
@@ -1371,19 +1290,9 @@ those who want this, join political parties. The quality of democracy depends on
 6. A group of people who come together to contest elections and hold power in the government is called a   
 7. Match List I (organisations and struggles) with List II and select the correct answer using the codes given below the lists:
 
-|    | List I                             | List II                         |
-|----|------------------------------------|---------------------------------|
-|  1 | Congress Party                     | A. National Democratic Alliance |
-|  2 | Bharatiya Janata Party             | B. State party                  |
-|  3 | Communist Party of India (Marxist) | C. United Progressive Alliance  |
-|  4 | Telugu Desam Party                 | D. Left Front                   |
+<table><tr><td></td><td>List I</td><td>List II</td></tr><tr><td>1.</td><td>Congress Party</td><td>A. National Democratic Alliance</td></tr><tr><td>2.</td><td>Bharatiya Janata Party</td><td>B. State party</td></tr><tr><td>3.</td><td>Communist Party of India (Marxist)</td><td>C. United Progressive Alliance</td></tr><tr><td>4.</td><td>Telugu Desam Party</td><td>D. Left Front</td></tr></table>
 
-|     | 1   | 2   | 3   | 4   |
-|-----|-----|-----|-----|-----|
-| (a) | C   | A   | B   | D   |
-| (b) | C   | D   | A   | B   |
-| (c) | C   | A   | D   | B   |
-| (d) | D   | C   | A   | B   |
+<table><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>(a)</td><td>C</td><td>A</td><td>B</td><td>D</td></tr><tr><td>(b)</td><td>C</td><td>D</td><td>A</td><td>B</td></tr><tr><td>(c)</td><td>C</td><td>A</td><td>D</td><td>B</td></tr><tr><td>(d)</td><td>D</td><td>C</td><td>A</td><td>B</td></tr></table>
 
 8. Who among the following is the founder of the Bahujan Samaj Party?
 
@@ -1422,7 +1331,6 @@ Do you think Yunus made a right decision to fl oat a new political party?
 
 Do you agree with the statements and fears expressed by various people? How do you want this new party organised to make it diff erent from other parties? If you were the one to begin this political party, how would you defend it?
 
-
 # Chapter 5
 # Outcomes of Democracy
 
@@ -1433,7 +1341,7 @@ Do you agree with the statements and fears expressed by various people? How do y
 As we begin to wind up our tour of democracy, it is time to move beyond our discussion of specifi c themes and ask a general set of questions: What does democracy do? Or, what outcomes can we reasonably expect of democracy? Also, does democracy fulfi l these expectations in real life? We begin by thinking about how to assess the outcomes of democracy. After some clarity on how to think on this subject, we proceed to look at the expected and actual outcomes of democracy in various respects: quality of government, economic well-being, inequality, social differences and confl ict and fi nally freedom and dignity.
 
 
-
+![](images/ed4d0bb58e5a805df1e26c364c1759afbc27ed7c6767d085ff40ebd455c9be58.jpg)
 
 Did we reach these conclusions in Madam Lyngdoh’s class? I loved that class because students were not being dictated any conclusions.
 
@@ -1493,10 +1401,7 @@ Those who agree with one of the statements
 
 Bangladesh India Nepal Pakistan Sri Lanka   
 
-| Democracy is preferable          |   69 |   70 |   62 |   37 |   71 |
-|----------------------------------|------|------|------|------|------|
-| Sometimes dictatorship is better |    6 |    9 |   10 |   14 |   11 |
-| Doesn't matter to me             |   25 |   21 |   28 |   49 |   18 |
+<table><tr><td>Democracy is preferable</td><td>69</td><td>70</td><td>62</td><td>37</td><td>71</td></tr><tr><td>Sometimes dictatorship is better</td><td>6</td><td>9</td><td>10</td><td>14</td><td>11</td></tr><tr><td>Doesn&#x27;t matter to me</td><td>25</td><td>21</td><td>28</td><td>49</td><td>18</td></tr></table>
 
 ![](images/59488b59ceefba90fae07eb1b5466c9eac3e8645e0501db8f2ef7c9321564e8c.jpg)  
 Very few doubt the suitability of democracy for their own country How suitable is democracy for your country?
@@ -1536,28 +1441,14 @@ What would be your verdict on democracy if you had to base it purely on economic
 Table 1   
 Rates of economic growth for different countries, 1950 – 2000   
 
-| Type of regimes and countries     |   Growth Rate |
-|-----------------------------------|---------------|
-| All democratic regimes            |          3.95 |
-| All dictatorial regimes           |          4.42 |
-| Poor countries under dictatorship |          4.34 |
-| Poor countries under democracy    |          4.28 |
+<table><tr><td>Type of regimes and countries</td><td>Growth Rate</td></tr><tr><td>All democratic regimes</td><td>3.95</td></tr><tr><td>All dictatorial regimes</td><td>4.42</td></tr><tr><td>Poor countries under dictatorship</td><td>4.34</td></tr><tr><td>Poor countries under democracy</td><td>4.28</td></tr></table>
 
 Source: A Przeworski, M E Alvarez, J A Cheibub and F Limongi, Democracy and Development: Political Institutions and Well-Being in the World, 1950 -1990. Cambridge, Cambridge University Press, 2000.
 
 Table 2   
 Inequality of income in selected countries   
 
-| Name of the Countries   | % share of national income   | % share of national income   |
-|-------------------------|------------------------------|------------------------------|
-| Name of the Countries   | Top 20 %                     | Bottom 20 %                  |
-| South Africa            | 64.8                         | 2.9                          |
-| Brazil                  | 63.0                         | 2.6                          |
-| Russia                  | 53.7                         | 4.4                          |
-| USA                     | 50.0                         | 4.0                          |
-| United Kingdom          | 45.0                         | 6.0                          |
-| Denmark                 | 34.5                         | 9.6                          |
-| Hungary                 | 34.4                         | 10.0                         |
+<table><tr><td rowspan="2">Name of the Countries</td><td colspan="2">% share of national income</td></tr><tr><td>Top 20 %</td><td>Bottom 20 %</td></tr><tr><td>South Africa</td><td>64.8</td><td>2.9</td></tr><tr><td>Brazil</td><td>63.0</td><td>2.6</td></tr><tr><td>Russia</td><td>53.7</td><td>4.4</td></tr><tr><td>USA</td><td>50.0</td><td>4.0</td></tr><tr><td>United Kingdom</td><td>45.0</td><td>6.0</td></tr><tr><td>Denmark</td><td>34.5</td><td>9.6</td></tr><tr><td>Hungary</td><td>34.4</td><td>10.0</td></tr></table>
 
 ## Reduction of inequality and poverty
 
@@ -1600,6 +1491,7 @@ every election, different persons and groups may and can form a majority. Democr
 
 of time. If someone is barred from being in majority on the basis of birth, then the democratic rule ceases to be accommodative for that person or group.
 
+![](images/c70703e815e4e2519485a675bdf41bcf4ed309d503c2212317d5749114f7e630.jpg)
 
 ![](images/2da5b3d894b6ea52e719cb14c629cf1b2c58a871bc43ecfec18dbf6fdc43463d.jpg)  
 The two images depict two different kinds of effects democratic politics can have on social divisions. Take one example for each image and write a paragraph each on the outcome of democratic politics in both situations.
@@ -1624,6 +1516,7 @@ Expectations from democracy also function as the criteria for judging any democr
 
 What is most distinctive about democracy is that its examination never gets over. As democracy passes one test, it produces another test. As people get some benefi ts of democracy, they ask for more and want to make democracy even better. That is why, when we ask people about the way democracy functions, they will always come up with more expectations, and many complaints. The fact that people are complaining is itself a testimony to the success of democracy: it shows that people have developed awareness and the ability to expect and to look critically at power holders and the high and the mighty. A public expression of dissatisfaction with democracy shows the success of the democratic project: it transforms people from the status of a subject into that of a citizen. Most individuals today believe that their vote makes a difference to the way the government is run and to their own self-interest.
 
+![](images/3e8b838f04a62f24a9ce6f709639fee40d08ba31020e3461753f9f6dcf9d882f.jpg)  
 Rosa Parks Still Inspires
 
 Belief in the effi cacy of vote is placed above the calculus of utility   
@@ -1633,8 +1526,6 @@ The above cartoon and graph illustrate a point made in this section (Dignity and
 Those who say that their vote makes a difference...
 
 ![](images/308e2dc4a09ea88775a1736f54c3da2d089a838fe060c4b810122979ae2885ec.jpg)
-
-## Exercises
 
 1. How does democracy produce an accountable, responsive and legitimate government?   
 2. What are the conditions under which democracies accommodate social diversities?   

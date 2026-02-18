@@ -3,6 +3,8 @@
 
 ![](images/ae2bd1f9b3266fdc0f5c86c0c16bb781dcb8e6c7243525582a8a9899ece202e4.jpg)
 
+
+
 Food is needed by all living organisms mainly for growth and repair. Several organisms need food to maintain body temperature as well. A variety of substances are taken as food by every organisms from single celluar organisms like amoeba to the complex multicellular organisms like the human body. Even within the human body the cells require a wide variety of substances as food to carryout their functions. The mode of acquiring food varies from organism to organism.
 
 You have studied in the previous classes about how different organisms get their food. Let us recall them.
@@ -393,16 +395,7 @@ Let us study the chart showing different enzymes and digestive juices and their 
 
 Table-1: Digestive enzymes   
 
-|   S.No | Enzyme/Substance           | Secreted by       | Secreted into   | Digestive juice   | Acts on              | Products                                                       |
-|--------|----------------------------|-------------------|-----------------|-------------------|----------------------|----------------------------------------------------------------|
-|      1 | Ptyalin (salivary amylase) | Salivary glands   | Buccal cavity   | Saliva            | Carbohydrates        | Maltose                                                        |
-|      2 | Pepsin                     | Gastric glands    | Stomach         | Gastric juice     | Proteins             | Peptones                                                       |
-|      3 | Bile (No enzymes)          | Liver             | Duodenum        | Bile juice        | Fats                 | Emulsification breaking down of large fats into small globules |
-|      4 | Amylase                    | Pancreas          | Duodenum        | Pancreatic juice  | Carbohydrates        | Maltose                                                        |
-|      5 | Trypsin                    | Pancreas          | Duodenum        | Pancreatic juice  | Proteins             | Peptones                                                       |
-|      6 | Lipase                     | Pancreas          | Duodenum        | Pancreatic juice  | Fats                 | Fatty acids and glycerol                                       |
-|      7 | Peptidases                 | Intestinal glands | Small Intestine | Intestinal juice  | Peptides             | Amino acids                                                    |
-|      8 | Sucrase                    | Intestinal glands | Small Intestine | Intestinal juice  | Sucrose (Cane Sugar) | Glucose                                                        |
+<table><tr><td>S.No</td><td>Enzyme/Substance</td><td>Secreted by</td><td>Secreted into</td><td>Digestive juice</td><td>Acts on</td><td>Products</td></tr><tr><td>1</td><td>Ptyalin (salivary amylase)</td><td>Salivary glands</td><td>Buccal cavity</td><td>Saliva</td><td>Carbohydrates</td><td>Maltose</td></tr><tr><td>2</td><td>Pepsin</td><td>Gastric glands</td><td>Stomach</td><td>Gastric juice</td><td>Proteins</td><td>Peptones</td></tr><tr><td>3</td><td>Bile (No enzymes)</td><td>Liver</td><td>Duodenum</td><td>Bile juice</td><td>Fats</td><td>Emulsification breaking down of large fats into small globules</td></tr><tr><td>4</td><td>Amylase</td><td>Pancreas</td><td>Duodenum</td><td>Pancreatic juice</td><td>Carbohydrates</td><td>Maltose</td></tr><tr><td>5</td><td>Trypsin</td><td>Pancreas</td><td>Duodenum</td><td>Pancreatic juice</td><td>Proteins</td><td>Peptones</td></tr><tr><td>6</td><td>Lipase</td><td>Pancreas</td><td>Duodenum</td><td>Pancreatic juice</td><td>Fats</td><td>Fatty acids and glycerol</td></tr><tr><td>7</td><td>Peptidases</td><td>Intestinal glands</td><td>Small Intestine</td><td>Intestinal juice</td><td>Peptides</td><td>Amino acids</td></tr><tr><td>8</td><td>Sucrase</td><td>Intestinal glands</td><td>Small Intestine</td><td>Intestinal juice</td><td>Sucrose (Cane Sugar)</td><td>Glucose</td></tr></table>
 
 Name the enzymes which act on carbohydrates?
 
@@ -483,21 +476,7 @@ Vitamins are classified into two groups. One is Water soluble vitamins (B-comple
 
 Table-2: Vitamins   
 
-| Vitamin                           | Resources                                                                                                                     | Deficiency diseases                | Symptoms                                                                                 |
-|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------|------------------------------------------------------------------------------------------|
-| Thiamin (B1)                      | Cereals, oil seeds, vegetables, milk, meat, fish, eggs.                                                                       | Beri beri                          | Vomittings, fits, loss of appetite, difficulty in breathing, paralysis.                  |
-| Riboflavin (B2)                   | Milk, eggs, liver, kidney, green leafy vegetables.                                                                            | Glossitis                          | Mouth cracks at corners, red and sore tongue, photophobia, scaly skin.                   |
-| Niacin (B3)                       | Kidney, liver, meat, egg, fish, oil seeds.                                                                                    | Pellagra                           | Dermatitis, diarrhoea, loss of memory, scaly skin.                                       |
-| Pyridoxine (B6)                   | Cereals, oil seeds, vegetables, milk, meat, fish, eggs, liver.                                                                | Anaemia                            | Hyper irritability, nausea, vomiting, fits.                                              |
-| Cyanocobalamin (B12)              | Synthesised by bacteria present in the intestine.                                                                             | Pernicious anaemia                 | Lean and weak, less appetite.                                                            |
-| Folic acid                        | Liver, meat, eggs, milk, fruits, cereals, leafy vegetables.                                                                   | Anaemia                            | Diarrhoea, loss of leucocytes, problems related to mucus in the intestines.              |
-| Pantothenic acid                  | Sweet potatoes, ground nuts, vegetables, liver, kidney, egg.                                                                  | Burning feet                       | Walking problems, sprain.                                                                |
-| Biotin                            | Pulses, nuts, vegetables, liver, milk, kidney.                                                                                | Nerves disorders                   | Fatigue, mental depression, muscle pains.                                                |
-| Ascorbic acid (C)                 | Green leafy vegetables, citrus fruits, sprouts.                                                                               | Scurvy                             | Delay in healing of wounds, fractures in bones.                                          |
-| Retinol (A)                       | Leafy vegetables, carrot, Tomato, pumpkin, papaya, mango, meat, fish, egg, liver, milk, cod liver oil, shark liver oil.       | Eye, skin diseases                 | Night blindness, xerophthalmia, cornea failure, scaly skin.                              |
-| Calciferol (D) (sunshine vitamin) | Liver, egg, butter, cod liver oil, shark liver oil, sun rays stimulate the formation of vitamin D from the sub-cutaneous fat. | Rickets                            | Improper formation of bones, Knock-knees, swollen wrists, delayed dentition, weak bones. |
-| Tocoferol (E)                     | Fruits, vegetables, sprouts, sunflower oil.                                                                                   | Fertility related disorders        | Sterility in males, abortions in females.                                                |
-| Phylloquinone (K)                 | Green leafy vegetables, milk, meat, egg.                                                                                      | problems related to Blood clotting | Delay in blood clotting, over bleeding.                                                  |
+<table><tr><td>Vitamin</td><td>Resources</td><td>Deficiency diseases</td><td>Symptoms</td></tr><tr><td>Thiamin (B1)</td><td>Cereals, oil seeds, vegetables, milk, meat, fish, eggs.</td><td>Beri beri</td><td>Vomittings, fits, loss of appetite, difficulty in breathing, paralysis.</td></tr><tr><td>Riboflavin (B2)</td><td>Milk, eggs, liver, kidney, green leafy vegetables.</td><td>Glossitis</td><td>Mouth cracks at corners, red and sore tongue, photophobia, scaly skin.</td></tr><tr><td>Niacin (B3)</td><td>Kidney, liver, meat, egg, fish, oil seeds.</td><td>Pellagra</td><td>Dermatitis, diarrhoea, loss of memory, scaly skin.</td></tr><tr><td>Pyridoxine (B6)</td><td>Cereals, oil seeds, vegetables, milk, meat, fish, eggs, liver.</td><td>Anaemia</td><td>Hyper irritability, nausea, vomiting, fits.</td></tr><tr><td>Cyanocobalamin (B12)</td><td>Synthesised by bacteria present in the intestine.</td><td>Pernicious anaemia</td><td>Lean and weak, less appetite.</td></tr><tr><td>Folic acid</td><td>Liver, meat, eggs, milk, fruits, cereals, leafy vegetables.</td><td>Anaemia</td><td>Diarrhoea, loss of leucocytes, problems related to mucus in the intestines.</td></tr><tr><td>Pantothenic acid</td><td>Sweet potatoes, ground nuts, vegetables, liver, kidney, egg.</td><td>Burning feet</td><td>Walking problems, sprain.</td></tr><tr><td>Biotin</td><td>Pulses, nuts, vegetables, liver, milk, kidney.</td><td>Nerves disorders</td><td>Fatigue, mental depression, muscle pains.</td></tr><tr><td>Ascorbic acid (C)</td><td>Green leafy vegetables, citrus fruits, sprouts.</td><td>Scurvy</td><td>Delay in healing of wounds, fractures in bones.</td></tr><tr><td>Retinol (A)</td><td>Leafy vegetables, carrot, Tomato, pumpkin, papaya, mango, meat, fish, egg, liver, milk, cod liver oil, shark liver oil.</td><td>Eye, skin diseases</td><td>Night blindness, xerophthalmia, cornea failure, scaly skin.</td></tr><tr><td>Calciferol (D) (sunshine vitamin)</td><td>Liver, egg, butter, cod liver oil, shark liver oil, sun rays stimulate the formation of vitamin D from the sub-cutaneous fat.</td><td>Rickets</td><td>Improper formation of bones, Knock-knees, swollen wrists, delayed dentition, weak bones.</td></tr><tr><td>Tocoferol (E)</td><td>Fruits, vegetables, sprouts, sunflower oil.</td><td>Fertility related disorders</td><td>Sterility in males, abortions in females.</td></tr><tr><td>Phylloquinone (K)</td><td>Green leafy vegetables, milk, meat, egg.</td><td>problems related to Blood clotting</td><td>Delay in blood clotting, over bleeding.</td></tr></table>
 
 
 ## Key words
@@ -601,11 +580,7 @@ d) Nutritional deficiency diseases
 23. How would you demonstrate that green plant releases oxygen when exposed to light?(AS3)   
 24. Visit a primary health centre and collect the information about the children at diffrent ages suffering from malnutrition. (AS4)
 
-| S.No.   | Age group   | No. of children with malnutrition   | No. of children with malnutrition   | No. of children with malnutrition   |
-|---------|-------------|-------------------------------------|-------------------------------------|-------------------------------------|
-| S.No.   | Age group   | Protiens                            | Calories                            | Vitamins                            |
-| 1.      |             |                                     |                                     |                                     |
-| 2.      |             |                                     |                                     |                                     |
+<table><tr><td rowspan="2">S.No.</td><td rowspan="2">Age group</td><td colspan="3">No. of children with malnutrition</td></tr><tr><td>Protiens</td><td>Calories</td><td>Vitamins</td></tr><tr><td>1.</td><td></td><td></td><td></td><td></td></tr><tr><td>2.</td><td></td><td></td><td></td><td></td></tr></table>
 
 25. Would the survival of organisums become difficult, if there are no green plants on the earth? How do you support it?(AS1)   
 26. Draw the labelled diagram of human digestive system? List out the parts where peristalsis takes place. (AS5)   
@@ -730,6 +705,7 @@ From this he deduced that there were two processes involved in respiration, and 
 
 He drew immediately the logical conclusion regarding the process of respiration. Either eminently respirable air is changed in the lungs to chalky acid air; or an exchange takes place, the eminently respirable air being absorbed, and an almost equal volume of chalky acid air being given up to the air from the lungs. He had to admit that there were strong grounds for believing that eminently respirable air did combine with the blood to produce the red colour. (But in due course the scientists identified that due to haemoglobin the blood is red in colour.)
 
+![](images/b10e25ee606b47f4fd6cbcd687a8feaca24883fe411e7e43320d1438e58e6a4c.jpg)  
 fig-2: Priestley
 
 Lavoisier’s findings lead way to several other researchers.
@@ -915,6 +891,7 @@ When the diaphragm flattens and the volume of the chest cavity is increased, its
 
 Then the reverse occurs. The chest wall is lowered and moves inward, and the diaphragm relaxes and assumes its dome shape. These changes increase the pressure on the lungs; their elastic tissue contracts and squeezes the air out through the nose to the external atmosphere. This is expiration (exhalation).
 
+![](images/77f331616297c52f913d71f014f15c0eaec91d0db20018d3a1886bd6a2ee4430.jpg)
 
 ## Do you know?
 
@@ -951,11 +928,7 @@ fig-8: Diagram of Alveolus with pulmonary capillary
 
 As a result of gaseous exchange, the composition of inhaled and exhaled air is different. See the table given below. Approximate values are given in the table
 
-| Gas           |   % in inhaled air |   % in exhaled air |
-|---------------|--------------------|--------------------|
-| Oxygen        |              21    |               16   |
-| Carbondioxide |               0.03 |                4.4 |
-| Nitrogen      |              78    |               78   |
+<table><tr><td>Gas</td><td>% in inhaled air</td><td>% in exhaled air</td></tr><tr><td>Oxygen</td><td>21</td><td>16</td></tr><tr><td>Carbondioxide</td><td>0.03</td><td>4.4</td></tr><tr><td>Nitrogen</td><td>78</td><td>78</td></tr></table>
 
 Why does the amount of Oxygen vary between exhaled and inhaled air?
 
@@ -984,6 +957,7 @@ $$
 \mathrm {H b} \left(\mathrm {O} _ {2}\right) _ {4} \longrightarrow \mathrm {H b} + 4 \mathrm {O} _ {2} (\text {i n t i s s u e s})
 $$
 
+![](images/0d489912675283caeb118c3d4eeab66eaf5649a9b72fd27acc01afcb19848f5e.jpg)
 
 ## Do you know?
 
@@ -1410,6 +1384,7 @@ The art of breathing in Yogabyasa is called Pranayama prana means gas, ayama mea
 ![](images/28b5f6a28dc85b73793281324eb29430bff1a548c9da6d5081e970f32dbd5997.jpg)
 
 
+
 All the living organisms need nutrients, gases, liquids etc., for growth and maintenance of the body.
 
 All the organisms would need to send these materials to all parts of their body whether they are unicellular organisms or multicellular.
@@ -1445,12 +1420,7 @@ fig-1: Pulse
 
 Table-1   
 
-| S.No   | Name of the person   | Pulse rate per minute   | Pulse rate per minute   |
-|--------|----------------------|-------------------------|-------------------------|
-| S.No   | Name of the person   | at rest                 | after jogging           |
-|        |                      |                         |                         |
-|        |                      |                         |                         |
-|        |                      |                         |                         |
+<table><tr><td rowspan="2">S.No</td><td rowspan="2">Name of the person</td><td colspan="2">Pulse rate per minute</td></tr><tr><td>at rest</td><td>after jogging</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></table>
 
 What did you observe? Is the pulse rate same in both conditions?
 
@@ -1472,13 +1442,11 @@ fig-2: Matchstick stethoscope
 
 ## Do you know?
 
-| Newborn 
- (0-3 months)   | Infants 
- (3-6 months)   | Infants 
- (6-12 months)   | Children 
- (1-10 years)   | Children over 10 years & adults, including senior citizens   | Well-trainedadults athletes   |
-|--------------------------|--------------------------|---------------------------|---------------------------|--------------------------------------------------------------|-------------------------------|
-| 100-150                  | 90-120                   | 80-120                    | 70-130                    | 60-100                                                       | 40-60                         |
+<table><tr><td>Newborn 
+(0–3 months)</td><td>Infants 
+(3-6 months)</td><td>Infants 
+(6–12 months)</td><td>Children 
+(1-10 years)</td><td>Children over 10 years &amp; adults, including senior citizens</td><td>Well-trainedadults athletes</td></tr><tr><td>100-150</td><td>90-120</td><td>80-120</td><td>70-130</td><td>60-100</td><td>40-60</td></tr></table>
 
 In the year 1816, Rene Laennec discovered the Stethoscope. Before the discovery of stethoscope doctors used to hear heart beat by keeping ear on the chest of the patient. Laennec found that paper tube helps to hear the heart beat perfectly. Then he used a bamboo instead of paper tube to hear heart beat. Laennec called it stethoscope.
 
@@ -1492,13 +1460,7 @@ Also count down your friend’s pulse rate. Note observations of at least 10 stu
 
 Table-2   
 
-| S.No   | Name of the student   | Heart beat at rest/min   | Pulse rate at rest/min   |
-|--------|-----------------------|--------------------------|--------------------------|
-| 1      | Eshwar                | 72                       | 72                       |
-|        |                       |                          |                          |
-|        |                       |                          |                          |
-|        |                       |                          |                          |
-|        |                       |                          |                          |
+<table><tr><td>S.No</td><td>Name of the student</td><td>Heart beat at rest/min</td><td>Pulse rate at rest/min</td></tr><tr><td>1</td><td>Eshwar</td><td>72</td><td>72</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></table>
 
 ![](images/e115781fe612380b42b693d3c201018136a0546726befef418d20be4df3ef112.jpg)  
 x-axis: Name of the student   
@@ -1711,16 +1673,9 @@ After reading the experiments by Harvey fill in the following table. Use the clu
 
 Table-3   
 
-|    | Structure / Function of blood vessel                                      | Artery   | Vein   |
-|----|---------------------------------------------------------------------------|----------|--------|
-|  1 | Thickness of walls(thick / thin)                                          |          |        |
-|  2 | Valves (present / absent)                                                 |          |        |
-|  3 | Capacity to retain shape when blood is absent 
- (can retain/can't retain) |          |        |
-|  4 | Direction of blood flow (heart to organs / body organs to heart)          |          |        |
-|  5 | Pressure in the vessel(low /high)                                         |          |        |
-|  6 | Type of blood transported 
- (oxygenated / de-oxygenated)                  |          |        |
+<table><tr><td></td><td>Structure / Function of blood vessel</td><td>Artery</td><td>Vein</td></tr><tr><td>1.</td><td>Thickness of walls(thick / thin)</td><td></td><td></td></tr><tr><td>2.</td><td>Valves (present / absent)</td><td></td><td></td></tr><tr><td>3.</td><td>Capacity to retain shape when blood is absent 
+(can retain/can’t retain)</td><td></td><td></td></tr><tr><td>4.</td><td>Direction of blood flow (heart to organs / body organs to heart)</td><td></td><td></td></tr><tr><td>5.</td><td>Pressure in the vessel(low /high)</td><td></td><td></td></tr><tr><td>6.</td><td>Type of blood transported 
+(oxygenated / de-oxygenated)</td><td></td><td></td></tr></table>
 
 Discuss the differences between pulmonary artery and pulmonary vein.
 
@@ -1784,13 +1739,8 @@ fig-10(1-5): Cardiac cycle
 
 Do you know?   
 
-| Name of the animal   | Weight of the body   | Weight of the heart   |   No. of 
- beats/min |
-|----------------------|----------------------|-----------------------|----------------------|
-| Blue whale           | 1,50,000 kg          | 750 kg                |                    7 |
-| Elephant             | 3000 kg              | 12 - 21 kg            |                   46 |
-| Man                  | 60-70kg              | 300 gm                |                   76 |
-| Coaltit (Bird)       | 8 gm                 | 0.15 gm               |                 1200 |
+<table><tr><td>Name of the animal</td><td>Weight of the body</td><td>Weight of the heart</td><td>No. of 
+beats/min</td></tr><tr><td>Blue whale</td><td>1,50,000 kg</td><td>750 kg</td><td>7</td></tr><tr><td>Elephant</td><td>3000 kg</td><td>12 - 21 kg</td><td>46</td></tr><tr><td>Man</td><td>60-70kg</td><td>300 gm</td><td>76</td></tr><tr><td>Coaltit (Bird)</td><td>8 gm</td><td>0.15 gm</td><td>1200</td></tr></table>
 
 ## Single /double circulation
 
@@ -2231,6 +2181,7 @@ Thalassemia major should be diagnosed as early as possible in order to prevent g
 
 Today thalassemia major can be cured by stem cell transplantation. A prerequisite is usually that the affected individual who has siblings with identical tissue type (HLA type) a transplantation of blood stem cells referred to as a “bone marrow transplant”, can be carried out.
 
+
 # Chapter 4
 # Excretion - The wastage disposing system
 
@@ -2250,11 +2201,7 @@ Living beings need energy for their survival and to perform activities either bu
 
 Table-1   
 
-| Life processes   | Products   |
-|------------------|------------|
-| Photosynthesis   |            |
-| Respiration      |            |
-| Digestion        |            |
+<table><tr><td>Life processes</td><td>Products</td></tr><tr><td>Photosynthesis</td><td></td></tr><tr><td>Respiration</td><td></td></tr><tr><td>Digestion</td><td></td></tr></table>
 
 What products would the organism be able to take up for other activities?
 
@@ -2286,41 +2233,13 @@ Table-2: DEPARTMENT OF BIOCHEMISTRY
 REPORT ON PLASMA/SERUM (BLOOD) ANALYSIS   
 Table-3: DEPARTMENT OF BIOCHEMISTRY   
 
-| TEST NAME         | RESULT   | UNITS    | RANGE    |
-|-------------------|----------|----------|----------|
-| GLUCOSE FASTING   | 82       | mg/dl    | 60-100   |
-| SODIUM            | 137      | mmoles/L | 135-145  |
-| POTASSIUM         | 4.10     | mmoles/L | 3.5-5.0  |
-| CHLORIDES         | 101      | mmoles/L | 95-106   |
-| UREA              | 29       | mg/dl    | 15-40    |
-| CREATININE        | 2.8.     | mg/dl    | 0.6-1.5  |
-| URIC ACID         | 7.50     | mg/dl    | 3.0-5.0  |
-| TOTAL CHOLESTEROL | 221      | mg/dl    | 150-200  |
-| TRIGLYCERIDES     | 167      | mg/dl    | 60-200   |
-| CALCIUM           | 9.40     | mg/dl    | 8.0-10.5 |
-| PHOSPHORUS        | 4.50     | mg/dl    | 3-4.5    |
-| BILIRUBIN (TOTAL) | 0.70     | mg/dl    | 0.1-0.8  |
-| TOTAL PROTEINS    | 7.20     | g/dl     | 6.0-7.5  |
-| ALBUMIN           | 4.60     | g/dl     | 3.0-5.0  |
+<table><tr><td>TEST NAME</td><td>RESULT</td><td>UNITS</td><td>RANGE</td></tr><tr><td>GLUCOSE FASTING</td><td>82</td><td>mg/dl</td><td>60-100</td></tr><tr><td>SODIUM</td><td>137</td><td>mmoles/L</td><td>135-145</td></tr><tr><td>POTASSIUM</td><td>4.10</td><td>mmoles/L</td><td>3.5-5.0</td></tr><tr><td>CHLORIDES</td><td>101</td><td>mmoles/L</td><td>95-106</td></tr><tr><td>UREA</td><td>29</td><td>mg/dl</td><td>15-40</td></tr><tr><td>CREATININE</td><td>2.8.</td><td>mg/dl</td><td>0.6-1.5</td></tr><tr><td>URIC ACID</td><td>7.50</td><td>mg/dl</td><td>3.0-5.0</td></tr><tr><td>TOTAL CHOLESTEROL</td><td>221</td><td>mg/dl</td><td>150-200</td></tr><tr><td>TRIGLYCERIDES</td><td>167</td><td>mg/dl</td><td>60-200</td></tr><tr><td>CALCIUM</td><td>9.40</td><td>mg/dl</td><td>8.0-10.5</td></tr><tr><td>PHOSPHORUS</td><td>4.50</td><td>mg/dl</td><td>3-4.5</td></tr><tr><td>BILIRUBIN (TOTAL)</td><td>0.70</td><td>mg/dl</td><td>0.1-0.8</td></tr><tr><td>TOTAL PROTEINS</td><td>7.20</td><td>g/dl</td><td>6.0-7.5</td></tr><tr><td>ALBUMIN</td><td>4.60</td><td>g/dl</td><td>3.0-5.0</td></tr></table>
 
 REPORT ON URINE ANALYSIS   
 
-| TEST/METHOD       |   RESULT | UNITS   | RANGE     |
-|-------------------|----------|---------|-----------|
-| 24 hrs.Protein    |     90   | mg/day  | <100 mg   |
-| 24 hrs Creatinine |      2.7 | mg/day  | 1-2       |
-| 24 hrs.Calcium    |    305   | mg/day  | Up to 200 |
-| 24hrs.phosphorous |      0.8 | mg/day  | upto 1g   |
-| 24hrs.uric Acid   |    800   | mg/day  | upto 600  |
+<table><tr><td>TEST/METHOD</td><td>RESULT</td><td>UNITS</td><td>RANGE</td></tr><tr><td>24 hrs.Protein</td><td>90</td><td>mg/day</td><td>&lt;100 mg</td></tr><tr><td>24 hrs Creatinine</td><td>2.7</td><td>mg/day</td><td>1-2</td></tr><tr><td>24 hrs.Calcium</td><td>305</td><td>mg/day</td><td>Up to 200</td></tr><tr><td>24hrs.phosphorous</td><td>0.8</td><td>mg/day</td><td>upto 1g</td></tr><tr><td>24hrs.uric Acid</td><td>800</td><td>mg/day</td><td>upto 600</td></tr></table>
 
-| ELECTROLYTES:           |   ELECTROLYTES: | ELECTROLYTES:   | ELECTROLYTES:   |
-|-------------------------|-----------------|-----------------|-----------------|
-| Sodium                  |             140 | mmoles/L        | 125-250         |
-| potassium               |              50 | mmoles/L        | 25-100          |
-| Osmolality (calculated) |             180 | mmoles/L        | 100-600         |
-| Glucose                 |              65 | mg/dl           | 50-80           |
-| Chlorides               |             128 | mmoles/L        | 120-130         |
-| Urea                    |              35 | gm/day          | 20-30           |
+<table><tr><td colspan="4">ELECTROLYTES:</td></tr><tr><td>Sodium</td><td>140</td><td>mmoles/L</td><td>125-250</td></tr><tr><td>potassium</td><td>50</td><td>mmoles/L</td><td>25-100</td></tr><tr><td>Osmolality (calculated)</td><td>180</td><td>mmoles/L</td><td>100-600</td></tr><tr><td>Glucose</td><td>65</td><td>mg/dl</td><td>50-80</td></tr><tr><td>Chlorides</td><td>128</td><td>mmoles/L</td><td>120-130</td></tr><tr><td>Urea</td><td>35</td><td>gm/day</td><td>20-30</td></tr></table>
 
 m moles / L means millimoles per litre, mg/dl means milligram per deci litre.
 
@@ -2581,17 +2500,7 @@ fig-11: Liver, intestine
 
 Table-4   
 
-| Name of the phylum/ organism   | Excretory system/ organ                                            |
-|--------------------------------|--------------------------------------------------------------------|
-| Protozoa                       | Simple diffusion from the body surface in to the surrounding water |
-| Porifera and coelenterates     | Water bathes almost all their cells                                |
-| Platyhelminthes                | Flame cells                                                        |
-| Nematoda                       | Renette cells                                                      |
-| Annelids                       | Nephridia                                                          |
-| Arthropoda                     | Green glands, Malpighian tubules                                   |
-| Mollusca                       | Meta nephridia                                                     |
-| Echinodermata                  | Water vascular system                                              |
-| Reptiles, Aves and Mammals     | Kidneys                                                            |
+<table><tr><td>Name of the phylum/ organism</td><td>Excretory system/ organ</td></tr><tr><td>Protozoa</td><td>Simple diffusion from the body surface in to the surrounding water</td></tr><tr><td>Porifera and coelenterates</td><td>Water bathes almost all their cells</td></tr><tr><td>Platyhelminthes</td><td>Flame cells</td></tr><tr><td>Nematoda</td><td>Renette cells</td></tr><tr><td>Annelids</td><td>Nephridia</td></tr><tr><td>Arthropoda</td><td>Green glands, Malpighian tubules</td></tr><tr><td>Mollusca</td><td>Meta nephridia</td></tr><tr><td>Echinodermata</td><td>Water vascular system</td></tr><tr><td>Reptiles, Aves and Mammals</td><td>Kidneys</td></tr></table>
 
 Multicellular organisms possess different excretory organs for removal of waste materials from the body. Structural and functional complexity of excretory organs increases from sponges to humans. Sponges and coelenterates do not have specific excretory organs as water bathes almost all their cells. Excretory structures appear for the first time in Flatworms (Platyhelminthes) are known as flame cells.
 
@@ -2626,16 +2535,7 @@ These are nitrogenous by- products and poisonous. These are stored in different 
 
 Table-5   
 
-| ALKALOID          | PLANT                            | PART                  | USES                             |
-|-------------------|----------------------------------|-----------------------|----------------------------------|
-| Quinine           | Cinchona officinalis(Cinchona)   | Bark                  | Antimalarial drug                |
-| Nicotine          | Nicotiana tobacum(Tobacco)       | Leaves                | Insecticide, stimulant           |
-| Morphine, Cocaine | Papaver somniferum(Opium)        | Fruit                 | Pain killer                      |
-| Reserpine         | Rauwolfia serpentina(Snake root) | Root                  | Medicine for Snake bite,High BP  |
-| Caffeine          | Coffea arabica(Coffee plant)     | Seed                  | Central nervous system Stimulant |
-| Nimbin            | Azadirachta indica(neem)         | Seeds, Barks, Leaves. | Antiseptic                       |
-| Scopolamine       | Datura stramonium                | Fruit, flower         | Sedative                         |
-| Pyrethroids       | Chrysanthemum sps                | Flower                | Insecticides                     |
+<table><tr><td>ALKALOID</td><td>PLANT</td><td>PART</td><td>USES</td></tr><tr><td>Quinine</td><td>Cinchona officinalis(Cinchona)</td><td>Bark</td><td>Antimalarial drug</td></tr><tr><td>Nicotine</td><td>Nicotiana tobacum(Tobacco)</td><td>Leaves</td><td>Insecticide, stimulant</td></tr><tr><td>Morphine, Cocaine</td><td>Papaver somniferum(Opium)</td><td>Fruit</td><td>Pain killer</td></tr><tr><td>Reserpine</td><td>Rauwolfia serpentina(Snake root)</td><td>Root</td><td>Medicine for Snake bite,High BP</td></tr><tr><td>Caffeine</td><td>Coffea arabica(Coffee plant)</td><td>Seed</td><td>Central nervous system Stimulant</td></tr><tr><td>Nimbin</td><td>Azadirachta indica(neem)</td><td>Seeds, Barks, Leaves.</td><td>Antiseptic</td></tr><tr><td>Scopolamine</td><td>Datura stramonium</td><td>Fruit, flower</td><td>Sedative</td></tr><tr><td>Pyrethroids</td><td>Chrysanthemum sps</td><td>Flower</td><td>Insecticides</td></tr></table>
 
 ![](images/ae3f0c18884eea760439e7d688d6d38c56edcb60adc0fab093ea83d4afd0373e.jpg)  
 Papaver
@@ -3334,26 +3234,7 @@ Similarly the sugar levels in the blood rise than normal level, they are detecte
 
 Table-2: Endocrine glands   
 
-| Name of the endocrine gland   | Location            | Hormone secreted                  | Response of body to hormone                                                                                                  |
-|-------------------------------|---------------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------|
-| Pituitary                     | Floor of brain      | 1. Somatotropin                   | Growth of bones                                                                                                              |
-| Pituitary                     | Floor of brain      | 2. Thyrotropin                    | Activity of thyroid gland                                                                                                    |
-| Pituitary                     | Floor of brain      | 3. Gonadotropin                   | Activity of ovary and testis                                                                                                 |
-| Pituitary                     | Floor of brain      | 4. Adreno cortico trophic hormone | Stimulates secretion from adrenal cortex                                                                                     |
-| Pituitary                     | Floor of brain      | 5. Luteinising hormone            | In males - secretion of testosterone.                                                                                        |
-| Pituitary                     | Floor of brain      | 5. Luteinising hormone            | In female - Ovulation, development of corpus luteum and secretion of progesterone.                                           |
-| Pituitary                     | Floor of brain      | 6. Follicle stimulating hormone   | In male - spermatogenesis                                                                                                    |
-| Pituitary                     | Floor of brain      | 6. Follicle stimulating hormone   | In female - growth of graafian follicles, estrogen secretion, milk production and secretion.                                 |
-| Pituitary                     | Floor of brain      | 7. Vasopressin                    | Regulate absorption of water from the kidney tubules                                                                         |
-| Thyroid                       | Neck                | Thyroxine                         | General growth rate and metabolic activity                                                                                   |
-| Ovary                         | Lower abdomen       | Estrogen                          | Growth of the uterus and skeleton of the pelvis                                                                              |
-| Ovary                         | Lower abdomen       | Estrogen                          | Control of the 28 days menstrual cycle in females.                                                                           |
-| Ovary                         | Lower abdomen       | Progesteron                       | Development of uterus, implantation, development of mammary glands.                                                          |
-| Testes                        | Scrotal sac         | Testosterone                      | Growth of hair on face, muscular development, deepening of voice, normal sexual behavior and development of male sex organs. |
-| Adrenal                       | Attached to kidneys | Adrenalin                         | Increase in heart-beat rate. Rise in blood sugar.                                                                            |
-| Adrenal                       | Attached to kidneys | Adrenalin                         | Dilation of the coronary artery. Dilation of the pupil of the eye. .                                                         |
-| Pancreas                      | Near duodenum       | 1. Insulin                        | Decrease glucose percentage in blood                                                                                         |
-| Pancreas                      | Near duodenum       | 2. Glucagon                       | Increase glucose percentage in blood                                                                                         |
+<table><tr><td>Name of the endocrine gland</td><td>Location</td><td>Hormone secreted</td><td>Response of body to hormone</td></tr><tr><td rowspan="9">Pituitary</td><td rowspan="9">Floor of brain</td><td>1. Somatotropin</td><td>Growth of bones</td></tr><tr><td>2. Thyrotropin</td><td>Activity of thyroid gland</td></tr><tr><td>3. Gonadotropin</td><td>Activity of ovary and testis</td></tr><tr><td>4. Adreno cortico trophic hormone</td><td>Stimulates secretion from adrenal cortex</td></tr><tr><td rowspan="2">5. Luteinising hormone</td><td>In males - secretion of testosterone.</td></tr><tr><td>In female - Ovulation, development of corpus luteum and secretion of progesterone.</td></tr><tr><td rowspan="2">6. Follicle stimulating hormone</td><td>In male - spermatogenesis</td></tr><tr><td>In female - growth of graafian follicles, estrogen secretion, milk production and secretion.</td></tr><tr><td>7. Vasopressin</td><td>Regulate absorption of water from the kidney tubules</td></tr><tr><td>Thyroid</td><td>Neck</td><td>Thyroxine</td><td>General growth rate and metabolic activity</td></tr><tr><td rowspan="3">Ovary</td><td rowspan="3">Lower abdomen</td><td rowspan="2">Estrogen</td><td>Growth of the uterus and skeleton of the pelvis</td></tr><tr><td>Control of the 28 days menstrual cycle in females.</td></tr><tr><td>Progesteron</td><td>Development of uterus, implantation, development of mammary glands.</td></tr><tr><td>Testes</td><td>Scrotal sac</td><td>Testosterone</td><td>Growth of hair on face, muscular development, deepening of voice, normal sexual behavior and development of male sex organs.</td></tr><tr><td rowspan="2">Adrenal</td><td rowspan="2">Attached to kidneys</td><td rowspan="2">Adrenalin</td><td>Increase in heart-beat rate. Rise in blood sugar.</td></tr><tr><td>Dilation of the coronary artery. Dilation of the pupil of the eye. .</td></tr><tr><td rowspan="2">Pancreas</td><td rowspan="2">Near duodenum</td><td>1. Insulin</td><td>Decrease glucose percentage in blood</td></tr><tr><td>2. Glucagon</td><td>Increase glucose percentage in blood</td></tr></table>
 
 So it is necessary that the hormones are secreted by the glands in our body in precise quantities which are required for the normal functioning of the body. This means that there should be some mechanism to regulate the production and release of hormones in the body.
 
@@ -3389,13 +3270,7 @@ Plants can sense the presence of stimuli like light, heat, water, touch, pressur
 
 Table-3: Major plant hormones and their action   
 
-| Hormones      | Uses                                                                                                                                                                |
-|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Auxins        | cell elongation and differentiation of shoots and roots                                                                                                             |
-| Cytokinins    | promote cell division, promotion of sprouting of lateral buds, delaying the ageing in leaves, opening of stomata.                                                   |
-| Gibberellins  | germination of seeds and sprouting of buds; elongation of stems; stimulation of flowering; development of seedless fruits, breaking the dormancy in seeds and buds. |
-| Abscisic acid | closing of stomata; seed dormancy, promoting aging of leaves.                                                                                                       |
-| Ethylene      | ripening of fruit                                                                                                                                                   |
+<table><tr><td>Hormones</td><td>Uses</td></tr><tr><td>Auxins</td><td>cell elongation and differentiation of shoots and roots</td></tr><tr><td>Cytokinins</td><td>promote cell division, promotion of sprouting of lateral buds, delaying the ageing in leaves, opening of stomata.</td></tr><tr><td>Gibberellins</td><td>germination of seeds and sprouting of buds; elongation of stems; stimulation of flowering; development of seedless fruits, breaking the dormancy in seeds and buds.</td></tr><tr><td>Abscisic acid</td><td>closing of stomata; seed dormancy, promoting aging of leaves.</td></tr><tr><td>Ethylene</td><td>ripening of fruit</td></tr></table>
 
 Discuss with your teacher about seed dormancy.
 
@@ -3455,6 +3330,7 @@ If you taste the carpel of a flower it is sweet. Let us recall butterflies flutt
 
 of response to chemicals is called chemo tropism. Unequal distribution of auxins affects the root and the stem growth. High concentration of auxin stimulates stem growth and inhibit root growth.
 
+![](images/1c609bdc3d7f43a24364cf635417b49cbb131f0eadf824e418643f0613cc8465.jpg)
 
 ## Key words
 
@@ -3967,6 +3843,7 @@ The umbilical cord leading the baby to placenta, is tied off and cut by the doct
 
 entered the body.) After the birth of the baby, the muscular contractions of the uterus continue until they push out the tissues of the placenta, which are commonly called the “afterbirth.” During the end of pregnancy, a watery yellowish lymph like fluid called ‘colostrum’ accumulates in the mammary glands, which have gradually been enlarging and undergo transformation. For the first few days after the baby is born, the mammary glands secrete only colostrum. It is very important to feed this to the new born baby. It helps in developing the immune system of the child. After this milk will be screted. After child birth when production of milk stops menstural cycle will be started.
 
+![](images/552088794206323e099783dfa5168b582575b34d3ad349a8b60eeb3c751a3387.jpg)
 
 ## Do you know?
 
@@ -4187,12 +4064,7 @@ fig-29: Mitosis
 
 Table-1: Mitosis   
 
-| Stage        | Description                                                                                                                                                                                                                                                                                                                                                                                |
-|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. Prophase  | 1. Chromosomes condense and get coiled. They become visible even in light microscope and nucleoli become smaller.2. Chromosomes split lengthwise to form chromatids, connected by centromeres.3. Nuclear membrane disappears.4. Centrosome, containing rod-like centrioles, divide and form ends of spindle (probably animal cells only). (Note: No pairing of chromosomes as in meiosis). |
-| 2. Metaphase | 1. Chromosomes move to spindle equator, spindle fibres attached to centromers.                                                                                                                                                                                                                                                                                                             |
-| 3. Anaphase  | 1. Centromeres split, separating the chromatids.2. Spindle fibres attached to centromeres contract, pulling chromatids towards poles                                                                                                                                                                                                                                                       |
-| 4. Telophase | 1. Chromatids elongate, become invisible, replication at this stage to become chromosomes.2. Nuclear membranes form round daughter nuclei.3. Cell membrane pinches to form daughter cells (animals) or new cell wall material becomes laid down across spindle equator (plants)4. Nucleus divides into two and division of cytoplasm starts Two cells are form.                            |
+<table><tr><td>Stage</td><td>Description</td></tr><tr><td>1. Prophase</td><td>1. Chromosomes condense and get coiled. They become visible even in light microscope and nucleoli become smaller.2. Chromosomes split lengthwise to form chromatids, connected by centromeres.3. Nuclear membrane disappears.4. Centrosome, containing rod-like centrioles, divide and form ends of spindle (probably animal cells only). (Note: No pairing of chromosomes as in meiosis).</td></tr><tr><td>2. Metaphase</td><td>1. Chromosomes move to spindle equator, spindle fibres attached to centromers.</td></tr><tr><td>3. Anaphase</td><td>1. Centromeres split, separating the chromatids.2. Spindle fibres attached to centromeres contract, pulling chromatids towards poles</td></tr><tr><td>4. Telophase</td><td>1. Chromatids elongate, become invisible, replication at this stage to become chromosomes.2. Nuclear membranes form round daughter nuclei.3. Cell membrane pinches to form daughter cells (animals) or new cell wall material becomes laid down across spindle equator (plants)4. Nucleus divides into two and division of cytoplasm starts Two cells are form.</td></tr></table>
 
 ## Process of meiosis
 
@@ -4480,7 +4352,6 @@ Collect information about Rashrtriya Kishore Swasthya Karakram (RKSK)
 ![](images/aab9cb722508cf26a388d4db1b1ddb085095f5b9b1501d77409ca6fa3158c946.jpg)
 
 
-
 Human body is a wonderful machine. It is a complicated structure than it appears. Did you ever imagine the complexity of your body? Different life processes in living organisms like respiration, digestion, blood circulation, excretion, nervous system etc., are inbuilt in our body at their specific places and carry out their specific functions in a coordinated manner. We have studied each of the processes in detail nearly in isolation except in the chapter on ‘Control and Coordination’. In this chapter, we shall go a step further to experience the complexities involved and appreciate the wonderful integration in our life processes.
 
 Let’s recall the parts of the digestive canal or gut, that are involved in the digestive process where the food is broken down at different stages.
@@ -4503,10 +4374,7 @@ Let us observe the following table. Identify and tick those options that you thi
 
 Table-1   
 
-| Smell of food   | Taste of food   | Sight of food   | Being tired and exhausted   | Need of food   | Thought of food   |
-|-----------------|-----------------|-----------------|-----------------------------|----------------|-------------------|
-|                 |                 |                 |                             |                |                   |
-|                 |                 |                 |                             |                |                   |
+<table><tr><td>Smell of food</td><td>Taste of food</td><td>Sight of food</td><td>Being tired and exhausted</td><td>Need of food</td><td>Thought of food</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
 
 What stimulates hunger?
 
@@ -4671,12 +4539,7 @@ Now fill up the following table with proper information based on the figure give
 
 Table-2   
 
-| Type of teeth   | Number of teeth in each jaw   | Shape   | Function   |
-|-----------------|-------------------------------|---------|------------|
-|                 |                               |         |            |
-|                 |                               |         |            |
-|                 |                               |         |            |
-|                 |                               |         |            |
+<table><tr><td>Type of teeth</td><td>Number of teeth in each jaw</td><td>Shape</td><td>Function</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></table>
 
 The circular muscles of the mouth enable the food to be pushed into the oral cavity and to be moved around. As the food cannot be swallowed directly the teeth grind, chew and shred it. This process is called mastication. For this purpose the surface muscles of the jaw help in biting and chewing actions, and move the jaw up, down, forward and backward during food mastication. You may have observed your lower jaw moving up and down as you chew food. The teeth help in cutting and grinding while tongue movements evenly spread out the food and help in mixing it with saliva. The muscles of the mouth enable the food to be pushed in the oral cavity and to be moved around. The fifth cranial nerve has been found to control the movement of muscles in the jaw.
 
@@ -4845,11 +4708,8 @@ We observe that digestion of food starts from the mouth. While the food passes t
 
 Table-3   
 
-| Percentage   | Emptying of stomach   | Emptying of small intestine             |
-|--------------|-----------------------|-----------------------------------------|
-| 50%          | 2 1/2 to 3 hours      | 2½ hours                                |
-| Total 100%   | 4 to 5 hours          | 30 to 40 hours
- (Transit through colon) |
+<table><tr><td>Percentage</td><td>Emptying of stomach</td><td>Emptying of small intestine</td></tr><tr><td>50%</td><td>2 1/2 to 3 hours</td><td>2½ hours</td></tr><tr><td>Total 100%</td><td>4 to 5 hours</td><td>30 to 40 hours
+(Transit through colon)</td></tr></table>
 
 (These are only averages. The movement of materials varies among individuals and time after different meals.)
 
@@ -5212,10 +5072,7 @@ Compare your traits with the traits of your parents, brother, sister and grand p
 
 Table-1   
 
-| Characters    | In me   | In my Mother   | In my Father   | In my brother   | In my sister   | In my grandparents   |
-|---------------|---------|----------------|----------------|-----------------|----------------|----------------------|
-| 1. Curly hair |         |                |                |                 |                |                      |
-|               |         |                |                |                 |                |                      |
+<table><tr><td>Characters</td><td>In me</td><td>In my Mother</td><td>In my Father</td><td>In my brother</td><td>In my sister</td><td>In my grandparents</td></tr><tr><td>1. Curly hair</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
 
 Is there any character in you similar to that of your mother as well as your grandma?
 
@@ -5233,12 +5090,7 @@ Observe some of your friends and note their characters in the following table. F
 
 Table-2   
 
-| Name of your friend   | Colour of skin   | Ear lobes Free/ attached   | Marking on inner side of thumb   | Length of fore head   | Colour of eyes (Cornea)   | Any other features   |
-|-----------------------|------------------|----------------------------|----------------------------------|-----------------------|---------------------------|----------------------|
-|                       |                  |                            |                                  |                       |                           |                      |
-|                       |                  |                            |                                  |                       |                           |                      |
-|                       |                  |                            |                                  |                       |                           |                      |
-|                       |                  |                            |                                  |                       |                           |                      |
+<table><tr><td>Name of your friend</td><td>Colour of skin</td><td>Ear lobes Free/ attached</td><td>Marking on inner side of thumb</td><td>Length of fore head</td><td>Colour of eyes (Cornea)</td><td>Any other features</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
 
 Compare your characters to that of any one of your friend. How many characters did you find were similar among you and your friend?
 
@@ -5298,27 +5150,11 @@ fig-2: Gregor Johann Mendel
 
 Table - 3   
 
-|   Sl.No. | Character              | Description                                                                                                                         |
-|----------|------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | Colour of the flower   | Purple or white                                                                                                                     |
-|        2 | Position of the flower | Either in axial or terminal in position. (If they are axial they are arranged in axial position throughout the length of the stem). |
-|        3 | Colour of the seed     | The seeds are either yellow or green colour.                                                                                        |
-|        4 | Shape of the seed      | The seeds are either round (smooth surface) or wrinkled.                                                                            |
-|        5 | Shape of the pod       | The completely developed pod is either smooth, full and constricted.                                                                |
-|        6 | Colour of the pod      | All the ripe pods are yellow in colour. Unripe parts are either yellow or green in colour.                                          |
-|        7 | Length of the stem     | When the plants are grown in the same environment some stems are tall (6 to 7 feet) and some stems are dwarf (3/4 feet to 1½ feet). |
+<table><tr><td>Sl.No.</td><td>Character</td><td>Description</td></tr><tr><td>1.</td><td>Colour of the flower</td><td>Purple or white</td></tr><tr><td>2.</td><td>Position of the flower</td><td>Either in axial or terminal in position. (If they are axial they are arranged in axial position throughout the length of the stem).</td></tr><tr><td>3.</td><td>Colour of the seed</td><td>The seeds are either yellow or green colour.</td></tr><tr><td>4.</td><td>Shape of the seed</td><td>The seeds are either round (smooth surface) or wrinkled.</td></tr><tr><td>5.</td><td>Shape of the pod</td><td>The completely developed pod is either smooth, full and constricted.</td></tr><tr><td>6.</td><td>Colour of the pod</td><td>All the ripe pods are yellow in colour. Unripe parts are either yellow or green in colour.</td></tr><tr><td>7.</td><td>Length of the stem</td><td>When the plants are grown in the same environment some stems are tall (6 to 7 feet) and some stems are dwarf (3/4 feet to 1½ feet).</td></tr></table>
 
 Table-3: The results of Mendel’s F1 crosses for seven characters in pea plants   
 
-| Character       | DominantTrait   | RecessiveTrait   | F2 GenerationDominant:Recessive   | Ratio   |
-|-----------------|-----------------|------------------|-----------------------------------|---------|
-| Flower colour   | Purple          | White            | 705:224                           | 3.15:1  |
-| Flower position | Axial           | Terminal         | 651:207                           | 3.14:1  |
-| Seed colour     | Yellow          | Green            | 6022:2001                         | 3.01:1  |
-| Seed shape      | Round           | Wrinkled         | 5474:1850                         | 2.96:1  |
-| Pod shape       | Inflated        | Constricted      | 882:299                           | 2.95:1  |
-| Pod colour      | Green           | Yellow           | 428:152                           | 2.82:1  |
-| Stem length     | Tall            | Dwarf            | 787:277                           | 2.84:1  |
+<table><tr><td>Character</td><td>DominantTrait</td><td>RecessiveTrait</td><td>F2 GenerationDominant:Recessive</td><td>Ratio</td></tr><tr><td>Flower colour</td><td>Purple</td><td>White</td><td>705:224</td><td>3.15:1</td></tr><tr><td>Flower position</td><td>Axial</td><td>Terminal</td><td>651:207</td><td>3.14:1</td></tr><tr><td>Seed colour</td><td>Yellow</td><td>Green</td><td>6022:2001</td><td>3.01:1</td></tr><tr><td>Seed shape</td><td>Round</td><td>Wrinkled</td><td>5474:1850</td><td>2.96:1</td></tr><tr><td>Pod shape</td><td>Inflated</td><td>Constricted</td><td>882:299</td><td>2.95:1</td></tr><tr><td>Pod colour</td><td>Green</td><td>Yellow</td><td>428:152</td><td>2.82:1</td></tr><tr><td>Stem length</td><td>Tall</td><td>Dwarf</td><td>787:277</td><td>2.84:1</td></tr></table>
 
 Why Mendel had choosen garden pea as material for his experiments?
 
@@ -5330,6 +5166,7 @@ Because it has following advantages.
 4. Suitable for cross pollination   
 5. It is an annual plant
 
+![](images/f76c9214f8153adb621def97f2c383b9c8c14ce4e4c2b2c14ad13cd3690697b4.jpg)
 
 ## Do you know?
 
@@ -5396,10 +5233,7 @@ Parental generation - Cross pollination
 
 ![](images/0abd1fdaefe677938b380719aec533473cebcfaba1d10766473f3bcd6a7fe8e8.jpg)
 
-| ♀♂   | y   | y   |
-|------|-----|-----|
-| Y    | Yy  | Yy  |
-| Y    | Yy  | Yy  |
+<table><tr><td>♀♂</td><td>y</td><td>y</td></tr><tr><td>Y</td><td>Yy</td><td>Yy</td></tr><tr><td>Y</td><td>Yy</td><td>Yy</td></tr></table>
 
 Yy ... . (yellow)
 
@@ -5419,10 +5253,7 @@ On self pollinating these peas (ones with Yy factor), the new breed have any com
 
 It can be YY, Yy, yY or yy. All of them are in equal ratio.
 
-| ♀♂   | Y   | y   |
-|------|-----|-----|
-| Y    | YY  | Yy  |
-| y    | yY  | yy  |
+<table><tr><td>♀♂</td><td>Y</td><td>y</td></tr><tr><td>Y</td><td>YY</td><td>Yy</td></tr><tr><td>y</td><td>yY</td><td>yy</td></tr></table>
 
 ## F2-Generation
 
@@ -5491,10 +5322,7 @@ Traits that may be passed on from one generation to the next are called as herit
 
 Let us do the following activity to understand the Mendelian principles of Heredity.
 
-| ♀♂      |   BAG 'A' |   BAG 'A' |
-|---------|-----------|-----------|
-| BAG 'B' |         1 |         2 |
-| BAG 'B' |         3 |         4 |
+<table><tr><td>♀♂</td><td colspan="2">BAG ‘A’</td></tr><tr><td rowspan="2">BAG ‘B’</td><td>1</td><td>2</td></tr><tr><td>3</td><td>4</td></tr></table>
 
 ## Materials required :
 
@@ -5792,17 +5620,7 @@ Archeopteryx
 
 ## Human evolution
 
-| Diopithicus               | 15 million years                  |
-|---------------------------|-----------------------------------|
-| Ramapithicus              | 2 million years                   |
-| Astrolophiticus           |                                   |
-| Homo habilis              | 1.6 - 2.5 million years           |
-| Home erectus              | 1 - 1.8 million years             |
-| Homo Neanderthalensis     |                                   |
-|                           | 1,00,000 to 40,000 thousand years |
-| Cromagnan                 |                                   |
-|                           | 15,000 to 10,000 thousand years   |
-| Homo sapiens (modern man) |                                   |
+<table><tr><td>Diopithicus</td><td>15 million years</td></tr><tr><td>Ramapithicus</td><td>2 million years</td></tr><tr><td>Astrolophiticus</td><td></td></tr><tr><td>Homo habilis</td><td>1.6 - 2.5 million years</td></tr><tr><td>Home erectus</td><td>1 - 1.8 million years</td></tr><tr><td>Homo Neanderthalensis</td><td></td></tr><tr><td></td><td>1,00,000 to 40,000 thousand years</td></tr><tr><td>Cromagnan</td><td></td></tr><tr><td></td><td>15,000 to 10,000 thousand years</td></tr><tr><td>Homo sapiens (modern man)</td><td></td></tr></table>
 
 Human evolution is the evolutionary process leading up to the appearance of a modern human being. We the present human beings are also have an evolutionary history like plant and other animals. Early man like forms appeared about 7 lakhs 50 thousand years ago. The first sure fossil of our own species of man the Homo sapiens, indicate that true man appeared on the earth 2 lakhs 50 thousand years ago.
 
@@ -5970,12 +5788,7 @@ In the inheritance of more than one pair of characters (traits), the factors for
 
 Mendel believed that every character or trait is controlled or responsible by a pair of factors. The factors which are responsible for a character or trait of an organism, now named as ‘genes’. The pair of genes which are responsible for a character are called as ‘alleles’. Alleles are of two types one is homozygous type (YY or RR) and the other is heterozygous (Yy or Rr).
 
-| ♀   | R Y   | R y   | r y   | r Y   |
-|-----|-------|-------|-------|-------|
-| R Y | RR YY | RR Yy | Rr Yy | Rr YY |
-| R y | RR Yy | RR yy | Rr yy | Rr Yy |
-| r y | Rr Yy | Rr yy | rr yy | rr Yy |
-| r Y | Rr YY | Rr Yy | rr Yy | rr YY |
+<table><tr><td>♀</td><td>R Y</td><td>R y</td><td>r y</td><td>r Y</td></tr><tr><td>R Y</td><td>RR YY</td><td>RR Yy</td><td>Rr Yy</td><td>Rr YY</td></tr><tr><td>R y</td><td>RR Yy</td><td>RR yy</td><td>Rr yy</td><td>Rr Yy</td></tr><tr><td>r y</td><td>Rr Yy</td><td>Rr yy</td><td>rr yy</td><td>rr Yy</td></tr><tr><td>r Y</td><td>Rr YY</td><td>Rr Yy</td><td>rr Yy</td><td>rr YY</td></tr></table>
 
 9 :3 :3 :1
 
@@ -5984,6 +5797,7 @@ Round, green
 
 Wrinkled, yellow   
 Wrinkled, green
+
 
 # Chapter 9
 # Our environment - Our concern
@@ -6168,16 +5982,7 @@ fig-7: Kolleru Lake
 
 Table-1   
 
-| Cuases                               |   Area in 1967 (Km2) |   Area in 2004 (Km2) |
-|--------------------------------------|----------------------|----------------------|
-| Lake -water spread area              |                70.7  |                62.65 |
-| Lake with sparse weed                |                 0    |                47.45 |
-| Lake with dense weed                 |                 0    |                15.2  |
-| Lake-liable to flood in rainy season |               100.97 |                 0    |
-| Aquaculture ponds                    |                 0    |                99.74 |
-| Rice fields                          |                 8.4  |                16.62 |
-| Enchrochment                         |                 0.31 |                 1.37 |
-| Total                                |               180.38 |               180.38 |
+<table><tr><td>Cuases</td><td>Area in 1967 (Km2)</td><td>Area in 2004 (Km2)</td></tr><tr><td>Lake –water spread area</td><td>70.70</td><td>62.65</td></tr><tr><td>Lake with sparse weed</td><td>0</td><td>47.45</td></tr><tr><td>Lake with dense weed</td><td>0</td><td>15.20</td></tr><tr><td>Lake–liable to flood in rainy season</td><td>100.97</td><td>0</td></tr><tr><td>Aquaculture ponds</td><td>0</td><td>99.74</td></tr><tr><td>Rice fields</td><td>8.40</td><td>16.62</td></tr><tr><td>Enchrochment</td><td>0.31</td><td>1.37</td></tr><tr><td>Total</td><td>180.38</td><td>180.38</td></tr></table>
 
 In which year lake-water spread area is more? Why?
 
@@ -6205,18 +6010,7 @@ Let us observe the following table showing different activities in the lake and 
 
 Table-2   
 
-| Problem                               | Agricultural Practices   | Aquaculture practices   | Industrial activities   | Human activities   |
-|---------------------------------------|--------------------------|-------------------------|-------------------------|--------------------|
-| Biological                            |                          |                         |                         |                    |
-| 1. Decreased Migratory birds          | -                        | +                       | -                       | -                  |
-| 2. Population loss of flora and fauna | -                        | +                       | -                       | -                  |
-| 3. Pathogens                          | -                        | -                       | -                       | +                  |
-| Chemical                              |                          |                         |                         |                    |
-| 1. Eutrophication                     | +                        | +                       | -                       | +                  |
-| 2. Toxic contamination                | +                        | +                       | +                       | -                  |
-| Physical                              |                          |                         |                         |                    |
-| 1. Siltation                          | +                        | +                       | -                       | -                  |
-| 2. Flooding                           | +                        | +                       | -                       | +                  |
+<table><tr><td>Problem</td><td>Agricultural Practices</td><td>Aquaculture practices</td><td>Industrial activities</td><td>Human activities</td></tr><tr><td>Biological</td><td></td><td></td><td></td><td></td></tr><tr><td>1. Decreased Migratory birds</td><td>-</td><td>+</td><td>-</td><td>-</td></tr><tr><td>2. Population loss of flora and fauna</td><td>-</td><td>+</td><td>-</td><td>-</td></tr><tr><td>3. Pathogens</td><td>-</td><td>-</td><td>-</td><td>+</td></tr><tr><td>Chemical</td><td></td><td></td><td></td><td></td></tr><tr><td>1. Eutrophication</td><td>+</td><td>+</td><td>-</td><td>+</td></tr><tr><td>2. Toxic contamination</td><td>+</td><td>+</td><td>+</td><td>-</td></tr><tr><td>Physical</td><td></td><td></td><td></td><td></td></tr><tr><td>1. Siltation</td><td>+</td><td>+</td><td>-</td><td>-</td></tr><tr><td>2. Flooding</td><td>+</td><td>+</td><td>-</td><td>+</td></tr></table>
 
 Legend: $( + )$ means has influence on the mentioned problem   
 (-) means has no influence on the mentioned problem
@@ -6550,12 +6344,9 @@ Though rain has not been consistent for a few years, farmers in these villages p
 
 Table-1: Area under irrigation   
 
-| Village     |   Total Area (acres) |   Percentage
- Area Irrigated |   Number of
- Wells |   Sample Size |
-|-------------|----------------------|------------------------------|--------------------|---------------|
-| Wanaparthy  |                 3791 |                           25 |                155 |            25 |
-| Vaddicherla |                 2970 |                           15 |                175 |            25 |
+<table><tr><td>Village</td><td>Total Area (acres)</td><td>Percentage
+Area Irrigated</td><td>Number of
+Wells</td><td>Sample Size</td></tr><tr><td>Wanaparthy</td><td>3791</td><td>25</td><td>155</td><td>25</td></tr><tr><td>Vaddicherla</td><td>2970</td><td>15</td><td>175</td><td>25</td></tr></table>
 
 What is the total irrigated area in acres, in Wanaparthy?
 
@@ -6571,12 +6362,7 @@ The population in the villages has also gone up in a period of 5 years by nearly
 
 Table 2: Status after five years   
 
-| Village     | Percentage change in area under irrigation   | Percentage decline in number of wells   | Percentage change in area under crops   | Percentage change in area under crops   | Percentage change in area under crops   | Percentage change in area under crops   | Percentage change in area under crops   | Percentage change in area under crops   |
-|-------------|----------------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
-| Village     | Percentage change in area under irrigation   | Percentage decline in number of wells   | Paddy                                   | Paddy                                   | Cotton                                  | Gingelly                                | All Crops                               | All Crops                               |
-| Village     | Percentage change in area under irrigation   | Percentage decline in number of wells   | K                                       | R                                       |                                         |                                         | K                                       | R                                       |
-| Wanaparthy  | -14                                          | -39                                     | -17                                     | -17                                     | 163                                     | 86                                      | 11                                      | -17                                     |
-| Vaddicherla | -30                                          | -68                                     | -22                                     | -50                                     | 27                                      | 138                                     | -05                                     | -50                                     |
+<table><tr><td rowspan="3">Village</td><td rowspan="3">Percentage change in area under irrigation</td><td rowspan="3">Percentage decline in number of wells</td><td colspan="6">Percentage change in area under crops</td></tr><tr><td colspan="2">Paddy</td><td>Cotton</td><td>Gingelly</td><td colspan="2">All Crops</td></tr><tr><td>K</td><td>R</td><td></td><td></td><td>K</td><td>R</td></tr><tr><td>Wanaparthy</td><td>-14</td><td>-39</td><td>-17</td><td>-17</td><td>163</td><td>86</td><td>11</td><td>-17</td></tr><tr><td>Vaddicherla</td><td>-30</td><td>-68</td><td>-22</td><td>-50</td><td>27</td><td>138</td><td>-05</td><td>-50</td></tr></table>
 
 K stands for Kharif while R stands for Rabi. Negative values indicate loss/ decline, while positive ones show gain/rise.
 
@@ -6610,13 +6396,7 @@ Water is usually pumped out of wells and bore wells using electricity. Farmers w
 
 Table 3: Annual expenditure on well irrigation for small and large farmers(2002)   
 
-| Village     | Type of Farmer   | Depth of bore well (in feet)   | Percentage area irrigated per well   | Percentage area irrigated per well   | Total cost of well irrigation per acre per year in rupees   |
-|-------------|------------------|--------------------------------|--------------------------------------|--------------------------------------|-------------------------------------------------------------|
-| Village     | Type of Farmer   | Depth of bore well (in feet)   | Kharif                               | Rabi                                 | Total cost of well irrigation per acre per year in rupees   |
-| Wanaparthy  | Large            | 130 - 200                      | 2.50                                 | 1.24                                 | 25000 - 70000                                               |
-|             | Small            | 110 - 180                      | 2.00                                 | 1.13                                 | 25000 - 65000                                               |
-| Vaddicherla | Large            | 90 - 300                       | 1.53                                 | 0.87                                 | 22000 - 50000                                               |
-|             | Small            | 60 - 200                       | 0.99                                 | 0.46                                 | 20000 - 45000                                               |
+<table><tr><td rowspan="2">Village</td><td rowspan="2">Type of Farmer</td><td rowspan="2">Depth of bore well (in feet)</td><td colspan="2">Percentage area irrigated per well</td><td rowspan="2">Total cost of well irrigation per acre per year in rupees</td></tr><tr><td>Kharif</td><td>Rabi</td></tr><tr><td>Wanaparthy</td><td>Large</td><td>130 - 200</td><td>2.50</td><td>1.24</td><td>25000 - 70000</td></tr><tr><td></td><td>Small</td><td>110 - 180</td><td>2.00</td><td>1.13</td><td>25000 - 65000</td></tr><tr><td>Vaddicherla</td><td>Large</td><td>90 - 300</td><td>1.53</td><td>0.87</td><td>22000 - 50000</td></tr><tr><td></td><td>Small</td><td>60 - 200</td><td>0.99</td><td>0.46</td><td>20000 - 45000</td></tr></table>
 
 Is the availability of water resource same for a small and a large farmer?
 
@@ -6645,13 +6425,7 @@ Let us analyse income of small and large type of farmers in Wanaparthy and Vaddi
 
 Table 4: Income on crops   
 
-| Village     | Type of Farmer   | Net income per acre in Rupees   | Net income per acre in Rupees   | Net income per acre in Rupees   | Net income per acre in Rupees   | Total income per acre year in rupees   |
-|-------------|------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|----------------------------------------|
-| Village     | Type of Farmer   | Paddy Kharif                    | Paddy Rabi                      | Cotton                          | Gingelly                        | Total income per acre year in rupees   |
-| Wanaparthy  | Large            | 8200                            | 8700                            | 4900                            | 3300                            | 25100                                  |
-|             | Small            | 7046                            | 8490                            | 10889                           | 3110                            | 29535                                  |
-| Vaddicherla | Large            | 10698                           | 5970                            | 4000                            | 3595                            | 24263                                  |
-|             | Small            | 9128                            | 7380                            | 3031                            | 2650                            | 22189                                  |
+<table><tr><td rowspan="2">Village</td><td rowspan="2">Type of Farmer</td><td colspan="4">Net income per acre in Rupees</td><td rowspan="2">Total income per acre year in rupees</td></tr><tr><td>Paddy Kharif</td><td>Paddy Rabi</td><td>Cotton</td><td>Gingelly</td></tr><tr><td>Wanaparthy</td><td>Large</td><td>8200</td><td>8700</td><td>4900</td><td>3300</td><td>25100</td></tr><tr><td></td><td>Small</td><td>7046</td><td>8490</td><td>10889</td><td>3110</td><td>29535</td></tr><tr><td>Vaddicherla</td><td>Large</td><td>10698</td><td>5970</td><td>4000</td><td>3595</td><td>24263</td></tr><tr><td></td><td>Small</td><td>9128</td><td>7380</td><td>3031</td><td>2650</td><td>22189</td></tr></table>
 
 Which crop is most profitable for a small farmer in Vaddicherla?
 
@@ -6951,6 +6725,7 @@ We need to conserve fossil fuels so we don’t run out of them. However, there a
 
 Scientists are exploring alternatives to fossil fuels. They are trying to produce renewable biofuels to power cars and trucks. They have successfully produced electricity using the sun, wind, water etc.
 
+![](images/7525d4fe9397fd04ceca1f846fffc328c810e49a93ffed9b6097059ec2f17469.jpg)
 
 ## Do you know?
 

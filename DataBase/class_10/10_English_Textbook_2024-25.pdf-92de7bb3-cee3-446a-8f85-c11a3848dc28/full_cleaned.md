@@ -627,14 +627,7 @@ The word metaphor comes from a Greek word meaning ‘transfer’. Metaphors comp
 
 In pairs, find metaphors from the story to complete the table below. Try to say what qualities are being compared. One has been done for you.
 
-| Object     | Metaphor                 | Quality or Feature Compared                                                   |
-|------------|--------------------------|-------------------------------------------------------------------------------|
-| Cloud      | Huge mountains of clouds | The mass or 'hugeness' of mountains                                           |
-| Raindrops  |                          |                                                                               |
-| Hailstones |                          |                                                                               |
-| Locusts    |                          |                                                                               |
-|            |                          | An epidemic (a disease) that spreads very rapidly and leaves many people dead |
-|            | An ox of a man           |                                                                               |
+<table><tr><td>Object</td><td>Metaphor</td><td>Quality or Feature Compared</td></tr><tr><td>Cloud</td><td>Huge mountains of clouds</td><td>The mass or ‘hugeness’ of mountains</td></tr><tr><td>Raindrops</td><td></td><td></td></tr><tr><td>Hailstones</td><td></td><td></td></tr><tr><td>Locusts</td><td></td><td></td></tr><tr><td></td><td></td><td>An epidemic (a disease) that spreads very rapidly and leaves many people dead</td></tr><tr><td></td><td>An ox of a man</td><td></td></tr></table>
 
 ![](images/76c0c77d4ee1c5feca76cde39b393282fe6f79bc30cd82b7a349b56253096a10.jpg)
 
@@ -646,14 +639,7 @@ Have you ever been in great difficulty, and felt that only a miracle could help 
 
 Listen to the letter (given under ‘In This Lesson’) read out by your teacher/on the audio tape. As you listen fill in the table given below.
 
-| The writer apologises (says sorry) because   |    |
-|----------------------------------------------|----|
-| The writer has sent this to the reader       |    |
-| The writer sent it in the month of           |    |
-| The reason for not writing earlier           |    |
-| Sarah goes to                                |    |
-| Who is writing to whom?                      |    |
-| Where and when were they last together?      |    |
+<table><tr><td>The writer apologises (says sorry) because</td><td></td></tr><tr><td>The writer has sent this to the reader</td><td></td></tr><tr><td>The writer sent it in the month of</td><td></td></tr><tr><td>The reason for not writing earlier</td><td></td></tr><tr><td>Sarah goes to</td><td></td></tr><tr><td>Who is writing to whom?</td><td></td></tr><tr><td>Where and when were they last together?</td><td></td></tr></table>
 
 # Writing
 
@@ -773,10 +759,7 @@ suffice: be sufficient
 1. There are many ideas about how the world will ‘end’. Do you think the world will end some day? Have you ever thought what would happen if the sun got so hot that it ‘burst’, or grew colder and colder?   
 2. For Frost, what do ‘fire’ and ‘ice’ stand for? Here are some ideas:
 
-| greed         | avarice   | cruelty      | lust     |
-|---------------|-----------|--------------|----------|
-| conflict      | fury      | intolerance  | rigidity |
-| insensitivity | coldness  | indifference | hatred   |
+<table><tr><td>greed</td><td>avarice</td><td>cruelty</td><td>lust</td></tr><tr><td>conflict</td><td>fury</td><td>intolerance</td><td>rigidity</td></tr><tr><td>insensitivity</td><td>coldness</td><td>indifference</td><td>hatred</td></tr></table>
 
 3. What is the rhyme scheme of the poem? How does it help in bringing out the contrasting ideas in the poem?
 
@@ -1013,14 +996,7 @@ I. There are nouns in the text (formation, government) which are formed from the
 
 1. Make a list of such pairs of nouns and verbs in the text.
 
-| Noun         | Verb       |
-|--------------|------------|
-| rebellion    | rebel      |
-| constitution | constitute |
-|              |            |
-|              |            |
-|              |            |
-|              |            |
+<table><tr><td>Noun</td><td>Verb</td></tr><tr><td>rebellion</td><td>rebel</td></tr><tr><td>constitution</td><td>constitute</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></table>
 
 2. Read the paragraph below. Fill in the blanks with the noun forms of the verbs in brackets.
 
@@ -1910,15 +1886,7 @@ Match the compound words under ‘A’ with their meanings under ‘B’. Use ea
 
 # B
 
-| 1. Heartbreaking   | - obeying and respecting the law                            |
-|--------------------|-------------------------------------------------------------|
-| 2. Homesick        | - think about pleasant things, forgetting about the present |
-| 3. Blockhead       | - something produced by a person, machine or organisation   |
-| 4. Law-abiding     | - producing great sadness                                   |
-| 5. Overdo          | - an occasion when vehicles/machines stop working           |
-| 6. Daydream        | - an informal word which means a very stupid person         |
-| 7. Breakdown       | - missing home and family very much                         |
-| 8. Output          | - do something to an excessive degree                       |
+<table><tr><td>1. Heartbreaking</td><td>- obeying and respecting the law</td></tr><tr><td>2. Homesick</td><td>- think about pleasant things, forgetting about the present</td></tr><tr><td>3. Blockhead</td><td>- something produced by a person, machine or organisation</td></tr><tr><td>4. Law-abiding</td><td>- producing great sadness</td></tr><tr><td>5. Overdo</td><td>- an occasion when vehicles/machines stop working</td></tr><tr><td>6. Daydream</td><td>- an informal word which means a very stupid person</td></tr><tr><td>7. Breakdown</td><td>- missing home and family very much</td></tr><tr><td>8. Output</td><td>- do something to an excessive degree</td></tr></table>
 
 # II. Phrasal Verbs
 
@@ -2312,13 +2280,7 @@ plump physique pleasantly fat body open testimony public statement about a chara
 
 I. In this extract, the author talks about traditional bread-baking during his childhood days. Complete the following table with the help of the clues on the left. Then write a paragraph about the author's childhood days.
 
-| Clues                        | Author's childhood days   |
-|------------------------------|---------------------------|
-| the way bread was baked      |                           |
-| the way the pader sold bread |                           |
-| what the pader wore          |                           |
-| when the pader was paid      |                           |
-| how the pader looked         |                           |
+<table><tr><td>Clues</td><td>Author&#x27;s childhood days</td></tr><tr><td>the way bread was baked</td><td></td></tr><tr><td>the way the pader sold bread</td><td></td></tr><tr><td>what the pader wore</td><td></td></tr><tr><td>when the pader was paid</td><td></td></tr><tr><td>how the pader looked</td><td></td></tr></table>
 
 II. 1. Compare the piece from the text (on the left below) with the other piece on Goan bakers (on the right). What makes the two texts so different? Are the facts the same? Do both writers give you a picture of the baker?
 
@@ -2775,9 +2737,7 @@ Reading up on the subject beforehand is another important requirement and will g
 
 3. Otters are found in large numbers in the marshes (i.e. wet areas near lakes, rivers or seas) near Basra, a town in Iraq. Imagine you wanted to bring an otter from Iraq to London, as a pet. What special arrangements would you need to make for your pet otter? You would need to find a place with lots of water, for example. What other points should you think about? The information about Iraq and London given below may help you.
 
-| Iraq                                                                                                                                                                                                                                                                                                                                                                                         | London                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Iraq has mostly broad plains and marshes along the Iranian border in the south, with large flooded areas. A large part of Iraq's land area is desert, so it has cool winters and dry, hot and cloudless summers. The mountain areas near Iran and Turkey have cold winters. There is heavy snowfall there, and when the snow melts in spring, it causes floods in central and southern Iraq. | London has a large population and is a very busy city. In addition to multi-storeyed buildings, however, it has many open spaces or parks. It has a temperate climate (i.e. it is neither very hot, nor very cold), with regular but generally light rainfall or snow throughout the year. The warmest month is July, and the coolest month is January. February is the driest month. Snow is not very common in London. |
+<table><tr><td>Iraq</td><td>London</td></tr><tr><td>Iraq has mostly broad plains and marshes along the Iranian border in the south, with large flooded areas. A large part of Iraq&#x27;s land area is desert, so it has cool winters and dry, hot and cloudless summers. The mountain areas near Iran and Turkey have cold winters. There is heavy snowfall there, and when the snow melts in spring, it causes floods in central and southern Iraq.</td><td>London has a large population and is a very busy city. In addition to multi-storeyed buildings, however, it has many open spaces or parks. It has a temperate climate (i.e. it is neither very hot, nor very cold), with regular but generally light rainfall or snow throughout the year. The warmest month is July, and the coolest month is January. February is the driest month. Snow is not very common in London.</td></tr></table>
 
 # I
 
@@ -2968,10 +2928,7 @@ barrage of conjectural questions a stream of questions filled with guesses
 What Mij does   
 How Mij feels or thinks   
 
-| plunges, rolls in the water and makes the water splosh and splash   |    |
-|---------------------------------------------------------------------|----|
-| Screws the tap in the wrong way                                     |    |
-| Nuzzles Maxwell's face and neck in the aeroplane                    |    |
+<table><tr><td>plunges, rolls in the water and makes the water splosh and splash</td><td></td></tr><tr><td>Screws the tap in the wrong way</td><td></td></tr><tr><td>Nuzzles Maxwell&#x27;s face and neck in the aeroplane</td><td></td></tr></table>
 
 5. Read the story and find the sentences where Maxwell describes his pet otter. Then choose and arrange your sentences to illustrate those statements below that you think are true.
 
@@ -3008,12 +2965,7 @@ not use would with verbs like be, have, believe, etc. Look at the following sent
 
 From the table below, make as many correct sentences as you can using would and/or used to, as appropriate. (Hint: First decide whether the words in italics show an action, or a state or situation, in the past.) Then add two or three sentences of your own to it.
 
-| Emperor Akbar                    | would   | be fond of musical evenings.   |
-|----------------------------------|---------|--------------------------------|
-| Every evening we                 | would   | take long walks on the beach.  |
-| Fifty years ago, very few people | would   | own cars.                      |
-| Till the 1980s, Shanghai         | would   | have very dirty streets.       |
-| My uncle                         | would   | spend his holidays by the sea. |
+<table><tr><td>Emperor Akbar</td><td rowspan="5">would</td><td>be fond of musical evenings.</td></tr><tr><td>Every evening we</td><td>take long walks on the beach.</td></tr><tr><td>Fifty years ago, very few people</td><td>own cars.</td></tr><tr><td>Till the 1980s, Shanghai</td><td>have very dirty streets.</td></tr><tr><td>My uncle</td><td>spend his holidays by the sea.</td></tr></table>
 
 # II. Noun Modifiers
 
@@ -3061,20 +3013,9 @@ In the examples below, there is an adjectival phrase in front of a noun modifier
 
 2. Given below are some nouns, and a set of modifiers (in the box). Combine the nouns and modifiers to make as many appropriate phrases as you can. (Hint: The nouns and modifiers are all from the texts in this book.)
 
-| temple   | girls    | triangle   | dresses      |
-|----------|----------|------------|--------------|
-| person   | thoughts | boys       | roar         |
-| gifts    | scream   | farewell   | expression   |
-| time     | subject  | landscape  | handkerchief |
-| crossing | flight   | chatterbox | profession   |
-| physique | coffee   | view       | celebration  |
+<table><tr><td>temple</td><td>girls</td><td>triangle</td><td>dresses</td></tr><tr><td>person</td><td>thoughts</td><td>boys</td><td>roar</td></tr><tr><td>gifts</td><td>scream</td><td>farewell</td><td>expression</td></tr><tr><td>time</td><td>subject</td><td>landscape</td><td>handkerchief</td></tr><tr><td>crossing</td><td>flight</td><td>chatterbox</td><td>profession</td></tr><tr><td>physique</td><td>coffee</td><td>view</td><td>celebration</td></tr></table>
 
-| college      | rough         | hundred    | stone         | ordinary   |
-|--------------|---------------|------------|---------------|------------|
-| love         | uncomfortable | white      | slang         | slack      |
-| bare         | railroad      | termendous | family        | marriage   |
-| plump        | invigorating  | panoramic  | heartbreaking | birthday   |
-| incorrigible | ridiculous    | loud       | first         | three      |
+<table><tr><td>college</td><td>rough</td><td>hundred</td><td>stone</td><td>ordinary</td></tr><tr><td>love</td><td>uncomfortable</td><td>white</td><td>slang</td><td>slack</td></tr><tr><td>bare</td><td>railroad</td><td>termendous</td><td>family</td><td>marriage</td></tr><tr><td>plump</td><td>invigorating</td><td>panoramic</td><td>heartbreaking</td><td>birthday</td></tr><tr><td>incorrigible</td><td>ridiculous</td><td>loud</td><td>first</td><td>three</td></tr></table>
 
 III. Read this sentence:
 
@@ -3177,12 +3118,7 @@ on haunches: sitting with knees bent
 
 (i) Find metaphors for the following words and complete the table below. Also try to say how they are alike. The first is done for you.
 
-| Storm   | tiger   | pounces over the fields, growls   |
-|---------|---------|-----------------------------------|
-| Train   |         |                                   |
-| Fire    |         |                                   |
-| School  |         |                                   |
-| Home    |         |                                   |
+<table><tr><td>Storm</td><td>tiger</td><td>pounces over the fields, growls</td></tr><tr><td>Train</td><td></td><td></td></tr><tr><td>Fire</td><td></td><td></td></tr><tr><td>School</td><td></td><td></td></tr><tr><td>Home</td><td></td><td></td></tr></table>
 
 (ii) Think about a storm. Try to visualise the force of the storm, hear the sound of the storm, feel the power of the storm and the sudden calm that happens afterwards. Write a poem about the storm comparing it with an animal.
 
@@ -3204,11 +3140,7 @@ blowing a whistle
 
 2. You must have travelled by bus more than once. What can you see from a fast-moving bus? Given below are some suggestions. Speak briefly about some of these scenes, or about other such scenes that you have seen; or write a sentence or two about them.
 
-| rivers         | green fields         | hills          |
-|----------------|----------------------|----------------|
-| roadside shops | market places        | railway tracks |
-| moving trains  | vehicles on the road | trees          |
-| a crowd        | clothes in shops     | animals        |
+<table><tr><td>rivers</td><td>green fields</td><td>hills</td></tr><tr><td>roadside shops</td><td>market places</td><td>railway tracks</td></tr><tr><td>moving trains</td><td>vehicles on the road</td><td>trees</td></tr><tr><td>a crowd</td><td>clothes in shops</td><td>animals</td></tr></table>
 
 # I
 
@@ -3970,13 +3902,7 @@ marriage registration, the newly-married couple leaves the guests for a tour of 
 
 Wedding Ceremonies in Russia and India   
 
-| Customs similar to Indian ones   | Customs different from Indian ones   |
-|----------------------------------|--------------------------------------|
-|                                  |                                      |
-|                                  |                                      |
-|                                  |                                      |
-|                                  |                                      |
-|                                  |                                      |
+<table><tr><td>Customs similar to Indian ones</td><td>Customs different from Indian ones</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></table>
 
 ‘‘The Proposal’’ (originally titled ‘‘A Marriage Proposal’’) is a oneact play, a farce, by the Russian short story writer and dramatist Anton Chekhov. It was written in 1888–89.
 
@@ -4403,11 +4329,7 @@ Read through the play carefully, and find expressions that you think are not use
 
 2. Look up the following words in a dictionary and find out how to pronounce them. Pay attention to how many syllables there are in each word, and find out which syllable is stressed, or said more forcefully.
 
-| palpitations   | interfere    | implore   | thoroughbred   |
-|----------------|--------------|-----------|----------------|
-| pedigree       | principle    | evidence  | misfortune     |
-| malicious      | embezzlement | architect | neighbours     |
-| accustomed     | temporary    | behaviour | documents      |
+<table><tr><td>palpitations</td><td>interfere</td><td>implore</td><td>thoroughbred</td></tr><tr><td>pedigree</td><td>principle</td><td>evidence</td><td>misfortune</td></tr><tr><td>malicious</td><td>embezzlement</td><td>architect</td><td>neighbours</td></tr><tr><td>accustomed</td><td>temporary</td><td>behaviour</td><td>documents</td></tr></table>
 
 3. Look up the following phrases in a dictionary to find out their meaning, and then use each in a sentence of your own.
 

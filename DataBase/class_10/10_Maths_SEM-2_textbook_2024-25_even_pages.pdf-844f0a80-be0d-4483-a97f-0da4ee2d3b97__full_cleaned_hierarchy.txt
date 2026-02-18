@@ -1,4 +1,18 @@
-# Chapter 8
+# u≤s¡‘· sêC≤ +>∑+ - bÂs¡ $<äT\T
+# #· ≥ +˝Àì eTTU≤´ +XÊ\T:
+# © Government of Andhra Pradesh, Amaravati
+# All rights reserved
+# FOREWORD
+# TEXTBOOK DEVELOPMENT COMMITTEE
+# CHIEF ADVISORS
+# CHIEF COORDINATOR
+# MEMBERS
+# MEMBER-COORDINATOR
+# NATIONAL ANTHEM
+# &UMÃ7A¶Ã
+# PLEDGE
+# É_¾ªÅ 8
+# chapter 8
 # INTRODUCTION TO TRIGONOMETRY
     ### 8.1 Introduction
     ### 8.2 Trigonometric Ratios
@@ -12,12 +26,12 @@
   ## Solution :
   ## EXERCISE 8.3
     ### 8.5 Summary
-# Chapter 9
+# chapter 9
 # SOME APPLICATIONS OF TRIGONOMETRY
     ### 9.1 Heights and Distances
   ## EXERCISE 9.1
     ### 9.2 Summary
-# Chapter 10
+# chapter 10
 # CIRCLES
     ### 10.1 Introduction
     ### 10.2 Tangent to a Circle
@@ -27,12 +41,12 @@
   ## Remarks
   ## EXERCISE 10.2
     ### 10.4 Summary
-# Chapter 11
+# chapter 11
 # AREAS RELATED TO CIRCLES
     ### 11.1 Areas of Sector and Segment of a Circle
   ## EXERCISE 11.1
     ### 11.2 Summary
-# Chapter 12
+# chapter 12
 # SURFACE AREAS AND VOLUMES
     ### 12.1 Introduction
     ### 12.2 Surface Area of a Combination of Solids
@@ -40,7 +54,7 @@
     ### 12.3 Volume of a Combination of Solids
   ## EXERCISE 12.2
     ### 12.4 Summary
-# Chapter 13
+# chapter 13
 # STATISTICS
     ### 13.1 Introduction
     ### 13.2 Mean of Grouped Data
@@ -55,7 +69,7 @@
   ## EXERCISE 13.3
     ### 13.5 Summary
   ## A NOTE TO THE READER
-# Chapter 14
+# chapter 15
 # PROBABILITY
   ## 14
     ### 14.1 Probability — A Theoretical Approach

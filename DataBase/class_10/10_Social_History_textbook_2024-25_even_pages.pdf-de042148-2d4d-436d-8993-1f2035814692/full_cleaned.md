@@ -1,4 +1,4 @@
-# chapter 1
+# Chapter 1
 # The Rise of Nationalism in Europe
 
 1066CH01
@@ -393,15 +393,7 @@ Fig. 17 — Germania, Philip Veit, 1848. The artist prepared this painting of Ge
 
 ## Meanings of the symbols
 
-| Attribute                     | Significance                                                                       |
-|-------------------------------|------------------------------------------------------------------------------------|
-| Broken chains                 | Being freed                                                                        |
-| Breastplate with eagle        | Symbol of the German empire - strength                                             |
-| Crown of oak leaves           | Heroism                                                                            |
-| Sword                         | Readiness to fight                                                                 |
-| Olive branch around the sword | Willingness to make peace                                                          |
-| Black, red and gold tricolour | Flag of the liberal-nationalists in 1848, banned by the Dukes of the German states |
-| Rays of the rising sun        | Beginning of a new era                                                             |
+<table><tr><td>Attribute</td><td>Significance</td></tr><tr><td>Broken chains</td><td>Being freed</td></tr><tr><td>Breastplate with eagle</td><td>Symbol of the German empire – strength</td></tr><tr><td>Crown of oak leaves</td><td>Heroism</td></tr><tr><td>Sword</td><td>Readiness to fight</td></tr><tr><td>Olive branch around the sword</td><td>Willingness to make peace</td></tr><tr><td>Black, red and gold tricolour</td><td>Flag of the liberal-nationalists in 1848, banned by the Dukes of the German states</td></tr><tr><td>Rays of the rising sun</td><td>Beginning of a new era</td></tr></table>
 
 ### Activity
 
@@ -459,7 +451,6 @@ e) The role of women in nationalist struggles
 3. Through a focus on any two countries, explain how nations developed over the nineteenth century.   
 4. How was the history of nationalism in Britain unlike the rest of Europe?   
 5. Why did nationalist tensions emerge in the Balkans?
-
 
 ## Project
 
@@ -1384,8 +1375,7 @@ e) The decision of MNCs to relocate production to Asian countries.
 
 Find out more about gold and diamond mining in South Africa in the nineteenth century. Who controlled the gold and diamond companies? Who were the miners and what were their lives like? Project
 
-
-# Chapter 4
+# chapter 4
 # The Age of Industrialisation
 
 1066CH04
@@ -1875,7 +1865,7 @@ d) The introduction of the fly shuttle enabled handloom workers to improve their
 Select any one industry in your region and find out its history. How has the technology changed? Where do the workers come from? How are the products advertised and marketed? Try and talk to the employers and some workers to get their views about the industry’s history.
 
 
-# Chapter 5
+# chapter 5
 # Print Culture and the Modern World
 
 

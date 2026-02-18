@@ -1,16 +1,162 @@
 ![](images/4ab39cd5f260ef1d96b4dd1ea09d1e829cae5f0ace444795b234755fb0340ddf.jpg)  
+H
 
+# CONSTITUTION OFINDIA
+
+# Preamble
+
+WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGNSOCIALISTSECULARDEMOCRATICREPUBLIC
+
+and to secure to all its citizens:
+
+# JUSTICE
+
+Social, economic and political;
+
+# LIBERTY
+
+of thought, expression, belief, faith and worship;
+
+# EQUALITY
+
+of status and of opportunity; and to promote among them all FRATERNITY
+
+assuring the dignity of the individual and the unity and integrity of the Nation;
+
+IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949, do
+
+HEREBY ADOPT,ENACT AND GIVE TOOURSELVESTHISCONSTITUTION
 
 ![](images/032aca9255f2e5b9da38ce1d8a21915f973a6fe4c8f630a77822038cd26448f5.jpg)
 
+#
 
+1.80x88x88间808c，g③③8qe，808c\，a08888&.8g085888&38088；  
+2.084606y88x8092880888e820808085gg8B88008c   
+3. 8480，880888 88008e808. 80008c.   
+4.   
+5. J080808e，808088888818e   
+6. 8808，880&330899818α；  
+7. 288&e8e88n8e.   
+8. 8&gy，888g9g8），88988。8o8808088o8m8co  
+9. 88008e，80888848；  
+80，38888888888
+
+(⑤&xε0 51 A)
 
 ![](images/c8bef200e06ca73219ad58bceb6283af32c6ad67a9cc2fe69bfd99978957b57b.jpg)
 
+6308 1428888808098208280883080882848088829.88 53⑤1,2010 8008 0%&0）08.
 
-# CHAPTER 1
+#
+
+8c08028083088a8888858009.   
+  
+  
+  
+88o8ee88388o，a8x8s0880308.   
+8eg8850m，89828o39080898.   
+  
+  
+  
+  
+  
+●8289c8，3@89e8088e88062088120983838ee5883888888x05808
+
+# $\textcircled{9}$ Government of Andhra Pradesh, Amaravati
+
+First Published 2024
+
+# All rights reserved
+
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means without the prior permission in writing of the publisher, nor be otherwise circulated in any form of binding or cover other than that in which it is published and without a similar condition including this condition being imposed on the subsequent purchaser.
+
+The copyright holder of this book is the Commissioner of School Education, Amaravati, Andhra Pradesh.
+
+This book has been printed on 70 G.S.M. SS Maplitho Title Page 220 G.S.M. White Art Card
+
+Free distribution by Samagra Shiksha, Government of Andhra Pradesh
+
+Printed in India
+
+at the A.P. Govt. Text Book Press
+
+Amaravati
+
+Andhra Pradesh
+
+# FOREWORD
+
+The National Curriculum Framework (NCF), 2005, recommends that children’s life at school must be linked to their life outside the school. This principle marks a departure from the legacy of bookish learning, which continues to shape our system, and causes a gap between the school, home and community. The syllabi and textbooks developed on the basis of NCF signify an attempt to implement this basic idea. They also attempt to discourage rote learning and the maintenance of sharp boundaries between different subject areas. We hope these measures will take us significantly further in the direction of a child-centered system of education outlined in the National Policy on Education (1986).
+
+The success of this effort depends on the steps that school principals and teachers will take to encourage children to reflect on their own learning and to pursue imaginative activities and questions. We must recognise that, given space, time and freedom, children generate new knowledge by engaging with the information passed on to them by adults. Treating the prescribed textbook as the sole basis of examination is one of the key reasons why other resources and sites of learning are ignored. Inculcating creativity and initiative is possible if we perceive and treat children as participants in learning, not as receivers of a fixed body of knowledge.
+
+These aims imply considerable change in school routines and mode of functioning. Flexibility in the daily time-table is as necessary as rigour in implementing the annual calendar so that the required number of teaching days are actually devoted to teaching. The methods used for teaching and evaluation will also determine how effective this textbook proves for making children’s life at school a happy experience, rather than a source of stress or boredom. Syllabus designers have tried to address the problem of curricular burden by restructuring and reorienting knowledge at different stages with greater consideration for child psychology and the time available for teaching. The textbook attempts to enhance this endeavour by giving higher priority and space to opportunities for contemplation and wondering, discussion in small groups, and activities requiring hands-on experience.
+
+The National Council of Educational Research and Training (NCERT) appreciates the hard work done by the textbook development committee responsible for this book. We wish to thank the Chairperson of the advisory committee for textbooks in Social Sciences, at the secondary level, Professor Hari Vasudevan and the Chief Advisor for this book, Professor Tapas Majumdar for guiding the work of this committee. Several teachers contributed to the development of this textbook; we are grateful to their principals for making this possible. We are indebted to the institutions and organisations, which have generously permitted us to draw upon their resources, material and personnel. We are especially grateful to the members of the National Monitoring Committee, appointed by the Department of Secondary and Higher Education, Ministry of Human Resource Development under the Chairpersonship of Professor Mrinal Miri and Professor G.P. Deshpande, for their valuable time and contribution. As an organisation committed to systemic reform and continuous improvement in the quality of its products, NCERT welcomes comments and suggestions which will enable us to undertake further revision and refinement.
+
+Director
+
+New Delhi
+
+20 November 2006
+
+National Council of Educational
+
+Research and Training
+
+# TEXTBOOK DEVELOPMENT COMMITTEE
+
+# CHAIRPERSON, ADVISORY COMMITTEE FOR SOCIAL SCIENCE TEXTBOOKS AT THE SECONDARY LEVEL
+
+Hari Vasudevan, Professor, Department of History, University of Kolkata, Kolkata.
+
+# CHIEF ADVISOR
+
+Tapas Majumdar, Emeritus Professor, Jawaharlal Nehru University, New Delhi
+
+# ADVISOR
+
+Sathish K. Jain, Professor, Centre for Economic Studies and Planning, Jawaharlal Nehru University, New Delhi
+
+# MEMBERS
+
+Arvind Sardana, Eklavya, Institute for Educational Research and Innovative Action, Madhya Pradesh
+
+Neeraja Rashmi, Reader, Curriculum Group, NCERT, New Delhi Neeraja Nautiyal, TGT (Social Science), Kendriya Vidyalaya, BEG Centre, Deccan College Road, Yeravada, Pune
+
+Rajinder Choudhury, Reader, Department of Economics, Maharishi Dayanand University, Rohtak, Haryana
+
+Rama Gopal, Professor, Department of Economics, Annamalai University, Annamalai Nagar, Tamil Nadu
+
+Sukanya Bose, Eklavya Fellow, New Delhi Vijay Shankar, Samaj Pragati Sahyog, Bagli Block, Dewas District, Madhya Pradesh
+
+# MEMBER-COORDINATOR
+
+M.V. Srinivasan, Lecturer, DESSH, NCERT, New Delhi
+
+# THE CONSTITUTION OF INDIA
+
+# PREAMBLE
+
+WE， THE PEOPLE OF INDIA， having solemnly resolved to constitute India into a 1[SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC] and to secure to all its citizens :
+
+JUSTICE， social， economic andpolitical;
+
+LIBERTY of thought, expression, belief, faith and worship;
+
+EQUALITY of status and of opportunity; and to promote among them all
+
+FRATERNITY assuring the dignity of the individual and the ²[unity and integrity of the Nationl;
+
+IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949 do HEREBY ADOPT， ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.
+
+
+
+# CHAPTER I
 # DEVELOPMENT
 
+# NOTES FOR THE TEACHER
 Development has many aspects. The purpose of this chapter is to enable students to understand this idea. They have to understand that people have different perspectives on development and there are ways by which we can arrive at common indicators for development. To do this, we have used situations that they can respond to in an intuitive manner; we have also presented analysis that is more complex and macro in nature.
 
 How can countries or states be compared using some selected development indicators is another question that students would read about in this chapter. Economic development can be measured and income is the most common method for measuring development. However, the income method, though useful, has several weaknesses. Hence, we need newer ways of looking at development using indicators of quality of life and environmental sustainability.
@@ -21,7 +167,7 @@ discussed by bringing the learners closer to their real-life situations.
 
 There are certain terms used in this chapter that would require clarification — Per Capita Income, Literacy Rate, Infant Mortality Rate, Attendance Ratio, Life Expectancy, Gross Enrolment Ratio, and Human Development Index. Though data pertaining to these terms are provided, these would need further explanation. You may also need to clarify the concept of Purchasing Power Parity that is used to calculate per capita income in Table 1.6. It is necessary to keep in mind that these terms are used as an aid to the discussion and not something to be memorised.
 
-## Sources for Information
+# Sources for Information
 
 The data for this chapter is taken from reports published by the Government of India (Economic Survey, Report of the National Family Health Survey and Handbook of Statistics on the Indian Economy), United Nations Development Programme (Human Development Report) and World Bank (World Development Indicators). Many of these reports are being published every year. It may be interesting to look up these reports if they are available in your school library. If not, you may log on to the websites of these institutions (www.budgetindia.nic.in, www.undp.org, www.worldbank.org). Data is also available from the Reserve Bank’s Handbook of Statistics on Indian Economy (available at www.rbi.org).
 
@@ -31,7 +177,7 @@ The idea of development or progress has always been with us. We have aspirations
 ![](images/2d9e31ea76e8fadbf6566a75e75dd0c0621d258979181ea58865fc10d6bed39c.jpg)  
 "Without me they cannot develop.. in this system Icannot develop!"
 
-## WHAT DEVELOPMENT PROMISESDIFFERENT PEOPLE, DIFFERENT GOALS
+# WHAT DEVELOPMENT PROMISESDIFFERENT PEOPLE, DIFFERENT GOALS
 
 L et us try to imagine what development or progress is likely to mean to different persons listed in Table 1.1. What are their aspirations? You will find that some columns are partially filled. Try to complete the table. You can also add any other category of persons.
 
@@ -41,18 +187,7 @@ YOU WANT A CAR? THE WAY OUR COUNTRY IS SET UP ALL YOU CAN HOPE FOR IS MAY BE TO 
 
 TABLE 1.1 DEVELOPMENTAL GOALS OF DIFFERENTCATEGORIES OF PERSONS  
 
-|    | Category of Person                                | Developmental Goals / Aspirations                                                                                                                                                           |
-|----|---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    | Landless rural labourers                          | More days of work and better wages; local school is able to provide quality education for their children; there is no social discrimination and they too can become leaders in the village. |
-|    | Prosperous farmers from Punjab                    | Assured a high family income through higher support prices for their crops and through hardworking and cheap labourers; they should be able to settle their children abroad.                |
-|    | Farmers who depend only on rain for growing crops |                                                                                                                                                                                             |
-|    | A rural woman from a land owning family           |                                                                                                                                                                                             |
-|    | Urban unemployed youth                            |                                                                                                                                                                                             |
-|    | A boy from a rich urban family                    |                                                                                                                                                                                             |
-|    | A girl from a rich urban family                   | She gets as much freedom as her brother and is able to decide what she wants to do in life. She is able to pursue her studies abroad.                                                       |
-|    | An adivasi from Narmada valley                    |                                                                                                                                                                                             |
-|    |                                                   |                                                                                                                                                                                             |
-|    |                                                   |                                                                                                                                                                                             |
+<table><tr><td rowspan="11"></td><td>Category of Person</td><td>Developmental Goals / Aspirations</td></tr><tr><td>Landless rural labourers</td><td>More days of work and better wages; local school is able to provide quality education for their children; there is no social discrimination and they too can become leaders in the village.</td></tr><tr><td>Prosperous farmers from Punjab</td><td>Assured a high family income through higher support prices for their crops and through hardworking and cheap labourers; they should be able to settle their children abroad.</td></tr><tr><td>Farmers who depend only on rain for growing crops</td><td></td></tr><tr><td>A rural woman from a land owning family</td><td></td></tr><tr><td>Urban unemployed youth</td><td></td></tr><tr><td>A boy from a rich urban family</td><td></td></tr><tr><td>A girl from a rich urban family</td><td>She gets as much freedom as her brother and is able to decide what she wants to do in life. She is able to pursue her studies abroad.</td></tr><tr><td>An adivasi from Narmada valley</td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></table>
 
 Having filled Table 1.1, let us now examine it. Do all of these persons have the same notion of development or progress? Most likely not. Each one of them seeks different things.
 
@@ -64,7 +199,7 @@ So, two things are quite clear: one, different persons can have different develo
 
 ![](images/1c02f8d08eb2c12d33538058338d140bc1c2878bb02dc86310ee0b6b0320db03.jpg)
 
-## INCOME AND OTHER GOALS
+# INCOME AND OTHER GOALS
 
 If you go over Table 1.1 again, you will notice one common thing: what people desire are regular work, better wages, and decent price for their crops or other products that they produce. In other words, they want more income.
 
@@ -86,7 +221,7 @@ Similarly, for development, Similarly, development, people look at a mix of goal
 
 Hence, the developmental goals that people have are not only about better income but also about other important things in life.
 
-## LET’S WORK THESE OUT
+# LET’S WORK THESE OUT
 
 1. Why do different persons have different notions of development? Which of the following explanations is more important and why?
 
@@ -101,7 +236,7 @@ Hence, the developmental goals that people have are not only about better income
 3. Give some examples where factors other than income are important aspects of our lives.   
 4. Explain some of the important ideas of the above section in your own words.
 
-## NATIONAL DEVELOPMENT
+# NATIONAL DEVELOPMENT
 
 If, as we have seen above, individuals seek different goals, then their notion of national development is also likely to be different. Discuss among yourselves on what India should do for development.
 
@@ -111,9 +246,9 @@ dif ferent persons could have different as well as conflicting notions of a coun
 
 However, can all the ideas be considered equally important? Or, if there are conflicts how does one decide? What would be a fair and just path for all? We also have to think whether there is a better way of doing things. Would the idea benefit a large number of people or only a small group? National development means thinking about these questions.
 
-## LET’S WORK THESE OUT
+# LET’S WORK THESE OUT
 
-## Discuss the following situations:
+# Discuss the following situations:
 
 1. Look at the picture on the right. What should be the developmental goals for such an area?   
 2. Read this newspaper report and answer the questions that follow:
@@ -129,7 +264,7 @@ A multinational company dealing in petroleum and metals had contracted a local c
 
 3. What can be some of the developmental goals for your village, town or locality?
 
-### ACTIVITY 1
+# ACTIVITY 1
 
 ![](images/d24231061eff9102b2c8f04a180c774cc035d3e8bc71e7f3e7a7aaa26d788e3f.jpg)
 
@@ -137,7 +272,7 @@ If even the idea of what constitutes development can be varied and ting, then ce
 
 you know of any such controversy, try to find out rguments advanced by different You may do so by talking to nt persons or you may find it ewspapers and television.
 
-## HOW TO COMPARE DIFFERENT COUNTRIES OR STATES?
+# HOW TO COMPARE DIFFERENT COUNTRIES OR STATES?
 
 You might ask if development can mean different things, how come some countries are generally called developed and others underdeveloped? Before we come to this, let us consider another question.
 
@@ -155,7 +290,7 @@ However, for comparison between countries, total income is not such an useful me
 
 In World Development Reports, brought out by the World Bank, this criterion is used in classifying countries. Countries with per capita income of US$ 49,300 per annum and above in 2019, are called high income or rich countries and those with per capita income of US$ 2500 or less are called low-income countries. India comes in the category of low middle income countries because its per capita income in 2019 was just $\mathrm { U S } \$ 8$ 6700 per annum. The rich countries, excluding countries of Middle East and certain other small countries, are generally called developed countries.
 
-## Average Income Average Income
+# Average Income Average Income
 
 While ‘averages’ are useful for comparison, they also hide disparities
 
@@ -163,11 +298,7 @@ For example, let us consider two countries，A and B. For the sake of simplicity
 
 TABLE 1.2 COMPARISON OF TWO COUNTRIES   
 
-| Country   | Monthly incomes of citizens (in Rupees)   | Monthly incomes of citizens (in Rupees)   | Monthly incomes of citizens (in Rupees)   | Monthly incomes of citizens (in Rupees)   | Monthly incomes of citizens (in Rupees)   | Monthly incomes of citizens (in Rupees)   |
-|-----------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
-| Country   | Ⅰ                                         | Ⅱ                                         | Ⅲ                                         | Ⅳ                                         | Ⅴ                                         | Average                                   |
-| Country A | 9500                                      | 10500                                     | 9800                                      | 10000                                     | 10200                                     |                                           |
-| Country B | 500                                       | 500                                       | 500                                       | 500                                       | 48000                                     |                                           |
+<table><tr><td rowspan="2">Country</td><td colspan="6">Monthly incomes of citizens (in Rupees)</td></tr><tr><td>Ⅰ</td><td>Ⅱ</td><td>Ⅲ</td><td>Ⅳ</td><td>Ⅴ</td><td>Average</td></tr><tr><td>Country A</td><td>9500</td><td>10500</td><td>9800</td><td>10000</td><td>10200</td><td></td></tr><tr><td>Country B</td><td>500</td><td>500</td><td>500</td><td>500</td><td>48000</td><td></td></tr></table>
 
 Will you be equally happy to live in both these countries? Are both equally developed? Perhaps some of us may like to live in country B if we are
 
@@ -179,7 +310,7 @@ COUNTRY WITH NO RICH AND NO POOR
 ![](images/e91cf9f33d00cb742b3981dc40f7a2e19beb6c8b969662fa53139d8ed27732a4.jpg)  
 COUNTRY WITH RICH AND POOR
 
-## LET’S WORK THESE OUT
+# LET’S WORK THESE OUT
 
 1. Give three examples where an average is used for comparing situations.   
 2. Why do you think average income is an important criterion for development? Explain.   
@@ -190,7 +321,7 @@ COUNTRY WITH RICH AND POOR
 
 WE MADE THE CHAIRS AND HE TOOK THEM.
 
-## INCOME AND OTHER CRITERIA
+# INCOME AND OTHER CRITERIA
 
 When we looked at individual aspirations and goals, we found that people not only think of better income but also have goals such as security, respect for others, equal treatment, freedom, etc. in mind. Similarly, when we think of a nation or a region, we may, besides average income, think of other equally important attributes.
 
@@ -198,11 +329,7 @@ What could these attributes be? Let us examine this through an example. Table 1.
 
 TABLE 1.3 PER CAPITA INCOME OF SELECT STATES   
 
-|    | State   | Per Capita Income for 2018-19 (in Rs)   |
-|----|---------|-----------------------------------------|
-|    | Haryana | 2,36,147                                |
-|    | Kerala  | 2,04,105                                |
-|    | Bihar   | 40,982                                  |
+<table><tr><td rowspan="4"></td><td>State</td><td>Per Capita Income for 2018–19 (in Rs)</td></tr><tr><td>Haryana</td><td>2,36,147</td></tr><tr><td>Kerala</td><td>2,04,105</td></tr><tr><td>Bihar</td><td>40,982</td></tr></table>
 
 Source : Economic Survey 2020-21, PA 29.
 
@@ -210,16 +337,11 @@ income and Bihar is at the bottom. This means that, on an average, a person in H
 
 TABLE 1.4 SOME COMPARATIVE DATA ON HARYANA, KERALA AND BIHAR   
 
-| State   | Infant Mortality Rate per 1,000 live births (2018)   | Literacy Rate %   | Net Attendance Ratio (per 100 persons) secondary stage (age 14 and 15 years) 2017-18   |
-|---------|------------------------------------------------------|-------------------|----------------------------------------------------------------------------------------|
-| State   | Infant Mortality Rate per 1,000 live births (2018)   | 2017-18           | Net Attendance Ratio (per 100 persons) secondary stage (age 14 and 15 years) 2017-18   |
-| Haryana | 30                                                   | 82                | 61                                                                                     |
-| Kerala  | 7                                                    | 94                | 83                                                                                     |
-| Bihar   | 32                                                   | 62                | 43                                                                                     |
+<table><tr><td rowspan="2">State</td><td rowspan="2">Infant Mortality Rate per 1,000 live births (2018)</td><td>Literacy Rate %</td><td rowspan="2">Net Attendance Ratio (per 100 persons) secondary stage (age 14 and 15 years) 2017-18</td></tr><tr><td>2017-18</td></tr><tr><td>Haryana</td><td>30</td><td>82</td><td>61</td></tr><tr><td>Kerala</td><td>7</td><td>94</td><td>83</td></tr><tr><td>Bihar</td><td>32</td><td>62</td><td>43</td></tr></table>
 
 Sources : Economic Survey 2020-21, PA 157, National Sample Survey Organisation (Report No. 585),National statistical office, Government of India.
 
-## Explanation of some of the terms used in this table:
+# Explanation of some of the terms used in this table:
 
 Infant Mortality Rate (or IMR) indicates the number of children that die before the age of one year asa proportion of looo live children born in that particular year.
 
@@ -234,7 +356,7 @@ The problem does not end with Infant Mortality Rate. The last column of table 1.
 ![](images/4a19c79d932d1ae2475a4cf45fe3668ae89580d96c8b741d5bf3f6b6615eecb1.jpg)  
 Most babies do not get basic healthcare
 
-## PUBLIC FACILITIES
+# PUBLIC FACILITIES
 
 How is it that the average person in Haryana has more income than the average person in Kerala but lags behind in these crucial areas? The reason is — money in your pocket cannot buy all the goods and services that you may need to live well. So,well. income by itself is not a completely adequate indicator of material goods and services that citizens are able to use. For example, normally, your money cannot buy you a pollution-free environment or ensure that you get unadulterated medicines, unless you can afford to shift to a community that already has all these things. Money may also not be able to protect you from infectious diseases, unless the whole of your community takes preventive steps.
 
@@ -248,7 +370,7 @@ Kerala has a low Infant Mortality Rate because it has adequate provision of basi
 
 some states, the Public Distribution System (PDS) functions well. Health and nutritional status of people of such states is certainly likely to be better.
 
-## LET’S WORK THESE OUT
+# LET’S WORK THESE OUT
 
 1. Look at data in Tables 1.3 and 1.4. Is Haryana ahead of Kerala in literacy rate etc., as it is in terms of per capita income?   
 2. Think of other examples where collective provision of goods and services is cheaper than individual provision.   
@@ -257,23 +379,19 @@ some states, the Public Distribution System (PDS) functions well. Health and nut
 
 ![](images/6d583bdc67d0a46b5f34fefcf09a907f49c58a8b6afc7a1c711a13569e120e1a.jpg)
 
-### ACTIVITY 2
+# ACTIVITY 2
 
 Study Table 1.5 carefully and fill in the blanks in the following paragraphs. For this, you may need to make calculations based on the table.
 
 TABLE 1.5 EDUCATIONAL ACHIEVEMENT OF RURAL POPULATION OF UTTAR PRADESH   
 
-| Category                                                  | Male   | Female   |
-|-----------------------------------------------------------|--------|----------|
-| Literacy rate for rural population                        | 76%    | 54%      |
-| Literacy rate for rural children in age group 10-14 years | 90%    | 87%      |
-| Percentage of rural children aged 10-14 attending school  | 85%    | 82%      |
+<table><tr><td>Category</td><td>Male</td><td>Female</td></tr><tr><td>Literacy rate for rural population</td><td>76%</td><td>54%</td></tr><tr><td>Literacy rate for rural children in age group 10-14 years</td><td>90%</td><td>87%</td></tr><tr><td>Percentage of rural children aged 10-14 attending school</td><td>85%</td><td>82%</td></tr></table>
 
 (a) The literacy rate for all age groups, including young and old, is for rural males and for rural females. However, it is not just that these many adults could not attend school but that there are who are currently not in school.   
 (b) It is clear from the table that $\%$ of rural girls and $- \%$ of rural boys are not attending school. Therefore, illiteracy among children in the age group 10- 14 is as high as _% for rural females and $- \%$ for rural males.   
 (c) This high level of illiteracy among age group, even after more than 70 years of our independence, is most disturbing. In many other states also we are nowhere near realisation of the constitutional goal of free and compulsory education for all children up to the age of 14, which was expected to be achieved by 1960.
 
-### ACTIVITY 3
+# ACTIVITY 3
 
 One way to find out if we are properly nourished is to calculate what nutrition scientists call Body Mass Index (BMI). This is easy to calculate. Let each student in the class find out his or her weight and height. Take the weight of each student in kilograms (kg). Then, take the height by drawing up a scale on the wall and measuring accurately with the head straight. Convert the height recorded in centimeters into meters. Divide the weight in kg by the square of the height. The number you get is called BMI. Then, look at the BMI-for-Age tables given on pages
 
@@ -281,24 +399,17 @@ One way to find out if we are properly nourished is to calculate what nutrition 
 
 ![](images/1992f4cc4034b3cee6a6389668d447439dc5ffc98ee1ea48ab91bd4b9a3b62dd.jpg)
 
-## HUMAN DEVELOPMENT REPORT
+# HUMAN DEVELOPMENT REPORT
 
 Once it is realised that even though the level of income is important, yet it isan inadequate measure of the level of development, we begin to think of other criterion. There could be a long list ofsuch criterionbut thenit would not be so useful. What we need is a small number of the most important things. Health and education indicators, such as the ones we used in comparison of Kerala and Haryana, are among them. Over the past decade orso, healthand education indicators have come to be widely used along with income as a measure of development. For instance, Human Development Report published by UNDP compares countries based on the educational levels of the people, their health status and per capita income. It would be interesting to look at certain relevant data regarding India and its neighbours from Human Development Report 2020.
 
 TABLE 1.6 SOME DATA REGARDING INDIA AND ITS NEIGHBOURS FOR 2019   
 
-| Country    | Gross National Income (GNI) per capita (2011 PPP $)   |   Life Expectancy at birth |   Mean Years of Schooling of People aged 25 and above |   HDI Rank in the world (2018) |
-|------------|-------------------------------------------------------|----------------------------|-------------------------------------------------------|--------------------------------|
-| Sri Lanka  | 12,707                                                |                       77   |                                                  10.6 |                             73 |
-| India      | 6,681                                                 |                       69.7 |                                                   6.5 |                            130 |
-| Myanmar    | 4,961                                                 |                       67.1 |                                                   5   |                            148 |
-| Pakistan   | 5,005                                                 |                       67.3 |                                                   5.2 |                            154 |
-| Nepal      | 3,457                                                 |                       70.8 |                                                   5   |                            143 |
-| Bangladesh | 4,976                                                 |                       72.6 |                                                   6.2 |                            134 |
+<table><tr><td>Country</td><td>Gross National Income (GNI) per capita (2011 PPP $)</td><td>Life Expectancy at birth</td><td>Mean Years of Schooling of People aged 25 and above</td><td>HDI Rank in the world (2018)</td></tr><tr><td>Sri Lanka</td><td>12,707</td><td>77</td><td>10.6</td><td>73</td></tr><tr><td>India</td><td>6,681</td><td>69.7</td><td>6.5</td><td>130</td></tr><tr><td>Myanmar</td><td>4,961</td><td>67.1</td><td>5.0</td><td>148</td></tr><tr><td>Pakistan</td><td>5,005</td><td>67.3</td><td>5.2</td><td>154</td></tr><tr><td>Nepal</td><td>3,457</td><td>70.8</td><td>5.0</td><td>143</td></tr><tr><td>Bangladesh</td><td>4,976</td><td>72.6</td><td>6.2</td><td>134</td></tr></table>
 
 Source : Human Development Report, 2020, United Nations Development Programme, New York.
 
-## NOTES
+# NOTES
 
 1. HDI stands for Human Development Index. HDI ranks in above table are out of 189 countries in all.   
 2.Life Expectancy at birth denotes,as the name suggests,average expected length oflife ofa person at the time of birth.   
@@ -312,7 +423,7 @@ many new components have been added to the Human Development Report but, by pre-
 
 Do you think there are certain other aspects that should be considered in measuring human development?
 
-## SUSTAINABILITY OF DEVELOPMENT
+# SUSTAINABILITY OF DEVELOPMENT
 
 Suppose for the present that a particular country is quite developed. We would certainly like this level of development to go up further or at least be maintained for future generations. This is obviously desirable. However, since the second half of the twentieth century, a number of scientists have been warning that the present type, and levels, of development are not sustainable.
 
@@ -320,7 +431,7 @@ Suppose for the present that a particular country is quite developed. We would c
 
 LETS UNDERSTAND WHYTHIS IS SO THROUGH THEFOLLOWING EXAMPLE:
 
-## Example 1: Groundwater in India
+# Example 1: Groundwater in India
 
 "Recent evidence suggests that the groundwater is under serious threat of overuse in many parts of the country. About 3oo districts have reported a water level decline of over 4 metres during the past 2O years. Nearly one-third of the country is overusing their groundwater reserves. In another 25 years, 60 per cent of the country would be doing the same if the present way of using this resource continues. Groundwater overuse is particularly found in the agriculturally prosperous regions of Punjab and Western U.P, hard rock plateau areas of central and south India, some coastal areas and the rapidly growing urban settlements."
 
@@ -335,19 +446,15 @@ Non-renewable resources are those which will get exhausted after a few years of 
 
 RUDE OIL THAT WE FOR EXAMPLE, EYTPACT EROM THE EARTH IS A NON-HOWEVER WE RENEWABLE RESOURCE. MAY FIND A SOURCE OF ( OIL L. THAT WE DID EXPLORATIONS NOT KNOW OF EARLIER. BEING UNDERTAKEN ALL THE1IME. ARE
 
-## Example 2: Example 2: Exhaustion of Exhaustion of Natural Resources Natural Resources
+# Example 2: Example 2: Exhaustion of Exhaustion of Natural Resources Natural Resources
 
 Look at the following data for crude oil.
 
 TABLE 1.7 CRUDE OIL RESERVES   
 
-| Region/Country           |   Reserves (2017) 
- (Thousand Million Barrels) |   Number of Years 
- Reserves will last |
-|--------------------------|------------------------------------------------|----------------------------------------|
-| Middle East              |                                            808 |                                   70   |
-| United States of America |                                             50 |                                   10.5 |
-| World                    |                                           1697 |                                   50.2 |
+<table><tr><td>Region/Country</td><td>Reserves (2017) 
+(Thousand Million Barrels)</td><td>Number of Years 
+Reserves will last</td></tr><tr><td>Middle East</td><td>808</td><td>70</td></tr><tr><td>United States of America</td><td>50</td><td>10.5</td></tr><tr><td>World</td><td>1697</td><td>50.2</td></tr></table>
 
 Source : BP Statistical Review of World Energy, June 2018, P.12.
 
@@ -366,7 +473,7 @@ social scientists are working together.
 
 In general, the question of development or progress is perennial. At all times as a member of society and as individuals we need to ask where we want to go, what we wish to become and what our goals are. So the debate on development continues.
 
-## EXERCISES
+# EXERCISES
 
 1. Development of a country can generally be determined by
 
@@ -401,19 +508,14 @@ In general, the question of development or progress is perennial. At all times a
 12. For each of the items given in Table 1.6, find out which country is at the top and which is at the bottom.   
 13. The following table shows the proportion of adults (aged 15-49 years) whose BMI is below normal $\mathsf { B M I } < 1 8 . 5 \ \mathsf { k g } / \mathsf { m } ^ { 2 } ;$ ) in India. It is based on a survey of various states for the year 2015-16. Look at the table and answer the following questions.
 
-| State          |   Male (%) |   Female (%) |
-|----------------|------------|--------------|
-| Kerala         |        8.5 |           10 |
-| Kannataka      |       17   |           21 |
-| Madhya Pradesh |       28   |           28 |
-| All States     |       20   |           23 |
+<table><tr><td>State</td><td>Male (%)</td><td>Female (%)</td></tr><tr><td>Kerala</td><td>8.5</td><td>10</td></tr><tr><td>Kannataka</td><td>17</td><td>21</td></tr><tr><td>Madhya Pradesh</td><td>28</td><td>28</td></tr><tr><td>All States</td><td>20</td><td>23</td></tr></table>
 
 Source: National Family Health Survey-4, 2015-16, http://rchiips.org
 
 (i) Compare the nutritional level of people in Kerala and Madhya Pradesh.   
 (ii) Can you guess why around one-fifth of people in the country are undernourished even though it is argued that there is enough food in the country? Describe in your own words.
 
-### ADDITIONAL PROJECT / ACTIVITY
+# ADDITIONAL PROJECT / ACTIVITY
 
 Invite three different speakers to talk to you about the development of your region. Ask them all the questions that come to your mind. Discuss these ideas in groups. Each group should prepare a wall chart, giving reasons about ideas that you agree or do not agree with.
 
@@ -443,7 +545,6 @@ The employment figures are based on data taken from the five-yearly surveys on e
 
 
 1070CH02
-
 
 ## SECTORS OF ECONOMIC ACTIVITIES
 
@@ -481,12 +582,7 @@ Fsnomic activities. though,are grouped into three different categones, Econishly
 
 TABLE 2.1 EXAMPLES OF ECONOMIC ACTIVITIES   
 
-| EXAMPLE                                                                                                                                                                                                                                                                                                                        | WHAT DOES THIS SHOW?                                                                     |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| Imagine what would happen if farmers refuse to sell sugarcane to a particular sugar mill. The mill will have to shut down.                                                                                                                                                                                                     | This is an example of the secondary or industrial sector being dependent on the primary. |
-| Imagine what would happen to cotton cultivation if companies decide not to buy from the Indian market and import all cotton they need from other countries. Indian cotton cultivation will become less profitable and the farmers may even go bankrupt, if they cannot quickly switch to other crops. Cotton prices will fall. |                                                                                          |
-| Farmers buy many goods such as tractors, pumpsets, electricity, pesticides and fertilisers. Imagine what would happen if the price of fertilisers or pumpsets go up. Cost of cultivation of the farmers will rise and their profits will be reduced.                                                                           |                                                                                          |
-| People working in industrial and service sectors need food. Imagine what would happen if there is a strike by transporters and lorries refuse to take vegetables, milk, etc. from rural areas. Food will become scarce in urban areas whereas farmers will be unable to sell their products.                                   |                                                                                          |
+<table><tr><td>EXAMPLE</td><td>WHAT DOES THIS SHOW?</td></tr><tr><td>Imagine what would happen if farmers refuse to sell sugarcane to a particular sugar mill. The mill will have to shut down.</td><td>This is an example of the secondary or industrial sector being dependent on the primary.</td></tr><tr><td>Imagine what would happen to cotton cultivation if companies decide not to buy from the Indian market and import all cotton they need from other countries. Indian cotton cultivation will become less profitable and the farmers may even go bankrupt, if they cannot quickly switch to other crops. Cotton prices will fall.</td><td></td></tr><tr><td>Farmers buy many goods such as tractors, pumpsets, electricity, pesticides and fertilisers. Imagine what would happen if the price of fertilisers or pumpsets go up. Cost of cultivation of the farmers will rise and their profits will be reduced.</td><td></td></tr><tr><td>People working in industrial and service sectors need food. Imagine what would happen if there is a strike by transporters and lorries refuse to take vegetables, milk, etc. from rural areas. Food will become scarce in urban areas whereas farmers will be unable to sell their products.</td><td></td></tr></table>
 
 ## LET’S WORK THESE OUT
 
@@ -639,10 +735,7 @@ This underemployment can also happen in other sectors. For example there are tho
 
 TABLE 2.2 SHARE OF PRIMARY SECTOR IN GDP AND EMPLOYMENT   
 
-|                     | 1973-74   | 1977-78   | 2013-14   | 2017-18   |
-|---------------------|-----------|-----------|-----------|-----------|
-| Share in GDP        |           |           |           |           |
-| Share in employment |           |           |           |           |
+<table><tr><td></td><td>1973-74</td><td>1977-78</td><td>2013-14</td><td>2017-18</td></tr><tr><td>Share in GDP</td><td></td><td></td><td></td><td></td></tr><tr><td>Share in employment</td><td></td><td></td><td></td><td></td></tr></table>
 
 What are the changes that you observe in the primary sector over a span of forty years?
 
@@ -748,13 +841,7 @@ often not regular. There is no provision for overtime, paid leave, holidays, lea
 
 TABLE 2.3 WORKERS IN DIFFERENT SECTORS (IN MILLIONS)   
 
-|    | Sector              | Organised   | Unorganised   | Total   |
-|----|---------------------|-------------|---------------|---------|
-|    | Primary             | 1           |               | 232     |
-|    | Secondary           | 41          | 74            | 115     |
-|    | Tertiary            | 40          | 88            | 128     |
-|    | Total               | 82          |               |         |
-|    | Total in Percentage |             |               | 100%    |
+<table><tr><td rowspan="6"></td><td>Sector</td><td>Organised</td><td>Unorganised</td><td>Total</td></tr><tr><td>Primary</td><td>1</td><td></td><td>232</td></tr><tr><td>Secondary</td><td>41</td><td>74</td><td>115</td></tr><tr><td>Tertiary</td><td>40</td><td>88</td><td>128</td></tr><tr><td>Total</td><td>82</td><td></td><td></td></tr><tr><td>Total in Percentage</td><td></td><td></td><td>100%</td></tr></table>
 
 · What is the percentage of people in the unorganised sector in agriculture?   
 · Do you agree that agriculture is an unorganised sector activity? Why?   
@@ -788,14 +875,11 @@ What was the most important conclusion that was derived from the classification 
 
 TABLE 2.4 CLASSIFYING ECONOMIC ACTIVITIES   
 
-| Sector                           | Criteria used        | Most important conclusion   | Problems indicated and how they can be tackled   |
-|----------------------------------|----------------------|-----------------------------|--------------------------------------------------|
-| Primary, 
- Secondary, 
- Tertiary | Nature 
- of activity |                             |                                                  |
-| Organised, 
- Unorganised         |                      |                             |                                                  |
+<table><tr><td>Sector</td><td>Criteria used</td><td>Most important conclusion</td><td>Problems indicated and how they can be tackled</td></tr><tr><td>Primary, 
+Secondary, 
+Tertiary</td><td>Nature 
+of activity</td><td></td><td></td></tr><tr><td>Organised, 
+Unorganised</td><td></td><td></td><td></td></tr></table>
 
 ## SECTORS IN TERMS OF OWNERSHIP: PUBLIC AND PRIVATE SECTORS
 
@@ -901,12 +985,7 @@ what all can be done for increasing employment opportunities in the country. Ano
 
 5. A research scholar looked at the working people in the city of Surat and found the following.
 
-| Place of work                                                         | Nature of employment   | Percentage of working people   |
-|-----------------------------------------------------------------------|------------------------|--------------------------------|
-| In offices and factories registered with the government               | Organised              | 15                             |
-| Own shops, office, clinics in marketplaces with formal license        |                        | 15                             |
-| People working on the street, construction workers, domestic workers  |                        | 20                             |
-| Working in small workshops usually not registered with the government |                        |                                |
+<table><tr><td>Place of work</td><td>Nature of employment</td><td>Percentage of working people</td></tr><tr><td>In offices and factories registered with the government</td><td>Organised</td><td>15</td></tr><tr><td>Own shops, office, clinics in marketplaces with formal license</td><td></td><td>15</td></tr><tr><td>People working on the street, construction workers, domestic workers</td><td></td><td>20</td></tr><tr><td>Working in small workshops usually not registered with the government</td><td></td><td></td></tr></table>
 
 Complete the table. What is the percentage of workers in the unorganised sector in this city?
 
@@ -926,10 +1005,7 @@ Complete the table. What is the percentage of workers in the unorganised sector 
 18. Using examples from your area compare and contrast that activities and functions of private and public sectors.   
 19. Discuss and fill the following table giving one example each from your area.
 
-|                | Well managed organisation   | Badly managed organisation   |
-|----------------|-----------------------------|------------------------------|
-| Public sector  |                             |                              |
-| Private Sector |                             |                              |
+<table><tr><td></td><td>Well managed organisation</td><td>Badly managed organisation</td></tr><tr><td>Public sector</td><td></td><td></td></tr><tr><td>Private Sector</td><td></td><td></td></tr></table>
 
 20. Give a few examples of public sector activities and explain why the government has taken them up.   
 21. Explain how public sector contributes to the economic development of a nation.   
@@ -937,10 +1013,7 @@ Complete the table. What is the percentage of workers in the unorganised sector 
 23. A study in Ahmedabad found that out of 15,00,000 workers in the city, 11,00,000 worked in the unorganised sector. The total income of the city in this year (1997-1998) was Rs 60,000 million. Out of this Rs 32,000 million was generated in the organised sector. Present this data as a table. What kind of ways should be thought of for generating more employment in the city?   
 24. The following table gives the GDP in Rupees (Crores) by the three sectors:
 
-|   Year | Primary   | Secondary   | Tertiary   |
-|--------|-----------|-------------|------------|
-|   2000 | 52,000    | 48,500      | 1,33,500   |
-|   2013 | 8,00,500  | 10,74,000   | 38,68,000  |
+<table><tr><td>Year</td><td>Primary</td><td>Secondary</td><td>Tertiary</td></tr><tr><td>2000</td><td>52,000</td><td>48,500</td><td>1,33,500</td></tr><tr><td>2013</td><td>8,00,500</td><td>10,74,000</td><td>38,68,000</td></tr></table>
 
 (i) Calculate the share of the three sectors in GDP for 2000 and 2013.   
 (ii) Show the data as a bar diagram similar to Graph 2 in the chapter.   
@@ -1122,11 +1195,7 @@ In one situation credit helps to increase earnings and therefore the person is b
 
 1. Fill the following table.
 
-|                           | Salim   | Swapna   |
-|---------------------------|---------|----------|
-| Why did they need credit? |         |          |
-| What was the risk?        |         |          |
-| What was the outcome?     |         |          |
+<table><tr><td></td><td>Salim</td><td>Swapna</td></tr><tr><td>Why did they need credit?</td><td></td><td></td></tr><tr><td>What was the risk?</td><td></td><td></td></tr><tr><td>What was the outcome?</td><td></td><td></td></tr></table>
 
 2. Supposing Salim continues to get orders from traders. What would be his position after 6 years?   
 3. What are the reasons that make Swapna’s situation so risky? Discuss factors – pesticides; role of moneylenders; climate.
@@ -1147,13 +1216,7 @@ Megha has taken a loan of Rs 5 lakhs from the bank to purchasea house. The annua
 
 Fill the following details of Megha’s housing loan.   
 
-| Loan amount (in Rupees)   |    |
-|---------------------------|----|
-| Duration of loan          |    |
-| Documents required        |    |
-| Interest rate             |    |
-| Mode of repayment         |    |
-| Collateral                |    |
+<table><tr><td>Loan amount (in Rupees)</td><td></td></tr><tr><td>Duration of loan</td><td></td></tr><tr><td>Documents required</td><td></td></tr><tr><td>Interest rate</td><td></td></tr><tr><td>Mode of repayment</td><td></td></tr><tr><td>Collateral</td><td></td></tr></table>
 
 Interest rate, collateral and documentation requirement, and the mode of repayment together comprise what is called the terms of credit. Thecredit terms of credit vary substantially from one credit arrangement to another. They may vary depending on the nature of the lender and the borrower. The next section will provide examples of the varying terms of credit in different credit arrangements.
 
@@ -1379,25 +1442,15 @@ credit vary substantially between formal and informal lenders. At present, it is
 
 The following table shows people in a variety of occupations in urban areas. What are the purposes for which the following people might need loans? Fill in the column.
 
-| Occupations                               | Reason for needing a Loan   |
-|-------------------------------------------|-----------------------------|
-| Construction worker                       |                             |
-| Graduate student who is computer literate |                             |
-| A person employed in government service   |                             |
-| Migrant labourer in Delhi                 |                             |
-| Household maid                            |                             |
-| Small trader                              |                             |
-| Autorickshaw driver                       |                             |
-| A worker whose factory has closed down    |                             |
+<table><tr><td>Occupations</td><td>Reason for needing a Loan</td></tr><tr><td>Construction worker</td><td></td></tr><tr><td>Graduate student who is computer literate</td><td></td></tr><tr><td>A person employed in government service</td><td></td></tr><tr><td>Migrant labourer in Delhi</td><td></td></tr><tr><td>Household maid</td><td></td></tr><tr><td>Small trader</td><td></td></tr><tr><td>Autorickshaw driver</td><td></td></tr><tr><td>A worker whose factory has closed down</td><td></td></tr></table>
 
 Next, classify the people into two groups based on whom you think might get a bank loan and those who might not. What is the criterion that you have used for classification?
-
 
 
 # CHAPTER 4
 # GLOBALISATION AND THE INDIAN ECONOMY
 
-## NOTES FOR THE TEACHERNOTES FOR THE TEACHER
+## NOTES FOR THE TEACHER
 Most regions of the world are getting increasingly interconnected. While this interconnectedness across countries has many dimensions cultural, political, social and economic — this chapter looks at globalisation in a more limited sense. It defines globalisation as the integration between countries through foreign trade and foreign investments by multinational corporations (MNCs). As you will notice, the more complex issues of portfolio investment have been left out.
 
 If we look at the past thirty years or so, we find that MNCs have been a major force in the globalisation process connecting distant regions of the world. Why are the MNCs spreading their production to other countries and what are the ways in which they are doing so? The first part of the chapter discusses this. Rather than relying on quantitative estimates, the rapid rise and influence of the MNCs has been shown through a variety of examples, mainly drawn from the Indian context. Note that the examples are an aid to explain a more general point. While teaching, the emphasis should be on the ideas and examples are to be used as illustrations. You can also creatively use comprehension passages like the one given after Section II to test and reinforce new concepts.
@@ -1415,7 +1468,7 @@ The final section covers the impact of globalisation. To what extent has globali
 The call for a fairer globalisation has been given, among others, by the International Labour Organisation — www.ilo.org. Another interesting resource is the WTO website http://www.wto.org. It gives access to the variety of agreements that are being negotiated at the WTO. For company related information, most MNCs have their own websites. If you want to critically look at the MNCs, one recommended website is www.corporatewatch.org.uk.
 
 
-## GLOBALISATION AND THE INDIAN ECONOMY
+# CHAPTER 4 GLOBALISATIONGLOBALISATIONGLOBALISATION AND THE INDIAN ECONOMYTHE INDIAN ECONOMY
 
 As consumers in today’s world, some of us have a wide choice of goods and services before us. The latest models of digital cameras, mobile phones and televisions made by the leading manufacturers of the world are within our reach. Every season, new models of automobiles can be seen on Indian roads. Gone are the days when Ambassador and Fiat were the only cars on Indian roads. Today, Indians are buying cars produced by nearly all the top companies in the world. A similar explosion of brands can be seen for many other goods: from shirts to televisions to processed fruit juices.
 
@@ -1429,7 +1482,7 @@ How do we understand these rapid transformations? What are the factors that are 
 
 ![](images/a3b5bf45b6fa5c51fb3d44a46835f9da33317cafe74601cb4f0f498a6d6f889a.jpg)
 
-## PRODUCTION ACROSS COUNTRIES
+# PRODUCTION ACROSS COUNTRIES
 
 Until the middle of the twentieth century, production was largely organised within countries. What crossed the boundaries of these countries were raw material, food stuff and finished products. Colonies such as India exported raw materials and food stuff and imported finished goods. Trade was the main channel connecting distant countries. This was before large companies called
 
@@ -1846,6 +1899,7 @@ II. Take any Indian industry or service of your choice. Collect information and 
 # CONSUMER RIGHTS
 
 ## NOTES FOR THE TEACHER
+
 This chapter proposes to discuss the issue of consumer rights within the context of the ways markets operate in our country. There are many aspects of unequal situations in a market and poor enforcement of rules and regulations. Hence, there is a need to sensitise learners and encourage them to participate in the consumer movement. This chapter provides case histories how some consumers were exploited in real life situation and how legal institutions helped consumers in getting compensated and in upholding their rights. The case histories would enable the students to link these narratives to their life experiences. We have to enable students to understand that the awareness of being a well-informed consumer arose out of consumer movement and active participation of people through their struggles over a long period. This chapter also provides details of a few organisations helping consumers in different ways. Finally, it ends with some critical issues of the consumer movement in India.
 
 ## Aspects of Teaching / Sources of Aspects Sources Information
@@ -2295,93 +2349,14 @@ Be aware of your rights
 5. Interview 4-5 persons in your neighbourhood and collect varied experiences regarding how they have been victims of such exploitation and their responses.   
 6. Conduct a survey in your locality by supplying the following questionnaire to get an idea as to how alert they are as consumers.
 
-| For each question, tick one.                                                                                                                                                                                                                                                                                                 | Always                                                                                                                                                                                                                                                                                                                       | Sometimes                                                                                                                                                                                                                                                                                                                    | Never                                                                                                                                                                                                                                                                                                                        |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                                                                                                                                                                              | A                                                                                                                                                                                                                                                                                                                            | B                                                                                                                                                                                                                                                                                                                            | C                                                                                                                                                                                                                                                                                                                            |
-| 1. When you buy some item, do you insist on a bill?                                                                                                                                                                                                                                                                          | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            |
-| 2. Do you keep the bill carefully?                                                                                                                                                                                                                                                                                           | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            |
-| 3. If you realise that you have been tricked by the shop-keeper, have you bothered to complain to him or her?                                                                                                                                                                                                                | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            |
-| 4. Have you been able to convince him or her that you've been cheated?                                                                                                                                                                                                                                                       | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            |
-| 5. Do you simply grumble to yourself reconciling that it is your fate that you are often being victimised so and it is nothing new?                                                                                                                                                                                          | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            |
-| 6. Do you look for ISI mark, expiry date etc.?                                                                                                                                                                                                                                                                               | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            |
-| 7. If the expiry date mentioned is just a month or so away, do you insist on a fresh packet?                                                                                                                                                                                                                                 | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            |
-| 8. Do you weigh the new gas cylinder/old newspapers yourself before buying/selling?                                                                                                                                                                                                                                          | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            |
-| 9. Do you raise an objection if a vegetable seller uses stones in place of the exact weight?                                                                                                                                                                                                                                 | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            |
-| 10. Do excessively bright coloured vegetables arouse your suspicion?                                                                                                                                                                                                                                                         | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            |
-| 11. Are you brand-conscious?                                                                                                                                                                                                                                                                                                 | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            |
-| 12. Do you associate high price with good quality (to reassure yourself that after all you have not paid a higher price just like that)?                                                                                                                                                                                     | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            |
-| 13. Do you unhesitatingly respond to catchy offers?                                                                                                                                                                                                                                                                          | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            |
-| 14. Do you compare the price paid by you with those of others?                                                                                                                                                                                                                                                               | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            |
-| 15. Do you strongly believe that your shopkeeper never cheats a regular customer like you?                                                                                                                                                                                                                                   | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            |
-| 16. Do you favour 'home delivery' of provision items without any doubt regarding weight etc.?                                                                                                                                                                                                                                | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            |
-| 17. Do you insist on 'paying by meter' when you travel by auto?                                                                                                                                                                                                                                                              | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            | □                                                                                                                                                                                                                                                                                                                            |
-| Note
- (i) You are extremely aware as a consumer if your answers for Qns. 5, 12, 13, 15 and 16 are (C) and for the rest (A).
- (ii) If your answers are (A) for Qns. 5, 12, 13, 15 and 16 and the rest (C), then you have to wake up as consumer.
- (iii) If your answer is (B) for all the questions - you are somewhat aware. | Note
- (i) You are extremely aware as a consumer if your answers for Qns. 5, 12, 13, 15 and 16 are (C) and for the rest (A).
- (ii) If your answers are (A) for Qns. 5, 12, 13, 15 and 16 and the rest (C), then you have to wake up as consumer.
- (iii) If your answer is (B) for all the questions - you are somewhat aware. | Note
- (i) You are extremely aware as a consumer if your answers for Qns. 5, 12, 13, 15 and 16 are (C) and for the rest (A).
- (ii) If your answers are (A) for Qns. 5, 12, 13, 15 and 16 and the rest (C), then you have to wake up as consumer.
- (iii) If your answer is (B) for all the questions - you are somewhat aware. | Note
- (i) You are extremely aware as a consumer if your answers for Qns. 5, 12, 13, 15 and 16 are (C) and for the rest (A).
- (ii) If your answers are (A) for Qns. 5, 12, 13, 15 and 16 and the rest (C), then you have to wake up as consumer.
- (iii) If your answer is (B) for all the questions - you are somewhat aware. |
+<table><tr><td>For each question, tick one.</td><td>Always</td><td>Sometimes</td><td>Never</td></tr><tr><td></td><td>A</td><td>B</td><td>C</td></tr><tr><td>1. When you buy some item, do you insist on a bill?</td><td>□</td><td>□</td><td>□</td></tr><tr><td>2. Do you keep the bill carefully?</td><td>□</td><td>□</td><td>□</td></tr><tr><td>3. If you realise that you have been tricked by the shop-keeper, have you bothered to complain to him or her?</td><td>□</td><td>□</td><td>□</td></tr><tr><td>4. Have you been able to convince him or her that you&#x27;ve been cheated?</td><td>□</td><td>□</td><td>□</td></tr><tr><td>5. Do you simply grumble to yourself reconciling that it is your fate that you are often being victimised so and it is nothing new?</td><td>□</td><td>□</td><td>□</td></tr><tr><td>6. Do you look for ISI mark, expiry date etc.?</td><td>□</td><td>□</td><td>□</td></tr><tr><td>7. If the expiry date mentioned is just a month or so away, do you insist on a fresh packet?</td><td>□</td><td>□</td><td>□</td></tr><tr><td>8. Do you weigh the new gas cylinder/old newspapers yourself before buying/selling?</td><td>□</td><td>□</td><td>□</td></tr><tr><td>9. Do you raise an objection if a vegetable seller uses stones in place of the exact weight?</td><td>□</td><td>□</td><td>□</td></tr><tr><td>10. Do excessively bright coloured vegetables arouse your suspicion?</td><td>□</td><td>□</td><td>□</td></tr><tr><td>11. Are you brand-conscious?</td><td>□</td><td>□</td><td>□</td></tr><tr><td>12. Do you associate high price with good quality (to reassure yourself that after all you have not paid a higher price just like that)?</td><td>□</td><td>□</td><td>□</td></tr><tr><td>13. Do you unhesitatingly respond to catchy offers?</td><td>□</td><td>□</td><td>□</td></tr><tr><td>14. Do you compare the price paid by you with those of others?</td><td>□</td><td>□</td><td>□</td></tr><tr><td>15. Do you strongly believe that your shopkeeper never cheats a regular customer like you?</td><td>□</td><td>□</td><td>□</td></tr><tr><td>16. Do you favour ‘home delivery’ of provision items without any doubt regarding weight etc.?</td><td>□</td><td>□</td><td>□</td></tr><tr><td>17. Do you insist on ‘paying by meter’ when you travel by auto?</td><td>□</td><td>□</td><td>□</td></tr><tr><td colspan="4">Note
+(i) You are extremely aware as a consumer if your answers for Qns. 5, 12, 13, 15 and 16 are (C) and for the rest (A).
+(ii) If your answers are (A) for Qns. 5, 12, 13, 15 and 16 and the rest (C), then you have to wake up as consumer.
+(iii) If your answer is (B) for all the questions – you are somewhat aware.</td></tr></table>
 
 Appendix 1: Body Mass Index for Adolescent Girls (Age 14-18)   
 
-|   Years |   Month | Malnourished (underweight)   | Normal       | Malnourished (obesity)   |
-|---------|---------|------------------------------|--------------|--------------------------|
-|      14 |       0 | Less than 15.4               | 15.4 to 27.3 | More than 27.3           |
-|      14 |       1 | Less than 15.5               | 15.5 to 27.4 | More than 27.4           |
-|      14 |       2 | Less than 15.5               | 15.5 to 27.5 | More than 27.5           |
-|      14 |       3 | Less than 15.6               | 15.6 to 27.6 | More than 27.6           |
-|      14 |       4 | Less than 15.6               | 15.6 to 27.7 | More than 26.3           |
-|      14 |       5 | Less than 15.6               | 15.6 to 27.7 | More than 27.7           |
-|      14 |       6 | Less than 15.7               | 15.7 to 27.8 | More than 27.8           |
-|      14 |       7 | Less than 15.7               | 15.7 to 27.9 | More than 27.9           |
-|      14 |       8 | Less than 15.7               | 15.7 to 28.0 | More than 28.0           |
-|      14 |       9 | Less than 15.8               | 15.8 to 28.0 | More than 28.0           |
-|      14 |      10 | Less than 15.8               | 15.8 to 28.1 | More than 28.1           |
-|      14 |      11 | Less than 15.8               | 15.8 to 28.2 | More than 28.2           |
-|      15 |       0 | Less than 15.9               | 15.9 to 28.2 | More than 28.2           |
-|      15 |       1 | Less than 15.9               | 15.9 to 28.3 | More than 28.3           |
-|      15 |       2 | Less than 15.9               | 15.9 to 28.4 | More than 28.4           |
-|      15 |       3 | Less than 16.0               | 16.0 to 28.4 | More than 28.4           |
-|      15 |       4 | Less than 16.0               | 16.0 to 28.5 | More than 28.5           |
-|      15 |       5 | Less than 16.0               | 16.0 to 28.6 | More than 28.5           |
-|      15 |       6 | Less than 16.0               | 16.0 to 28.6 | More than 28.6           |
-|      15 |       7 | Less than 16.1               | 16.1 to 28.7 | More than 28.6           |
-|      15 |       8 | Less than 16.1               | 16.1 to 28.7 | More than 28.7           |
-|      15 |       9 | Less than 16.1               | 16.1 to 28.7 | More than 28.7           |
-|      15 |      10 | Less than 16.1               | 16.1 to 28.8 | More than 28.8           |
-|      15 |      11 | Less than 16.2               | 16.2 to 28.8 | More than 28.8           |
-|      16 |       0 | Less than 16.2               | 16.2 to 28.9 | More than 28.9           |
-|      16 |       1 | Less than 16.2               | 16.2 to 28.9 | More than 28.9           |
-|      16 |       2 | Less than 16.2               | 16.2 to 29.0 | More than 29.0           |
-|      16 |       3 | Less than 16.2               | 16.2 to 29.0 | More than 29.0           |
-|      16 |       4 | Less than 16.2               | 16.2 to 29.0 | More than 29.0           |
-|      16 |       5 | Less than 16.3               | 16.3 to 29.1 | More than 29.1           |
-|      16 |       6 | Less than 16.3               | 16.3 to 29.1 | More than 29.1           |
-|      16 |       7 | Less than 16.3               | 16.3 to 29.1 | More than 29.1           |
-|      16 |       8 | Less than 16.3               | 16.3 to 29.2 | More than 29.2           |
-|      16 |       9 | Less than 16.3               | 16.3 to 29.2 | More than 29.2           |
-|      16 |      10 | Less than 16.3               | 16.3 to 29.2 | More than 29.2           |
-|      16 |      11 | Less than 16.3               | 16.3 to 29.3 | More than 29.3           |
-|      17 |       0 | Less than 16.4               | 16.3 to 29.3 | More than 29.3           |
-|      17 |       1 | Less than 16.4               | 16.3 to 29.3 | More than 29.3           |
-|      17 |       2 | Less than 16.4               | 16.3 to 29.3 | More than 29.3           |
-|      17 |       3 | Less than 16.4               | 16.4 to 29.4 | More than 29.4           |
-|      17 |       4 | Less than 16.4               | 16.4 to 29.4 | More than 29.4           |
-|      17 |       5 | Less than 16.4               | 16.4 to 29.4 | More than 29.4           |
-|      17 |       6 | Less than 16.4               | 16.4 to 29.4 | More than 29.4           |
-|      17 |       7 | Less than 16.4               | 16.4 to 29.4 | More than 29.4           |
-|      17 |       8 | Less than 16.4               | 16.4 to 29.4 | More than 29.5           |
-|      17 |       9 | Less than 16.4               | 16.4 to 29.4 | More than 29.5           |
-|      17 |      10 | Less than 16.4               | 16.4 to 29.4 | More than 29.5           |
-|      17 |      11 | Less than 16.4               | 16.4 to 29.4 | More than 29.5           |
-|      18 |       0 | Less than 16.4               | 16.4 to 29.4 | More than 29.5           |
+<table><tr><td>Years</td><td>Month</td><td>Malnourished (underweight)</td><td>Normal</td><td>Malnourished (obesity)</td></tr><tr><td>14</td><td>0</td><td>Less than 15.4</td><td>15.4 to 27.3</td><td>More than 27.3</td></tr><tr><td>14</td><td>1</td><td>Less than 15.5</td><td>15.5 to 27.4</td><td>More than 27.4</td></tr><tr><td>14</td><td>2</td><td>Less than 15.5</td><td>15.5 to 27.5</td><td>More than 27.5</td></tr><tr><td>14</td><td>3</td><td>Less than 15.6</td><td>15.6 to 27.6</td><td>More than 27.6</td></tr><tr><td>14</td><td>4</td><td>Less than 15.6</td><td>15.6 to 27.7</td><td>More than 26.3</td></tr><tr><td>14</td><td>5</td><td>Less than 15.6</td><td>15.6 to 27.7</td><td>More than 27.7</td></tr><tr><td>14</td><td>6</td><td>Less than 15.7</td><td>15.7 to 27.8</td><td>More than 27.8</td></tr><tr><td>14</td><td>7</td><td>Less than 15.7</td><td>15.7 to 27.9</td><td>More than 27.9</td></tr><tr><td>14</td><td>8</td><td>Less than 15.7</td><td>15.7 to 28.0</td><td>More than 28.0</td></tr><tr><td>14</td><td>9</td><td>Less than 15.8</td><td>15.8 to 28.0</td><td>More than 28.0</td></tr><tr><td>14</td><td>10</td><td>Less than 15.8</td><td>15.8 to 28.1</td><td>More than 28.1</td></tr><tr><td>14</td><td>11</td><td>Less than 15.8</td><td>15.8 to 28.2</td><td>More than 28.2</td></tr><tr><td>15</td><td>0</td><td>Less than 15.9</td><td>15.9 to 28.2</td><td>More than 28.2</td></tr><tr><td>15</td><td>1</td><td>Less than 15.9</td><td>15.9 to 28.3</td><td>More than 28.3</td></tr><tr><td>15</td><td>2</td><td>Less than 15.9</td><td>15.9 to 28.4</td><td>More than 28.4</td></tr><tr><td>15</td><td>3</td><td>Less than 16.0</td><td>16.0 to 28.4</td><td>More than 28.4</td></tr><tr><td>15</td><td>4</td><td>Less than 16.0</td><td>16.0 to 28.5</td><td>More than 28.5</td></tr><tr><td>15</td><td>5</td><td>Less than 16.0</td><td>16.0 to 28.6</td><td>More than 28.5</td></tr><tr><td>15</td><td>6</td><td>Less than 16.0</td><td>16.0 to 28.6</td><td>More than 28.6</td></tr><tr><td>15</td><td>7</td><td>Less than 16.1</td><td>16.1 to 28.7</td><td>More than 28.6</td></tr><tr><td>15</td><td>8</td><td>Less than 16.1</td><td>16.1 to 28.7</td><td>More than 28.7</td></tr><tr><td>15</td><td>9</td><td>Less than 16.1</td><td>16.1 to 28.7</td><td>More than 28.7</td></tr><tr><td>15</td><td>10</td><td>Less than 16.1</td><td>16.1 to 28.8</td><td>More than 28.8</td></tr><tr><td>15</td><td>11</td><td>Less than 16.2</td><td>16.2 to 28.8</td><td>More than 28.8</td></tr><tr><td>16</td><td>0</td><td>Less than 16.2</td><td>16.2 to 28.9</td><td>More than 28.9</td></tr><tr><td>16</td><td>1</td><td>Less than 16.2</td><td>16.2 to 28.9</td><td>More than 28.9</td></tr><tr><td>16</td><td>2</td><td>Less than 16.2</td><td>16.2 to 29.0</td><td>More than 29.0</td></tr><tr><td>16</td><td>3</td><td>Less than 16.2</td><td>16.2 to 29.0</td><td>More than 29.0</td></tr><tr><td>16</td><td>4</td><td>Less than 16.2</td><td>16.2 to 29.0</td><td>More than 29.0</td></tr><tr><td>16</td><td>5</td><td>Less than 16.3</td><td>16.3 to 29.1</td><td>More than 29.1</td></tr><tr><td>16</td><td>6</td><td>Less than 16.3</td><td>16.3 to 29.1</td><td>More than 29.1</td></tr><tr><td>16</td><td>7</td><td>Less than 16.3</td><td>16.3 to 29.1</td><td>More than 29.1</td></tr><tr><td>16</td><td>8</td><td>Less than 16.3</td><td>16.3 to 29.2</td><td>More than 29.2</td></tr><tr><td>16</td><td>9</td><td>Less than 16.3</td><td>16.3 to 29.2</td><td>More than 29.2</td></tr><tr><td>16</td><td>10</td><td>Less than 16.3</td><td>16.3 to 29.2</td><td>More than 29.2</td></tr><tr><td>16</td><td>11</td><td>Less than 16.3</td><td>16.3 to 29.3</td><td>More than 29.3</td></tr><tr><td>17</td><td>0</td><td>Less than 16.4</td><td>16.3 to 29.3</td><td>More than 29.3</td></tr><tr><td>17</td><td>1</td><td>Less than 16.4</td><td>16.3 to 29.3</td><td>More than 29.3</td></tr><tr><td>17</td><td>2</td><td>Less than 16.4</td><td>16.3 to 29.3</td><td>More than 29.3</td></tr><tr><td>17</td><td>3</td><td>Less than 16.4</td><td>16.4 to 29.4</td><td>More than 29.4</td></tr><tr><td>17</td><td>4</td><td>Less than 16.4</td><td>16.4 to 29.4</td><td>More than 29.4</td></tr><tr><td>17</td><td>5</td><td>Less than 16.4</td><td>16.4 to 29.4</td><td>More than 29.4</td></tr><tr><td>17</td><td>6</td><td>Less than 16.4</td><td>16.4 to 29.4</td><td>More than 29.4</td></tr><tr><td>17</td><td>7</td><td>Less than 16.4</td><td>16.4 to 29.4</td><td>More than 29.4</td></tr><tr><td>17</td><td>8</td><td>Less than 16.4</td><td>16.4 to 29.4</td><td>More than 29.5</td></tr><tr><td>17</td><td>9</td><td>Less than 16.4</td><td>16.4 to 29.4</td><td>More than 29.5</td></tr><tr><td>17</td><td>10</td><td>Less than 16.4</td><td>16.4 to 29.4</td><td>More than 29.5</td></tr><tr><td>17</td><td>11</td><td>Less than 16.4</td><td>16.4 to 29.4</td><td>More than 29.5</td></tr><tr><td>18</td><td>0</td><td>Less than 16.4</td><td>16.4 to 29.4</td><td>More than 29.5</td></tr></table>
 
 ## SUGGESTED READINGS
 

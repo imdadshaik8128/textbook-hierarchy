@@ -1,4 +1,4 @@
-# Chapter 1
+# cHAPTER 1
 # REAL NUMBERS
     ### 1.1 Introduction
     ### 1.2 The Fundamental Theorem of Arithmetic
@@ -7,7 +7,7 @@
   ## EXERCISE 1.2
     ### 1.4 Summary
   ## A NOTE TO THE READER
-# Chapter 2
+# chapter 2
 # POLYNOMIALS
     ### 2.1 Introduction
     ### 2.2 Geometrical Meaning of the Zeroes of a Polynomial
@@ -29,7 +29,7 @@
   ## Solution :
   ## EXERCISE 3.3
     ### 3.4 Summary
-# Chapter 4
+# chapter 4
 # QUADRATIC EQUATIONS
     ### 4.1 Introduction
     ### 4.2 Quadratic Equations
@@ -42,7 +42,7 @@
   ## EXERCISE 4.3
     ### 4.5 Summary
   ## NOTE
-# Chapter 5
+# chapter 5
 # ARITHMETIC PROGRESSIONS
     ### 5.1 Introduction
     ### 5.2 Arithmetic Progressions
@@ -58,7 +58,7 @@
   ## EXERCISE 5.4 (Optional)*
     ### 5.5 Summary
   ## A NOTE TO THE READER
-# Chapter 6
+# chapter 6
 # TRIANGLES
     ### 6.1 Introduction
     ### 6.2 Similar Figures
@@ -69,7 +69,7 @@
   ## EXERCISE 6.3
     ### 6.5 Summary
   ## A NOTE TO THE READER
-# Chapter 7
+# chapter 7
 # COORDINATE GEOMETRY
     ### 7.1 Introduction
     ### 7.2 Distance Formula

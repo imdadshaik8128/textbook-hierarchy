@@ -1,4 +1,4 @@
-# Chapter 1
+# cHAPTER 1
 # REAL NUMBERS
 
 ### 1.1 Introduction
@@ -307,8 +307,7 @@ $$
 $$
 
 1062CH02
-
-# Chapter 2
+# chapter 2
 # POLYNOMIALS
 
 ### 2.1 Introduction
@@ -355,9 +354,7 @@ You know that a real number $k$ is a zero of the polynomial $p ( x )$ if $p ( k 
 
 Consider first a linear polynomial $a x + b$ , $a \neq 0$ . You have studied in Class IX that the graph of $y = a x + b$ is a straight line. For example, the graph of $y = 2 x + 3$ is a straight line passing through the points $( - 2 , - 1 )$ and (2, 7).
 
-| x      |   -2 |   2 |
-|--------|------|-----|
-| y=2x+3 |   -1 |   7 |
+<table><tr><td>x</td><td>-2</td><td>2</td></tr><tr><td>y=2x+3</td><td>-1</td><td>7</td></tr></table>
 
 From Fig. 2.1, you can see that the graph of $y = 2 x + 3$ intersects the $x$ -axis mid-way between $x = - 1$ and $x = - 2$ , that is, at the point 3 , 0æ ö-ç ÷ . $\left( - { \frac { 3 } { 2 } } , 0 \right)$ You also know that the zero of $2 x + 3$ is $- { \frac { 3 } { 2 } }$ . Thus, the zero of the polynomial $2 x \quad + \quad 3$ i s th e $x$ -coordinate of the point where the graph of $y = 2 x + 3$ intersects the $x \cdot$ - axis.
 
@@ -370,9 +367,7 @@ Now, let us look for the geometrical meaning of a zero of a quadratic polynomial
 
 Table 2.1   
 
-| x         |   -2 |   -1 |   0 |   1 |   2 |   3 |   4 |   5 |
-|-----------|------|------|-----|-----|-----|-----|-----|-----|
-| y=x2-3x-4 |    6 |    0 |  -4 |  -6 |  -6 |  -4 |   0 |   6 |
+<table><tr><td>x</td><td>-2</td><td>-1</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>y=x2-3x-4</td><td>6</td><td>0</td><td>-4</td><td>-6</td><td>-6</td><td>-4</td><td>0</td><td>6</td></tr></table>
 
 If we locate the points listed above on a graph paper and draw the graph, it will actually look like the one given in Fig. 2.2.
 
@@ -422,9 +417,7 @@ Now, what do you expect the geometrical meaning of the zeroes of a cubic polynom
 
 Table 2.2   
 
-| x       |   -2 |   -1 |   0 |   1 |   2 |
-|---------|------|------|-----|-----|-----|
-| y=x3-4x |    0 |    3 |   0 |  -3 |   0 |
+<table><tr><td>x</td><td>-2</td><td>-1</td><td>0</td><td>1</td><td>2</td></tr><tr><td>y=x3-4x</td><td>0</td><td>3</td><td>0</td><td>-3</td><td>0</td></tr></table>
 
 Locating the points of the table on a graph paper and drawing the graph, we see that the graph of $y = x ^ { 3 } - 4 x$ actually looks like the one given in Fig. 2.6.
 
@@ -735,7 +728,6 @@ $$
 and d-ab g = a
 
 1062CH03
-
 # Chapter 3
 # PAIR OF LINEAR EQUATIONS IN TWO VARIABLES
 
@@ -783,14 +775,7 @@ Let us now write down, and compare, the values of 1 , a $\frac { a _ { 1 } } { a
 
 Table 3.1   
 
-|   Sl No. | Pair of lines   | a1/a2   | b1/b2   | c1/c2   | Compare the ratios   | Graphical representation   | Algebraic interpretation      |
-|----------|-----------------|---------|---------|---------|----------------------|----------------------------|-------------------------------|
-|        1 | x-2y=0          | 1/3     | -2/4    | 0       | a1/a2≠b1/b2          | Intersecting lines         | Exactly one solution (unique) |
-|        1 | 3x+4y-20=0      |         |         |         |                      |                            |                               |
-|        2 | 2x+3y-9=0       | 2/4     | 3/6     | -9      | a1/a2=b1/b2=c1/c2    | Coincident lines           | Infinitely many solutions     |
-|        2 | 4x+6y-18=0      |         |         |         |                      |                            |                               |
-|        3 | x+2y-4=0        | 1/2     | 2/4     | -4      | a1/a2=b1/b2≠c1/c2    | Parallel lines             | No solution                   |
-|        3 | 2x+4y-12=0      |         |         |         |                      |                            |                               |
+<table><tr><td>Sl No.</td><td>Pair of lines</td><td>a1/a2</td><td>b1/b2</td><td>c1/c2</td><td>Compare the ratios</td><td>Graphical representation</td><td>Algebraic interpretation</td></tr><tr><td rowspan="2">1.</td><td>x-2y=0</td><td>1/3</td><td>-2/4</td><td>0</td><td>a1/a2≠b1/b2</td><td>Intersecting lines</td><td>Exactly one solution (unique)</td></tr><tr><td>3x+4y-20=0</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="2">2.</td><td>2x+3y-9=0</td><td>2/4</td><td>3/6</td><td>-9</td><td>a1/a2=b1/b2=c1/c2</td><td>Coincident lines</td><td>Infinitely many solutions</td></tr><tr><td>4x+6y-18=0</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="2">3.</td><td>x+2y-4=0</td><td>1/2</td><td>2/4</td><td>-4</td><td>a1/a2=b1/b2≠c1/c2</td><td>Parallel lines</td><td>No solution</td></tr><tr><td>2x+4y-12=0</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
 
 From the table above, you can observe that if the lines represented by the equation
 
@@ -823,17 +808,13 @@ Solution : Let us draw the graphs of the Equations (1) and (2). For this, we fin
 
 Table 3.2   
 
-| x         |   0 |   6 |
-|-----------|-----|-----|
-| y = 6-x/3 |   2 |   0 |
+<table><tr><td>x</td><td>0</td><td>6</td></tr><tr><td>y = 6-x/3</td><td>2</td><td>0</td></tr></table>
 
 Plot the points A(0, 2), B(6, 0), $\mathrm { P } ( 0 , -$ 4) and $Q ( 3 , - 2 )$ on graph paper, and join the points to form the lines AB and PQ as shown in Fig. 3.1.
 
 We observe that there is a point B (6, 0) common to both the lines AB and PQ. So, the solution of the pair of linear equations is $x = 6$ and $y = 0$ , i.e., the given pair of equations is consistent.
 
-| x               |   0 |   3 |
-|-----------------|-----|-----|
-| y = 2x - 12 / 3 |  -4 |  -2 |
+<table><tr><td>x</td><td>0</td><td>3</td></tr><tr><td>y = 2x - 12 / 3</td><td>-4</td><td>-2</td></tr></table>
 
 ![](images/a10cab8073043cfef8d4ee99ca092c68f91b9f66b6609d9be998665f54e61c24.jpg)  
 Fig. 3.1
@@ -872,13 +853,9 @@ Let us draw the graphs of Equations (1) and (2) by finding two solutions for eac
 
 Table 3.3   
 
-| x      |   2 |   0 |
-|--------|-----|-----|
-| y=2x-2 |   2 |  -2 |
+<table><tr><td>x</td><td>2</td><td>0</td></tr><tr><td>y=2x-2</td><td>2</td><td>-2</td></tr></table>
 
-| x      |   0 |   1 |
-|--------|-----|-----|
-| y=4x-4 |  -4 |   0 |
+<table><tr><td>x</td><td>0</td><td>1</td></tr><tr><td>y=4x-4</td><td>-4</td><td>0</td></tr></table>
 
 ![](images/c7ed3bdf2d41fcf4f87960d934578463513770316da5395dea7c0826453e8cd3.jpg)  
 Fig. 3.2
@@ -1324,8 +1301,7 @@ The graph of a pair of linear equations in two variables is represented by two l
 5. There are several situations which can be mathematically represented by two equations that are not linear to start with. But we alter them so that they are reduced to a pair of linear equations.
 
 1062CH04
-
-# Chapter 4
+# chapter 4
 # QUADRATIC EQUATIONS
 
 ### 4.1 Introduction
@@ -1754,8 +1730,7 @@ $$
 ## NOTE
 
 1062CH05
-
-# Chapter 5
+# chapter 5
 # ARITHMETIC PROGRESSIONS
 
 ### 5.1 Introduction
@@ -2324,13 +2299,7 @@ So, there are 10 rows in the flower bed.
 
 1. Fill in the blanks in the following table, given that $a$ is the first term, $d$ the common difference and $a _ { _ n }$ the nth term of the AP:
 
-|       | a     | d   | n   | an   |
-|-------|-------|-----|-----|------|
-| (i)   | 7     | 3   | 8   | ...  |
-| (ii)  | -18   | ... | 10  | 0    |
-| (iii) | ...   | -3  | 18  | -5   |
-| (iv)  | -18.9 | 2.5 | ... | 3.6  |
-| (v)   | 3.5   | 0   | 105 | ...  |
+<table><tr><td></td><td>a</td><td>d</td><td>n</td><td>an</td></tr><tr><td>(i)</td><td>7</td><td>3</td><td>8</td><td>...</td></tr><tr><td>(ii)</td><td>-18</td><td>...</td><td>10</td><td>0</td></tr><tr><td>(iii)</td><td>...</td><td>-3</td><td>18</td><td>-5</td></tr><tr><td>(iv)</td><td>-18.9</td><td>2.5</td><td>...</td><td>3.6</td></tr><tr><td>(v)</td><td>3.5</td><td>0</td><td>105</td><td>...</td></tr></table>
 
 2. Choose the correct choice in the following and justify :
 
@@ -2759,8 +2728,7 @@ $$
 If a, b, c are in AP, then $b = { \frac { a \ c { c } } { 2 } }$ and $b$ is called the arithmetic mean of $a$ and $c$ .
 
 1062CH06
-
-# Chapter 6
+# chapter 6
 # TRIANGLES
 
 ### 6.1 Introduction
@@ -3489,7 +3457,7 @@ If you use this criterion in Example 2, Chapter 8, the proof will become simpler
 
 1062CH07
 
-# Chapter 7
+# chapter 7
 # COORDINATE GEOMETRY
 
 ### 7.1 Introduction
@@ -4144,15 +4112,7 @@ The lines divide the circle into mutually exclusive regions (having no common po
 ![](images/826ebabe3249481ec9c7f78ec3522f669351c236adab801bf6a4d0ed663a5463.jpg)  
 Fig. A1.2
 
-|   Number of points | Number of regions   |
-|--------------------|---------------------|
-|                  1 | 1                   |
-|                  2 | 2                   |
-|                  3 | 4                   |
-|                  4 | 8                   |
-|                  5 |                     |
-|                  6 |                     |
-|                  7 |                     |
+<table><tr><td>Number of points</td><td>Number of regions</td></tr><tr><td>1</td><td>1</td></tr><tr><td>2</td><td>2</td></tr><tr><td>3</td><td>4</td></tr><tr><td>4</td><td>8</td></tr><tr><td>5</td><td></td></tr><tr><td>6</td><td></td></tr><tr><td>7</td><td></td></tr></table>
 
 Some of you might have come up with a formula predicting the number of regions given the number of points. From Class IX, you may remember that this intelligent guess is called a ‘conjecture’.
 
@@ -4177,14 +4137,7 @@ Example 10 : The sum of two rational numbers is a rational number.
 
 Solution :   
 
-|   S.No. | Statements                                                                 | Analysis/Comments                                                              |
-|---------|----------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-|       1 | Let x and y be rational numbers.                                           | Since the result is about rationals, we start with x and y which are rational. |
-|       2 | Let x = m/n, n ≠ 0 and y = p/q, q ≠ 0 where m, n, p and q are integers.    | Apply the definition of rationals.                                             |
-|       3 | So, x + y = m/n + p/q = mq + np/nq                                         | The result talks about the sum of rationals, so we look at x + y.              |
-|       4 | Using the properties of integers, we see that mq + np and nq are integers. | Using known properties of integers.                                            |
-|       5 | Since n ≠ 0 and q ≠ 0, it follows that nq ≠ 0.                             | Using known properties of integers.                                            |
-|       6 | Therefore, x + y = mq + np/nq is a rational number                         | Using the definition of a rational number.                                     |
+<table><tr><td>S.No.</td><td>Statements</td><td>Analysis/Comments</td></tr><tr><td>1.</td><td>Let x and y be rational numbers.</td><td>Since the result is about rationals, we start with x and y which are rational.</td></tr><tr><td>2.</td><td>Let x = m/n, n ≠ 0 and y = p/q, q ≠ 0 where m, n, p and q are integers.</td><td>Apply the definition of rationals.</td></tr><tr><td>3.</td><td>So, x + y = m/n + p/q = mq + np/nq</td><td>The result talks about the sum of rationals, so we look at x + y.</td></tr><tr><td>4.</td><td>Using the properties of integers, we see that mq + np and nq are integers.</td><td>Using known properties of integers.</td></tr><tr><td>5.</td><td>Since n ≠ 0 and q ≠ 0, it follows that nq ≠ 0.</td><td>Using known properties of integers.</td></tr><tr><td>6.</td><td>Therefore, x + y = mq + np/nq is a rational number</td><td>Using the definition of a rational number.</td></tr></table>
 
 Remark : Note that, each statement in the proof above is based on a previously established fact, or definition.
 
@@ -4192,12 +4145,7 @@ Example 11 : Every prime number greater than 3 is of the form $6 k + 1$ or $6 k 
 
 ## Solution :
 
-|   S.No. | Statements                                                                                                               | Analysis/Comments                                                                           |
-|---------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-|       1 | Let p be a prime number greater than 3.                                                                                  | Since the result has to do with a prime number greater than 3, we start with such a number. |
-|       2 | Dividing p by 6, we find that p can be of the form 6k, 6k + 1, 6k + 2, 6k + 3, 6k + 4, or 6k + 5, where k is an integer. | Using Euclid's division lemma.                                                              |
-|       3 | But 6k = 2(3k), 6k + 2 = 2(3k + 1), 6k + 4 = 2(3k + 2), and 6k + 3 = 3(2k + 1). So, they are not primes.                 | We now analyse the remainders given that p is prime.                                        |
-|       4 | So, p is forced to be of the form 6k + 1 or 6k + 5, for some integer k.                                                  | We arrive at this conclusion having eliminated the other options.                           |
+<table><tr><td>S.No.</td><td>Statements</td><td>Analysis/Comments</td></tr><tr><td>1.</td><td>Let p be a prime number greater than 3.</td><td>Since the result has to do with a prime number greater than 3, we start with such a number.</td></tr><tr><td>2.</td><td>Dividing p by 6, we find that p can be of the form 6k, 6k + 1, 6k + 2, 6k + 3, 6k + 4, or 6k + 5, where k is an integer.</td><td>Using Euclid&#x27;s division lemma.</td></tr><tr><td>3.</td><td>But 6k = 2(3k), 6k + 2 = 2(3k + 1), 6k + 4 = 2(3k + 2), and 6k + 3 = 3(2k + 1). So, they are not primes.</td><td>We now analyse the remainders given that p is prime.</td></tr><tr><td>4.</td><td>So, p is forced to be of the form 6k + 1 or 6k + 5, for some integer k.</td><td>We arrive at this conclusion having eliminated the other options.</td></tr></table>
 
 Remark : In the above example, we have arrived at the conclusion by eliminating different options. This method is sometimes referred to as the Proof by Exhaustion.
 
@@ -4210,16 +4158,7 @@ Theorem) : If in a triangle the square of the length of one side is equal to the
 ![](images/8a3ec5108a8e1a75c42b69c6a231c19ee97e61caf28157eff6276366bd6b9a3f.jpg)  
 Fig. A1.4
 
-|   S.No. | Statements                                                                                            | Analysis                                                                                         |
-|---------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-|       1 | Let △ABC satisfy the hypothesis AC2=AB2+BC2.                                                          | Since we are proving a statement about such a triangle, we begin by taking this.                 |
-|       2 | Construct line BD perpendicular to AB, such that BD=BC, and join A to D.                              | This is the intuitive step we have talked about that we often need to take for proving theorems. |
-|       3 | By construction, △ABD is a right triangle, and from the Pythagoras Theorem, we have AD2=AB2+BD2.      | We use the Pythagoras theorem, which is already proved.                                          |
-|       4 | By construction, BD=BC. Therefore, we have AD2=AB2+BC2.                                               | Logical deduction.                                                                               |
-|       5 | Therefore, AC2=AB2+BC2=AD2.                                                                           | Using assumption, and previous statement.                                                        |
-|       6 | Since AC and AD are positive, we have AC=AD.                                                          | Using known property of numbers.                                                                 |
-|       7 | We have just shown AC=AD. Also BC=BD by construction, and AB is common. Therefore, by SSS, △ABC≌△ABD. | Using known theorem.                                                                             |
-|       8 | Since △ABC≌△ABD, we get ∠ABC=∠ABD, which is a right angle.                                            | Logical deduction, based on previously established fact.                                         |
+<table><tr><td>S.No.</td><td>Statements</td><td>Analysis</td></tr><tr><td>1.</td><td>Let △ABC satisfy the hypothesis AC2=AB2+BC2.</td><td>Since we are proving a statement about such a triangle, we begin by taking this.</td></tr><tr><td>2.</td><td>Construct line BD perpendicular to AB, such that BD=BC, and join A to D.</td><td>This is the intuitive step we have talked about that we often need to take for proving theorems.</td></tr><tr><td>3.</td><td>By construction, △ABD is a right triangle, and from the Pythagoras Theorem, we have AD2=AB2+BD2.</td><td>We use the Pythagoras theorem, which is already proved.</td></tr><tr><td>4.</td><td>By construction, BD=BC. Therefore, we have AD2=AB2+BC2.</td><td>Logical deduction.</td></tr><tr><td>5.</td><td>Therefore, AC2=AB2+BC2=AD2.</td><td>Using assumption, and previous statement.</td></tr><tr><td>6.</td><td>Since AC and AD are positive, we have AC=AD.</td><td>Using known property of numbers.</td></tr><tr><td>7.</td><td>We have just shown AC=AD. Also BC=BD by construction, and AB is common. Therefore, by SSS, △ABC≌△ABD.</td><td>Using known theorem.</td></tr><tr><td>8.</td><td>Since △ABC≌△ABD, we get ∠ABC=∠ABD, which is a right angle.</td><td>Logical deduction, based on previously established fact.</td></tr></table>
 
 Remark : Each of the results above has been proved by a sequence of steps, all linked together. Their order is important. Each step in the proof follows from previous steps and earlier known results. (Also see Theorem 6.9.)
 
@@ -4264,13 +4203,7 @@ This notation now helps us to discuss properties of statements, and also to see 
 
 Now consider the following table in which we make a new statement from each of the given statements.
 
-| Original statement                        | New statement                                                |
-|-------------------------------------------|--------------------------------------------------------------|
-| p: It rained in Delhi on 1 September 2005 | ~p: It is false that it rained in Delhi on 1 September 2005. |
-| q: All teachers are female.               | ~q: It is false that all teachers are female.                |
-| r: Mike's dog has a black tail.           | ~r: It is false that Mike's dog has a black tail.            |
-| s: 2 + 2 = 4.                             | ~s: It is false that 2 + 2 = 4.                              |
-| t: Triangle ABC is equilateral.           | ~t: It is false that triangle ABC is equilateral.            |
+<table><tr><td>Original statement</td><td>New statement</td></tr><tr><td>p: It rained in Delhi on 1 September 2005</td><td>~p: It is false that it rained in Delhi on 1 September 2005.</td></tr><tr><td>q: All teachers are female.</td><td>~q: It is false that all teachers are female.</td></tr><tr><td>r: Mike&#x27;s dog has a black tail.</td><td>~r: It is false that Mike&#x27;s dog has a black tail.</td></tr><tr><td>s: 2 + 2 = 4.</td><td>~s: It is false that 2 + 2 = 4.</td></tr><tr><td>t: Triangle ABC is equilateral.</td><td>~t: It is false that triangle ABC is equilateral.</td></tr></table>
 
 Each new statement in the table is a negation of the corresponding old statement. That is, $\displaystyle { \sim } p , \sim q , \sim r , \sim s$ and ${ \sim } t$ are negations of the statements $p , q , r , s$ and $t$ , respectively. Here, ${ \sim } p$ is read as ‘not $p '$ . The statement ${ \sim } p$ negates the assertion that the statement $p$ makes. Notice that in our usual talk we would simply mean ${ \sim } p$ as ‘It did not rain in Delhi on 1 September 2005.’ However, we need to be careful while doing so. You might think that one can obtain the negation of a statement by simply inserting the word ‘not’ in the given statement at a suitable place. While this works in the case of $p$ , the difficulty comes when we have a statement that begins with ‘all’. Consider, for example, the statement $q$ : All teachers are female. We said the negation of this statement is ${ \sim } q$ : It is false that all teachers are female. This is the same as the statement ‘There are some teachers who are males.’ Now let us see what happens if we simply insert ‘not’ in $q$ . We obtain the statement: ‘All teachers are not female’, or we can obtain the statement: ‘Not all teachers are female.’ The first statement can confuse people. It could imply (if we lay emphasis on the word ‘All’) that all teachers are male! This is certainly not the negation of $q$ . However, the second statement gives the meaning of ${ \sim } q$ , i.e., that there is at least one teacher who is not a female. So, be careful when writing the negation of a statement!
 
@@ -4478,29 +4411,12 @@ Example 15 : The product of a non-zero rational number and an irrational number 
 
 Solution :   
 
-| Statements                                                                                                                                                                                             | Analysis/Comment                                                                  |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| We will use proof by contradiction. Let r be a non-zero rational number and x be an irrational number.
- Let r = m/n, where m, n are integers and m ≠ 0, n ≠ 0. We need to prove that rx is irrational. |                                                                                   |
-| Assume rx is rational.                                                                                                                                                                                 | Here, we are assuming the negation of the statement that we need to prove.        |
-| Then rx = p/q, q ≠ 0, where p and q are integers.                                                                                                                                                      | This follows from the previous statement and the definition of a rational number. |
-| Rearranging the equation rx = p/q, q ≠ 0, and using the fact that r = m/n, we get x = p/rq = np/mq.                                                                                                    |                                                                                   |
-| Since np and mq are integers and mq ≠ 0, x is a rational number.                                                                                                                                       | Using properties of integers, and definition of a rational number.                |
-| This is a contradiction, because we have shown x to be rational, but by our hypothesis, we have x is irrational.                                                                                       | This is what we were looking for - a contradiction.                               |
-| The contradiction has arisen because of the faulty assumption that rx is rational. Therefore, rx is irrational.                                                                                        | Logical deduction.                                                                |
+<table><tr><td>Statements</td><td>Analysis/Comment</td></tr><tr><td>We will use proof by contradiction. Let r be a non-zero rational number and x be an irrational number.
+Let r = m/n, where m, n are integers and m ≠ 0, n ≠ 0. We need to prove that rx is irrational.</td><td></td></tr><tr><td>Assume rx is rational.</td><td>Here, we are assuming the negation of the statement that we need to prove.</td></tr><tr><td>Then rx = p/q, q ≠ 0, where p and q are integers.</td><td>This follows from the previous statement and the definition of a rational number.</td></tr><tr><td>Rearranging the equation rx = p/q, q ≠ 0, and using the fact that r = m/n, we get x = p/rq = np/mq.</td><td></td></tr><tr><td>Since np and mq are integers and mq ≠ 0, x is a rational number.</td><td>Using properties of integers, and definition of a rational number.</td></tr><tr><td>This is a contradiction, because we have shown x to be rational, but by our hypothesis, we have x is irrational.</td><td>This is what we were looking for — a contradiction.</td></tr><tr><td>The contradiction has arisen because of the faulty assumption that rx is rational. Therefore, rx is irrational.</td><td>Logical deduction.</td></tr></table>
 
 We now prove Example 11, but this time using proof by contradiction. The proof is given below:
 
-| Statements                                                                                                                                                  | Analysis/Comment                                                                              |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Let us assume that the statement is note true.                                                                                                              | As we saw earlier, this is the starting point for an argument using 'proof by contradiction'. |
-| So we suppose that there exists a prime number p > 3, which is not of the form 6n + 1 or 6n + 5, where n is a whole number.                                 | This is the negation of the statement in the result.                                          |
-| Using Euclid's division lemma on division by 6, and using the fact that p is not of the form 6n + 1 or 6n + 5, we get p = 6n or 6n + 2 or 6n + 3 or 6n + 4. | Using earlier proved results.                                                                 |
-| Therefore, p is divisible by either 2 or 3.                                                                                                                 | Logical deduction.                                                                            |
-| So, p is not a prime.                                                                                                                                       | Logical deduction.                                                                            |
-| This is a contradiction, because by our hypothesis p is prime.                                                                                              | Precisely what we want!                                                                       |
-| The contradiction has arisen, because we assumed that there exists a prime number p > 3 which is not of the form 6n + 1 or 6n + 5.                          |                                                                                               |
-| Hence, every prime number greater than 3 is of the form 6n + 1 or 6n + 5.                                                                                   | We reach the conclusion.                                                                      |
+<table><tr><td>Statements</td><td>Analysis/Comment</td></tr><tr><td>Let us assume that the statement is note true.</td><td>As we saw earlier, this is the starting point for an argument using ‘proof by contradiction’.</td></tr><tr><td>So we suppose that there exists a prime number p &gt; 3, which is not of the form 6n + 1 or 6n + 5, where n is a whole number.</td><td>This is the negation of the statement in the result.</td></tr><tr><td>Using Euclid&#x27;s division lemma on division by 6, and using the fact that p is not of the form 6n + 1 or 6n + 5, we get p = 6n or 6n + 2 or 6n + 3 or 6n + 4.</td><td>Using earlier proved results.</td></tr><tr><td>Therefore, p is divisible by either 2 or 3.</td><td>Logical deduction.</td></tr><tr><td>So, p is not a prime.</td><td>Logical deduction.</td></tr><tr><td>This is a contradiction, because by our hypothesis p is prime.</td><td>Precisely what we want!</td></tr><tr><td>The contradiction has arisen, because we assumed that there exists a prime number p &gt; 3 which is not of the form 6n + 1 or 6n + 5.</td><td></td></tr><tr><td>Hence, every prime number greater than 3 is of the form 6n + 1 or 6n + 5.</td><td>We reach the conclusion.</td></tr></table>
 
 Remark : The example of the proof above shows you, yet again, that there can be several ways of proving a result.
 
@@ -4511,14 +4427,7 @@ Theorem A1.2 : Out of all the line segments, drawn from a point to points of a l
 ![](images/1caf538b4207fac5ff02f39e843da0da0f1204215b776dac4895dac0cd1ff66b.jpg)  
 Fig. A1.5
 
-| Statements                                                                                                                                                                                         | Analysis/Comment                                                                                                                              |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Let XY be the given line, P a point not lying on XY and PM, PA1, PA2, . . . etc., be the line segments drawn from P to the points of the line XY, out of which PM is the smallest (see Fig. A1.5). | Since we have to prove that out of all PM, PA1, PA2, . . . etc., the smallest is perpendicular to XY, we start by taking these line segments. |
-| Let PM be not perpendicular to XY                                                                                                                                                                  | This is the negation of the statement to be proved by contradiction.                                                                          |
-| Draw a perpendicular PN on the line XY, shown by dotted lines in Fig. A1.5.                                                                                                                        | We often need constructions to prove our results.                                                                                             |
-| PN is the smallest of all the line segments PM, PA1, PA2, . . . etc., which means PN < PM.                                                                                                         | Side of right triangle is less than the hypotenuse and known property of numbers.                                                             |
-| This contradicts our hypothesis that PM is the smallest of all such line segments.                                                                                                                 | Precisely what we want!                                                                                                                       |
-| Therefore, the line segment PM is perpendicular to XY.                                                                                                                                             | We reach the conclusion.                                                                                                                      |
+<table><tr><td>Statements</td><td>Analysis/Comment</td></tr><tr><td>Let XY be the given line, P a point not lying on XY and PM, PA1, PA2, . . . etc., be the line segments drawn from P to the points of the line XY, out of which PM is the smallest (see Fig. A1.5).</td><td>Since we have to prove that out of all PM, PA1, PA2, . . . etc., the smallest is perpendicular to XY, we start by taking these line segments.</td></tr><tr><td>Let PM be not perpendicular to XY</td><td>This is the negation of the statement to be proved by contradiction.</td></tr><tr><td>Draw a perpendicular PN on the line XY, shown by dotted lines in Fig. A1.5.</td><td>We often need constructions to prove our results.</td></tr><tr><td>PN is the smallest of all the line segments PM, PA1, PA2, . . . etc., which means PN &lt; PM.</td><td>Side of right triangle is less than the hypotenuse and known property of numbers.</td></tr><tr><td>This contradicts our hypothesis that PM is the smallest of all such line segments.</td><td>Precisely what we want!</td></tr><tr><td>Therefore, the line segment PM is perpendicular to XY.</td><td>We reach the conclusion.</td></tr></table>
 
 ## EXERCISE A1.6
 

@@ -1,4 +1,4 @@
-# Chapter 1
+# chapter 1
 # A Triumph of Surgery A Triumph of
 
 1060CH01
@@ -150,8 +150,8 @@ Let your life lightly dance on the edges of Time like dew on the tip ofaleaf.
 
 RABINDRANATH TAGORE
 
-# Chapter 2
-# The Thief's Story The Thief's
+# chapter 2
+# The Thief's Story
 
 1060CH02
 
@@ -283,8 +283,8 @@ unlined: (here) showing no sign of worry or anxiety
 ‘Vanka’ by Anton Chekhov   
 ‘A Scandal in Bohemia’ by Arthur Conan Doyle
 
-# Chapter 3
-# The Midnight VThe Midnight isitor
+# chapter 3
+# The Midnight visitor
 
 1060CH03
 
@@ -428,7 +428,7 @@ IsSA
 
 The above two poems are examples of Haiku. Haiku is a poetic form and a type of poetry from the Japanese culture. Haiku combines form, content, and language in a meaningful, yet compact form. The most common form of Haiku is three short lines. The themes include nature, feelings, or experiences.
 
-# Chapter 4
+# chapter 4
 # A Question of Trust A Question of
 
 ![](images/5d5fd12451b23929492c192a4686847ce2c5fd361b156e1f149b946b08f22777.jpg)
@@ -568,7 +568,7 @@ hay fever: a disorder affecting the nose and throat, caused by allergy to pollen
 ‘A Case for the Defence’ by Graham Greene
 
 # Chapter 5
-# Footprints Footprints withoutwithout Feet
+# Footprints without Feet
 
 1060CH05
 
@@ -680,7 +680,7 @@ The Invisible Man by H.G. Wells
 • ‘As Far As the Human Eye Can See’ by Isaac Asimov   
 • It Happened Tomorrow (ed.) Bal Phondke
 
-# Chapter 6
+# chapter 6
 # The Making of a Scientist The Making of a
 
 1060CH06
@@ -712,21 +712,10 @@ By the time he was in the second grade, Ebright had collected all twentyfive spe
 
 ## Species and Sub-species of Butterflies Collected in Six Weeks in Reading, Pennsylvania
 
-| Gossamer-Winged 
- Butterflies   | Wood Nymphs 
- and Satyrs   | Brush-footed 
- Butterflies   |
-|---------------------------------|----------------------------|------------------------------|
-| • white M hairstreak            | • eyed brown               | • variegated fritillary      |
-| • acadian hairstreak            | • wood nymph (grayling)    | • Harris's checkerspot       |
-| • bronze copper                 | Monarchs                   | • pearl crescent             |
-| • bog copper                    | • monarch or milkweed      | • mourning cloak             |
-| • purplish copper               | Whites and Sulphurs        | • painted lady               |
-| • eastern-tailed blue           | • olympia                  | • buckeye                    |
-| • melissa blue                  | • cloudless sulphur        | • viceroy                    |
-| • silvery blue                  | • European cabbage         | • white admiral              |
-| Snout Butterfly                 |                            | • red-spotted purple         |
-|                                 |                            | • hackberry                  |
+<table><tr><td>Gossamer-Winged 
+Butterflies</td><td>Wood Nymphs 
+and Satyrs</td><td>Brush-footed 
+Butterflies</td></tr><tr><td>• white M hairstreak</td><td>• eyed brown</td><td>• variegated fritillary</td></tr><tr><td>• acadian hairstreak</td><td>• wood nymph (grayling)</td><td>• Harris&#x27;s checkerspot</td></tr><tr><td>• bronze copper</td><td>Monarchs</td><td>• pearl crescent</td></tr><tr><td>• bog copper</td><td>• monarch or milkweed</td><td>• mourning cloak</td></tr><tr><td>• purplish copper</td><td>Whites and Sulphurs</td><td>• painted lady</td></tr><tr><td>• eastern-tailed blue</td><td>• olympia</td><td>• buckeye</td></tr><tr><td>• melissa blue</td><td>• cloudless sulphur</td><td>• viceroy</td></tr><tr><td>• silvery blue</td><td>• European cabbage</td><td>• white admiral</td></tr><tr><td>Snout Butterfly</td><td></td><td>• red-spotted purple</td></tr><tr><td></td><td></td><td>• hackberry</td></tr></table>
 
 “That probably would have been the end of my butterfly collecting,” he said. “But then my mother got me a children’s book called The Travels of Monarch X.” That book, which told how monarch butterflies migrate to Central America, opened the world of science to the eager young collector.
 
@@ -839,8 +828,8 @@ Can you answer these questions? You will find Professor Yash Pal’s and Dr Rahu
 Children Who Made It Big by Thangamani   
 • School Days by Tom Brown
 
-# Chapter 7
-# The NecklaceThe
+# chapter 7
+# The Necklace
 
 1060CH07
 
@@ -1296,7 +1285,7 @@ downcast: looking downwards
 
 ![](images/7e943fa1a325a6de91195f575cf5d5d1a380c74306add66da7e2ecde224b6011.jpg)
 
-## Talk about itTalk about
+## Talk about it
 
 1. Bholi’s teacher helped her overcome social barriers by encouraging and motivating her. How do you think you can contribute towards changing the social attitudes illustrated in this story?
 
@@ -1304,14 +1293,14 @@ downcast: looking downwards
 
 3. Do you think the characters in the story were speaking to each other in English? If not, in which language were they speaking? (You can get clues from the names of the persons and the non-English words used in the story.)
 
-## Suggested readingSuggested
+## Suggested reading
 
 ‘The Brass Gong’ by Qazi Abdul Sattar   
 • ‘Old Man at the Bridge’ by Earnest Hemingway   
 . ‘Gandhiji the Teacher’ by Rajkumari Amrit Kaur
 
-# Chapter 9
-# The Book That Saved the EarthThe Book That Saved the
+# chapter 8
+# The Book That Saved the Earth
 
 ![](images/dc94c22b45db28449c7f092118cfda1758141416c12108abdc9034bf10a7f337.jpg)  
 1060CH10
@@ -1465,22 +1454,7 @@ OMEGA : (gulping) Eat it?
 
 THINK-TANK : Do you doubt the Mighty Think-Tank?
 
-| OMEGA          | : Oh, no, no. But poor Lieutenant Iota has not had her breakfast. Lieutenant Iota, I order you to eat this - this sandwich.                                                                                                                                                             |
-|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| IOTA           | : (dubiously) Eat it? Oh, Captain! It's a very great honour to be the first Martian to eat a sandwich, I'm sure, but - but how can I be so impolite as to eat before my Sergeant? (handing Oop the book and saying brightly) Sergeant Oop, I order you to eat the sandwich immediately. |
-| OOP            | : (making a face) Who, Lieutenant? Me, Lieutenant?                                                                                                                                                                                                                                      |
-| IOTA and OMEGA | : (saluting) For the glory of Mars, Oop!                                                                                                                                                                                                                                                |
-| OOP            | : Yes, of course! (unhappily) Immediately. (He opens his mouth wide. Omega and Iota watch him breathlessly. He bites down on a corner of the book, and pantomimes chewing and swallowing, while making terrible faces.)                                                                 |
-| OMEGA          | : Well, Oop?                                                                                                                                                                                                                                                                            |
-| IOTA           | : Well, Oop? (Oop coughs. Omega and Iota pound him on the back.)                                                                                                                                                                                                                        |
-| THINK-TANK     | : Was it not delicious, Sergeant Oop?                                                                                                                                                                                                                                                   |
-| OOP            | : (saluting) That is correct, sir. It was not delicious. I don't know how the Earthlings can get those sandwiches down without water. They're dry as Martian dust.                                                                                                                      |
-| Noodle         | : Sir, sir. Great and Mighty Think-Tank. I beg your pardon, but an insignificant bit of data floated into my mind about those sandwiches.                                                                                                                                               |
-| THINK-TANK     | : It can't be worth much, but go ahead. Give us your trifling bit of data.                                                                                                                                                                                                              |
-| Noodle         | : Well, sir, I have seen surveyor films of those sandwiches. I noticed that the Earthlings did not eat them. They used them as some sort of communication device.                                                                                                                       |
-| THINK-TANK     | : (haughtily) Naturally. That was my next point. These are actually communication sandwiches. Think-Tank is never wrong. Who is never wrong?                                                                                                                                            |
-| ALL            | : (saluting) Great and Mighty Think-Tank is never wrong.                                                                                                                                                                                                                                |
-| THINK-TANK     | : Therefore, I order you to listen to them.                                                                                                                                                                                                                                             |
+<table><tr><td>OMEGA</td><td>: Oh, no, no. But poor Lieutenant Iota has not had her breakfast. Lieutenant Iota, I order you to eat this — this sandwich.</td></tr><tr><td>IOTA</td><td>: (dubiously) Eat it? Oh, Captain! It&#x27;s a very great honour to be the first Martian to eat a sandwich, I&#x27;m sure, but — but how can I be so impolite as to eat before my Sergeant? (handing Oop the book and saying brightly) Sergeant Oop, I order you to eat the sandwich immediately.</td></tr><tr><td>OOP</td><td>: (making a face) Who, Lieutenant? Me, Lieutenant?</td></tr><tr><td>IOTA and OMEGA</td><td>: (saluting) For the glory of Mars, Oop!</td></tr><tr><td>OOP</td><td>: Yes, of course! (unhappily) Immediately. (He opens his mouth wide. Omega and Iota watch him breathlessly. He bites down on a corner of the book, and pantomimes chewing and swallowing, while making terrible faces.)</td></tr><tr><td>OMEGA</td><td>: Well, Oop?</td></tr><tr><td>IOTA</td><td>: Well, Oop? (Oop coughs. Omega and Iota pound him on the back.)</td></tr><tr><td>THINK-TANK</td><td>: Was it not delicious, Sergeant Oop?</td></tr><tr><td>OOP</td><td>: (saluting) That is correct, sir. It was not delicious. I don&#x27;t know how the Earthlings can get those sandwiches down without water. They&#x27;re dry as Martian dust.</td></tr><tr><td>Noodle</td><td>: Sir, sir. Great and Mighty Think-Tank. I beg your pardon, but an insignificant bit of data floated into my mind about those sandwiches.</td></tr><tr><td>THINK-TANK</td><td>: It can&#x27;t be worth much, but go ahead. Give us your trifling bit of data.</td></tr><tr><td>Noodle</td><td>: Well, sir, I have seen surveyor films of those sandwiches. I noticed that the Earthlings did not eat them. They used them as some sort of communication device.</td></tr><tr><td>THINK-TANK</td><td>: (haughtily) Naturally. That was my next point. These are actually communication sandwiches. Think-Tank is never wrong. Who is never wrong?</td></tr><tr><td>ALL</td><td>: (saluting) Great and Mighty Think-Tank is never wrong.</td></tr><tr><td>THINK-TANK</td><td>: Therefore, I order you to listen to them.</td></tr></table>
 
 OMEGA : Listen to them?
 
@@ -1628,19 +1602,19 @@ transcribe: write in full form from short-hand
 
 levity: tendency to treat serious matters without respect; lack of seriousness
 
-## Think about itThink about
+## Think about it
 
 1. Noodle avoids offending Think-Tank but at the same time he corrects his mistakes. How does he manage to do that?   
 2. If you were in Noodle’s place, how would you handle Think-Tank’s mistakes?   
 3. Do you think books are being replaced by the electronic media? Can we do away with books altogether?   
 4. Why are books referred to as a man’s best companion? Which is your favourite book and why? Write a paragraph about that book.
 
-## Talk about itTalk about
+## Talk about it
 
 1. In what ways does Think-Tank misinterpret innocent nursery rhymes as threats to the Martians? Can you think of any incidents where you misinterpreted a word or an action? How did you resolve the misunderstanding?   
 2. The aliens in this play speak English. Do you think this is their language? What could be the language of the aliens?
 
-## Suggested readingSuggested JJ
+## Suggested reading
 
 ‘Diamond Cuts Diamond‘ by J.H. Parker   
 ‘The Cindrella Story’ by Kenneth Lillington   

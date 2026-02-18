@@ -1,19 +1,8 @@
-![](images/4ab39cd5f260ef1d96b4dd1ea09d1e829cae5f0ace444795b234755fb0340ddf.jpg)  
-
-
-![](images/75a5b354380200a9efe4bf4b54d573d892c412bd73d1592faf329da3ae4dfd0c.jpg)
-
-![](images/330484c3d17243350110c878ab05ef5cebed18b472ce12d34d51df6dcfc37b77.jpg)
-
-
-![](images/cc4d489e2bf126eb225722bd261427fbb58b8b53b086fbd4f28e196549ae5754.jpg)
-
-
 
 # Chapter 1
 # Chemical Reactions and Equations
 
-onsider the following situations of daily Clife and think what happens when -
+consider the following situations of daily Clife and think what happens when -
 
 milk is left at room temperature during summers.   
 an iron tawa/pan/nail is left exposed to humid atmosphere.   
@@ -108,12 +97,7 @@ $$
 
 Let us examine the number of atoms of different elements on both sides of the arrow.
 
-| Element   |   Number of atoms in reactants (LHS) |   Number of atoms in products (RHS) |
-|-----------|--------------------------------------|-------------------------------------|
-| Zn        |                                    1 |                                   1 |
-| H         |                                    2 |                                   2 |
-| S         |                                    1 |                                   1 |
-| O         |                                    4 |                                   4 |
+<table><tr><td>Element</td><td>Number of atoms in reactants (LHS)</td><td>Number of atoms in products (RHS)</td></tr><tr><td>Zn</td><td>1</td><td>1</td></tr><tr><td>H</td><td>2</td><td>2</td></tr><tr><td>S</td><td>1</td><td>1</td></tr><tr><td>O</td><td>4</td><td>4</td></tr></table>
 
 As the number of atoms of each element is the same on both sides of the arrow, Eq. (1.3) is a balanced chemical equation.
 
@@ -131,20 +115,13 @@ $$
 
 Step II: List the number of atoms of different elements present in the unbalanced equation (1.5).
 
-| Element   |   Number of atoms in reactants (LHS) |   Number of atoms in products (RHS) |
-|-----------|--------------------------------------|-------------------------------------|
-| Fe        |                                    1 |                                   3 |
-| H         |                                    2 |                                   2 |
-| O         |                                    1 |                                   4 |
+<table><tr><td>Element</td><td>Number of atoms in reactants (LHS)</td><td>Number of atoms in products (RHS)</td></tr><tr><td>Fe</td><td>1</td><td>3</td></tr><tr><td>H</td><td>2</td><td>2</td></tr><tr><td>O</td><td>1</td><td>4</td></tr></table>
 
 Step III: It is often convenient to start balancing with the compound that contains the maximum number of atoms. It may be a reactant or a product. In that compound, select the element which has the maximum number of atoms. Using these criteria, we select $\mathrm { F e } _ { 3 } \mathrm { O } _ { 4 }$ and the element oxygen in it. There are four oxygen atoms on the RHS and only one on the LHS.
 
 To balance the oxygen atoms –
 
-| Atoms of oxygen   | In reactants   | In products   |
-|-------------------|----------------|---------------|
-| (I) Initial       | 1 (in H2O)     | 4 (in Fe3O4)  |
-| (ii) To balance   | 1×4            | 4             |
+<table><tr><td>Atoms of oxygen</td><td>In reactants</td><td>In products</td></tr><tr><td>(I) Initial</td><td>1 (in H2O)</td><td>4 (in Fe3O4)</td></tr><tr><td>(ii) To balance</td><td>1×4</td><td>4</td></tr></table>
 
 To equalise the number of atoms, it must be remembered that we cannot alter the formulae of the compounds or elements involved in the reactions. For example, to balance oxygen atoms we can put coefficient ‘4’as $4 \mathrm { H } _ { 2 } \mathrm { O }$ and
 
@@ -160,10 +137,8 @@ Step IV: Fe and H atoms are still not balanced. Pick any of these elements to pr
 
 To equalise the number of H atoms, make the number of molecules of hydrogen as four on the RHS.
 
-| Atoms of oxygen   | In reactants   | In products   |
-|-------------------|----------------|---------------|
-| (I) Initial       | 8 (in 4H2O)    | 4 (in H2)     |
-| (ii) To balance   | 8              | 2 × 4         |
+<table><tr><td>Atoms of oxygen</td><td>In reactants</td><td>In products</td></tr><tr><td>(I) Initial</td><td>8 (in 4H2O)</td><td>4 (in H2)</td></tr><tr><td>(ii) To balance</td><td>8</td><td>2 × 4</td></tr></table>
+
 
 The equation would be –
 
@@ -175,10 +150,8 @@ $$
 
 Step V: Examine the above equation and pick up the third element which is not balanced. You find that only one element is left to be balanced, that is, iron.
 
-| Atoms of iron   | In reactants   | In products   |
-|-----------------|----------------|---------------|
-| (I) Initial     | 1 (in Fe)      | 3 (in Fe3O4)  |
-| (ii) To balance | 1 × 3          | 3             |
+<table><tr><td>Atoms of iron</td><td>In reactants</td><td>In products</td></tr><tr><td>(I) Initial</td><td>1 (in Fe)</td><td>3 (in Fe3O4)</td></tr><tr><td>(ii) To balance</td><td>1 × 3</td><td>3</td></tr></table>
+
 
 To equalise Fe, we take three atoms of Fe on the LHS.
 
@@ -702,10 +675,8 @@ What change in colour did you observe with red litmus,blue litmus, phenolphthale
 Tabulate your observations in Table 2.1.
 
 Table 2.1   
+<table><tr><td>Sample solution</td><td>Red litmus solution</td><td>Blue litmus solution</td><td>Phenolph-thalein solution</td><td>Methyl orange solution</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table>
 
-| Sample solution   | Red litmus solution   | Blue litmus solution   | Phenolph-thalein solution   | Methyl orange solution   |
-|-------------------|-----------------------|------------------------|-----------------------------|--------------------------|
-|                   |                       |                        |                             |                          |
 
 These indicators tell us whether a substance is acidic or basic by change in colour. There are some substances whose odour changes in acidic or basic media. These are called olfactory indicators. Let us try out some of these indicators.
 
@@ -1002,20 +973,9 @@ Figure 2.6 + –Variation of pH with the change in concentration of H (aq) and O
 ■ Record your observations.   
 ■ What is the nature of each substance on the basis of your observations?
 
-Table 2.2   
-
-|   S. No. | Solution                 | Colour of pH paper   | Approx- -imate pH value   | Nature of substance   |
-|----------|--------------------------|----------------------|---------------------------|-----------------------|
-|        1 | Saliva (before meal)     |                      |                           |                       |
-|        2 | Saliva (after meal)      |                      |                           |                       |
-|        3 | Lemon juice              |                      |                           |                       |
-|        4 | Colourless aerated drink |                      |                           |                       |
-|        5 | Carrot juice             |                      |                           |                       |
-|        6 | Coffee                   |                      |                           |                       |
-|        7 | Tomato juice             |                      |                           |                       |
-|        8 | Tap water                |                      |                           |                       |
-|        9 | 1M NaOH                  |                      |                           |                       |
-|       10 | 1M HCl                   |                      |                           |                       |
+Table 2.2 
+  
+<table><tr><td>S. No.</td><td>Solution</td><td>Colour of pH paper</td><td>Approx- -imate pH value</td><td>Nature of substance</td></tr><tr><td>1</td><td>Saliva (before meal)</td><td></td><td></td><td></td></tr><tr><td>2</td><td>Saliva (after meal)</td><td></td><td></td><td></td></tr><tr><td>3</td><td>Lemon juice</td><td></td><td></td><td></td></tr><tr><td>4</td><td>Colourless aerated drink</td><td></td><td></td><td></td></tr><tr><td>5</td><td>Carrot juice</td><td></td><td></td><td></td></tr><tr><td>6</td><td>Coffee</td><td></td><td></td><td></td></tr><tr><td>7</td><td>Tomato juice</td><td></td><td></td><td></td></tr><tr><td>8</td><td>Tap water</td><td></td><td></td><td></td></tr><tr><td>9</td><td>1M NaOH</td><td></td><td></td><td></td></tr><tr><td>10</td><td>1M HCl</td><td></td><td></td><td></td></tr></table>
 
 ![](images/5920d54ad7c2928725dc5df41e6eb93ad2d296a1949433c46fed59071f2365b5.jpg)  
 Figure 2.7 pH of some common substances shown on a pH paper (colours are only a rough guide)
@@ -1068,12 +1028,8 @@ them. A traditional remedy is rubbing the area with the leaf of the dock plant, 
 
 Table 2.3 Some naturally occurring acids   
 
-| Natural source   | Acid          | Natural source   | Acid           |
-|------------------|---------------|------------------|----------------|
-| Vinegar          | Acetic acid   | Sour milk (Curd) | Lactic acid    |
-| Orange           | Citric acid   | Lemon            | Citric acid    |
-| Tamarind         | Tartaric acid | Ant sting        | Methanoic acid |
-| Tomato           | Oxalic acid   | Nettle sting     | Methanoic acid |
+<table><tr><td>Natural source</td><td>Acid</td><td>Natural source</td><td>Acid</td></tr><tr><td>Vinegar</td><td>Acetic acid</td><td>Sour milk (Curd)</td><td>Lactic acid</td></tr><tr><td>Orange</td><td>Citric acid</td><td>Lemon</td><td>Citric acid</td></tr><tr><td>Tamarind</td><td>Tartaric acid</td><td>Ant sting</td><td>Methanoic acid</td></tr><tr><td>Tomato</td><td>Oxalic acid</td><td>Nettle sting</td><td>Methanoic acid</td></tr></table>
+
 
 ## 
 
@@ -1110,9 +1066,8 @@ Salts of a strong acid and a strong base are neutral with pH value of 7. On the 
 
 Table 2.4   
 
-| Salt   | pH   | Acid used   | Base used   |
-|--------|------|-------------|-------------|
-|        |      |             |             |
+<table><tr><td>Salt</td><td>pH</td><td>Acid used</td><td>Base used</td></tr><tr><td></td><td></td><td></td><td></td></tr></table>
+
 
 #### 2.4.3 Chemicals from Common Salt
 
@@ -1453,9 +1408,7 @@ Do non-metals also have physical properties similar to that of metals? Let us fi
 
 Compile your observations regarding metals and non-metals in Table 3.1.
 
-| Element   | Symbol   | Type of surface   | Hardness   | Malleability   | Ductility   | Conducts Electricity   | Sonority   |
-|-----------|----------|-------------------|------------|----------------|-------------|------------------------|------------|
-|           |          |                   |            |                |             |                        |            |
+<table><tr><td>Element</td><td>Symbol</td><td>Type of surface</td><td>Hardness</td><td>Malleability</td><td>Ductility</td><td>Conducts Electricity</td><td>Sonority</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
 
 On the bases of the observations recorded in Table 3.1, discuss the general physical properties of metals and non-metals in the class. You must have concluded that we cannot group elements according to their physical properties alone, as there are many exceptions. For example –
 
@@ -1672,20 +1625,7 @@ The reactivity series is a list of metals arranged in the order of their decreas
 
 Table 3.2 Activity series : Relative reactivities of metals   
 
-| K   | Potassium   | Most reactive        |
-|-----|-------------|----------------------|
-| Na  | Sodium      |                      |
-| Ca  | Calcium     |                      |
-| Mg  | Magnesium   |                      |
-| Al  | Aluminium   |                      |
-| Zn  | Zinc        | Reactivity decreases |
-| Fe  | Iron        |                      |
-| Pb  | Lead        |                      |
-| [H] | [Hydrogen]  |                      |
-| Cu  | Copper      |                      |
-| Hg  | Mercury     |                      |
-| Ag  | Silver      |                      |
-| Au  | Gold        | Least reactive       |
+<table><tr><td>K</td><td>Potassium</td><td>Most reactive</td></tr><tr><td>Na</td><td>Sodium</td><td></td></tr><tr><td>Ca</td><td>Calcium</td><td></td></tr><tr><td>Mg</td><td>Magnesium</td><td></td></tr><tr><td>Al</td><td>Aluminium</td><td></td></tr><tr><td>Zn</td><td>Zinc</td><td>Reactivity decreases</td></tr><tr><td>Fe</td><td>Iron</td><td></td></tr><tr><td>Pb</td><td>Lead</td><td></td></tr><tr><td>[H]</td><td>[Hydrogen]</td><td></td></tr><tr><td>Cu</td><td>Copper</td><td></td></tr><tr><td>Hg</td><td>Mercury</td><td></td></tr><tr><td>Ag</td><td>Silver</td><td></td></tr><tr><td>Au</td><td>Gold</td><td>Least reactive</td></tr></table>
 
 ## 
 
@@ -1697,12 +1637,7 @@ Table 3.2 Activity series : Relative reactivities of metals
 
 3. Samples of four metals A, B, C and D were taken and added to the following solution one by one. The results obtained have been tabulated as follows.
 
-| Metal   | Iron(II) sulphate   | Copper(II) sulphate   | Zinc sulphate   | Silver nitrate   |
-|---------|---------------------|-----------------------|-----------------|------------------|
-| A       | No reaction         | Displacement          |                 |                  |
-| B       | Displacement        |                       | No reaction     |                  |
-| C       | No reaction         | No reaction           | No reaction     | Displacement     |
-| D       | No reaction         | No reaction           | No reaction     | No reaction      |
+<table><tr><td>Metal</td><td>Iron(II) sulphate</td><td>Copper(II) sulphate</td><td>Zinc sulphate</td><td>Silver nitrate</td></tr><tr><td>A</td><td>No reaction</td><td>Displacement</td><td></td><td></td></tr><tr><td>B</td><td>Displacement</td><td></td><td>No reaction</td><td></td></tr><tr><td>C</td><td>No reaction</td><td>No reaction</td><td>No reaction</td><td>Displacement</td></tr><tr><td>D</td><td>No reaction</td><td>No reaction</td><td>No reaction</td><td>No reaction</td></tr></table>
 
 Use the Table above to answer the following questions about metals
 
@@ -1725,23 +1660,7 @@ We can see from Table 3.3 that a sodium atom has one electron in its outermost s
 
 Table 3.3 Electronic configurations of some elements   
 
-| Type of element   | Element        | Atomic number   | Number of electrons in shells   | Number of electrons in shells   | Number of electrons in shells   | Number of electrons in shells   |
-|-------------------|----------------|-----------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
-| Type of element   | Element        | Atomic number   | K                               | L                               | M                               | N                               |
-| Noble gases       | Helium (He)    | 2               | 2                               |                                 |                                 |                                 |
-| Noble gases       | Neon (Ne)      | 10              | 2                               | 8                               |                                 |                                 |
-| Noble gases       | Argon (Ar)     | 18              | 2                               | 8                               | 8                               |                                 |
-| Metals            | Sodium (Na)    | 11              | 2                               | 8                               | 1                               |                                 |
-| Metals            | Magnesium (Mg) | 12              | 2                               | 8                               | 2                               |                                 |
-| Metals            | Aluminium (Al) | 13              | 2                               | 8                               | 3                               |                                 |
-| Metals            | Potassium (K)  | 19              | 2                               | 8                               | 8                               | 1                               |
-| Metals            | Calcium (Ca)   | 20              | 2                               | 8                               | 8                               | 2                               |
-| Non-metals        | Nitrogen (N)   | 7               | 2                               | 5                               |                                 |                                 |
-| Non-metals        | Oxygen (O)     | 8               | 2                               | 6                               |                                 |                                 |
-| Non-metals        | Fluorine (F)   | 9               | 2                               | 7                               |                                 |                                 |
-| Non-metals        | Phosphorus (P) | 15              | 2                               | 8                               | 5                               |                                 |
-| Non-metals        | Sulphur (S)    | 16              | 2                               | 8                               | 6                               |                                 |
-| Non-metals        | Chlorine (Cl)  | 17              | 2                               | 8                               | 7                               |                                 |
+<table><tr><td rowspan="2">Type of element</td><td rowspan="2">Element</td><td rowspan="2">Atomic number</td><td colspan="4">Number of electrons in shells</td></tr><tr><td>K</td><td>L</td><td>M</td><td>N</td></tr><tr><td rowspan="3">Noble gases</td><td>Helium (He)</td><td>2</td><td>2</td><td></td><td></td><td></td></tr><tr><td>Neon (Ne)</td><td>10</td><td>2</td><td>8</td><td></td><td></td></tr><tr><td>Argon (Ar)</td><td>18</td><td>2</td><td>8</td><td>8</td><td></td></tr><tr><td rowspan="5">Metals</td><td>Sodium (Na)</td><td>11</td><td>2</td><td>8</td><td>1</td><td></td></tr><tr><td>Magnesium (Mg)</td><td>12</td><td>2</td><td>8</td><td>2</td><td></td></tr><tr><td>Aluminium (Al)</td><td>13</td><td>2</td><td>8</td><td>3</td><td></td></tr><tr><td>Potassium (K)</td><td>19</td><td>2</td><td>8</td><td>8</td><td>1</td></tr><tr><td>Calcium (Ca)</td><td>20</td><td>2</td><td>8</td><td>8</td><td>2</td></tr><tr><td rowspan="6">Non-metals</td><td>Nitrogen (N)</td><td>7</td><td>2</td><td>5</td><td></td><td></td></tr><tr><td>Oxygen (O)</td><td>8</td><td>2</td><td>6</td><td></td><td></td></tr><tr><td>Fluorine (F)</td><td>9</td><td>2</td><td>7</td><td></td><td></td></tr><tr><td>Phosphorus (P)</td><td>15</td><td>2</td><td>8</td><td>5</td><td></td></tr><tr><td>Sulphur (S)</td><td>16</td><td>2</td><td>8</td><td>6</td><td></td></tr><tr><td>Chlorine (Cl)</td><td>17</td><td>2</td><td>8</td><td>7</td><td></td></tr></table>
 
 electron to complete its octet. If sodium and chlorine were to react, the electron lost by sodium could be taken up by chlorine. After gaining an electron, the chlorine atom gets a unit negative charge, because its nucleus has 17 protons and there are 18 electrons in its K, L and M shells. This gives us a chloride anion $\mathrm { C } 1 ^ { - }$ . So both these elements can have a give-and-take relation between them as follows (Fig. 3.5).
 
@@ -1781,13 +1700,8 @@ Figure 3.7
 Table 3.4   
 Melting and boiling points of some ionic compounds   
 
-| Ionic compound   |   Melting point (K) |   Boiling point (K) |
-|------------------|---------------------|---------------------|
-| NaCl             |                1074 |                1686 |
-| LiCl             |                 887 |                1600 |
-| CaCl2            |                1045 |                1900 |
-| CaO              |                2850 |                3120 |
-| MgCl2            |                 981 |                1685 |
+<table><tr><td>Ionic compound</td><td>Melting point (K)</td><td>Boiling point (K)</td></tr><tr><td>NaCl</td><td>1074</td><td>1686</td></tr><tr><td>LiCl</td><td>887</td><td>1600</td></tr><tr><td>CaCl2</td><td>1045</td><td>1900</td></tr><tr><td>CaO</td><td>2850</td><td>3120</td></tr><tr><td>MgCl2</td><td>981</td><td>1685</td></tr></table>
+
 
 You may have observed the following general properties for ionic compounds—
 
@@ -1979,11 +1893,8 @@ The iron pillar near the Qutub Minar in Delhi was built more than 1600 years ago
 
 1. Metallic oxides of zinc, magnesium and copper were heated with the following metals.
 
-| Metal           | Zinc   | Magnesium   | Copper   |
-|-----------------|--------|-------------|----------|
-| Zinc oxide      |        |             |          |
-| Magnesium oxide |        |             |          |
-| Copper oxide    |        |             |          |
+<table><tr><td>Metal</td><td>Zinc</td><td>Magnesium</td><td>Copper</td></tr><tr><td>Zinc oxide</td><td></td><td></td><td></td></tr><tr><td>Magnesium oxide</td><td></td><td></td><td></td></tr><tr><td>Copper oxide</td><td></td><td></td><td></td></tr></table>
+
 
 I n w h i c h c a s e s w i l l y o u fi n d displacement reactions taking place?
 
@@ -2087,9 +1998,8 @@ Make a list of ten things you have used or consumed since the morning.
 Compile this list with the lists made by your classmates and then sort the items into the adjacent Table.   
 If there are items which are made up of more than one material, put them into both the relevant columns of the table.
 
-| Things made of metal   | Things made of glass/clay   | Others   |
-|------------------------|-----------------------------|----------|
-|                        |                             |          |
+<table><tr><td>Things made of metal</td><td>Things made of glass/clay</td><td>Others</td></tr><tr><td></td><td></td><td></td></tr></table>
+
 
 Look at the items that come in the last column of the above table filled by you – your teacher will be able to tell you that most of them are made up of compounds of carbon. Can you think of a method to test this? What would be the product if a compound containing carbon is burnt? Do you know of any test to confirm this?
 
@@ -2105,12 +2015,8 @@ Most carbon compounds are poor conductors of electricity as we have seen in Chap
 
 Table 4.1 Melting points and boiling points of some compounds of carbon   
 
-| Compound              |   Melting point (K) |   Boiling point (K) |
-|-----------------------|---------------------|---------------------|
-| Acetic acid (CH3COOH) |                 290 |                 391 |
-| Chloroform (CHCl3)    |                 209 |                 334 |
-| Ethanol (CH3CH2OH)    |                 156 |                 351 |
-| Methane (CH4)         |                  90 |                 111 |
+<table><tr><td>Compound</td><td>Melting point (K)</td><td>Boiling point (K)</td></tr><tr><td>Acetic acid (CH3COOH)</td><td>290</td><td>391</td></tr><tr><td>Chloroform (CHCl3)</td><td>209</td><td>334</td></tr><tr><td>Ethanol (CH3CH2OH)</td><td>156</td><td>351</td></tr><tr><td>Methane (CH4)</td><td>90</td><td>111</td></tr></table>
+
 
 In Class IX, we learnt about the combining capacity of various elements and how it depends on the number of valence electrons. Let us now look at the electronic configuration of carbon. The atomic number of carbon is 6. What would be the distribution of electrons in various shells of carbon? How many valence electrons will carbon have?
 
@@ -2256,35 +2162,29 @@ In the earlier section, we mentioned the carbon compounds methane, ethane and pr
 
 Table 4.2 Formulae and structures of saturated compounds of carbon and hydrogen   
 
-|   No. of C atoms | Name    | Formula   | Structure                              |
-|------------------|---------|-----------|----------------------------------------|
-|                1 | Methane | CH4       | H
- H-C-H
- H                            |
-|                2 | Ethane  | C2H6      | H
- H
- H-C-C-H
- H H                     |
-|                3 | Propane | C3H8      | H
- H
- H-C-C-H
- H H H                   |
-|                4 | Butane  | C4H10     | H
- H
- H
- H-C-C-C-H
- H H H H            |
-|                5 | Pentane | C5H12     | H
- H
- H
- H-C-C-C-C-H
- H H H H H        |
-|                6 | Hexane  | C6H14     | H
- H
- H
- H
- H-C-C-C-C-C-H
- H H H H H H |
+
+<table><tr><td>No. of C atoms</td><td>Name</td><td>Formula</td><td>Structure</td></tr><tr><td>1</td><td>Methane</td><td>CH4</td><td>H
+H-C-H
+H</td></tr><tr><td>2</td><td>Ethane</td><td>C2H6</td><td>H
+H
+H-C-C-H
+H H</td></tr><tr><td>3</td><td>Propane</td><td>C3H8</td><td>H
+H
+H-C-C-H
+H H H</td></tr><tr><td>4</td><td>Butane</td><td>C4H10</td><td>H
+H
+H
+H-C-C-C-H
+H H H H</td></tr><tr><td>5</td><td>Pentane</td><td>C5H12</td><td>H
+H
+H
+H-C-C-C-C-H
+H H H H H</td></tr><tr><td>6</td><td>Hexane</td><td>C6H14</td><td>H
+H
+H
+H
+H-C-C-C-C-C-H
+H H H H H H</td></tr></table>
 
 But, let us take another look at butane. If we make the carbon ‘skeleton’ with four carbon atoms, we see that two different possible ‘skeletons’are –
 
@@ -2320,20 +2220,14 @@ Carbon seems to be a very friendly element. So far we have been looking at compo
 
 Table 4.3 Some functional groups in carbon compounds   
 
-| Hetero atom   | Class of Compounds          | Formula of functional group                |
-|---------------|-----------------------------|--------------------------------------------|
-| Cl/Br         | Halo- (Chloro/bromo) alkane | -Cl, -Br 
- (substitutes for hydrogen atom) |
-| Oxygen        | 1. Alcohol                  | -OH                                        |
-| Oxygen        | 2. Aldehyde                 | -C-
- H
- O                                  |
-| Oxygen        | 3. Ketone                   | -C-
- II
- O                                 |
-| Oxygen        | 4. Carboxylic acid          | O
- II
- -C-OH                               |
+<table><tr><td>Hetero atom</td><td>Class of Compounds</td><td>Formula of functional group</td></tr><tr><td>Cl/Br</td><td>Halo- (Chloro/bromo) alkane</td><td>—Cl, —Br 
+(substitutes for hydrogen atom)</td></tr><tr><td rowspan="4">Oxygen</td><td>1. Alcohol</td><td>—OH</td></tr><tr><td>2. Aldehyde</td><td>—C—
+H
+O</td></tr><tr><td>3. Ketone</td><td>—C—
+II
+O</td></tr><tr><td>4. Carboxylic acid</td><td>O
+II
+—C—OH</td></tr></table>
 
 #### 4.2.4 Homologous Series
 
@@ -2376,33 +2270,24 @@ Propane – ‘e’ $=$ propan $^ +$ ‘one’ $=$ propanone.
 
 Table 4.4 Nomenclature of organic compounds   
 
-| Class of compounds   | Prefix/Suffix              | Example                                |
-|----------------------|----------------------------|----------------------------------------|
-| 1. Halo alkane       | Prefix-chloro, bromo, etc. | H H H
- H-C-C-C-Cl Chloropropane
- H H H |
-| 1. Halo alkane       | Prefix-chloro, bromo, etc. | H H H
- H-C-C-C-Br Bromopropane
- H H H  |
-| 2. Alcohol           | Suffix - ol                | H H H
- H-C-C-C-OH Propanol
- H H H      |
-| 3. Aldehyde          | Suffix - al                | H H H
- H-C-C-C=O Propanal
- H H H       |
-| 4. Ketone            | Suffix - one               | H H
- H-C-C-C-H Propanone
- H O H        |
-| 5. Carboxylic acid   | Suffix - oic acid          | H H O
- H-C-C-C-OH Propanoic acid
- H H  |
-| 6. Alkenes           | Suffix - ene               | H H
- H-C-C=C Propene
- H H              |
-| 7. Alkynes           | Suffix - yne               | H
- H-C-C≡C-H
- H Propyne
- H             |
+<table><tr><td>Class of compounds</td><td>Prefix/Suffix</td><td>Example</td></tr><tr><td rowspan="2">1. Halo alkane</td><td rowspan="2">Prefix-chloro, bromo, etc.</td><td>H H H
+H-C-C-C-Cl Chloropropane
+H H H</td></tr><tr><td>H H H
+H-C-C-C-Br Bromopropane
+H H H</td></tr><tr><td>2. Alcohol</td><td>Suffix - ol</td><td>H H H
+H-C-C-C-OH Propanol
+H H H</td></tr><tr><td>3. Aldehyde</td><td>Suffix - al</td><td>H H H
+H-C-C-C=O Propanal
+H H H</td></tr><tr><td>4. Ketone</td><td>Suffix - one</td><td>H H
+H-C-C-C-H Propanone
+H O H</td></tr><tr><td>5. Carboxylic acid</td><td>Suffix - oic acid</td><td>H H O
+H-C-C-C-OH Propanoic acid
+H H</td></tr><tr><td>6. Alkenes</td><td>Suffix - ene</td><td>H H
+H-C-C=C Propene
+H H</td></tr><tr><td>7. Alkynes</td><td>Suffix - yne</td><td>H
+H-C-C≡C-H
+H Propyne
+H</td></tr></table>
 
 ## QUESTIONS
 
@@ -2845,14 +2730,8 @@ You will see in the above Activity that the nature, position and size of the ima
 
 Table 9.1 Image formation by a concave mirror for different positions of the object   
 
-| Position of the object   | Position of the image   | Size of the image              | Nature of the image   |
-|--------------------------|-------------------------|--------------------------------|-----------------------|
-| At infinity              | At the focus F          | Highly diminished, point-sized | Real and inverted     |
-| Beyond C                 | Between F and C         | Diminished                     | Real and inverted     |
-| At C                     | At C                    | Same size                      | Real and inverted     |
-| Between C and F          | Beyond C                | Enlarged                       | Real and inverted     |
-| At F                     | At infinity             | Highly enlarged                | Real and inverted     |
-| Between Pand F           | Behind the mirror       | Enlarged                       | Virtual and erect     |
+<table><tr><td>Position of the object</td><td>Position of the image</td><td>Size of the image</td><td>Nature of the image</td></tr><tr><td>At infinity</td><td>At the focus F</td><td>Highly diminished, point-sized</td><td>Real and inverted</td></tr><tr><td>Beyond C</td><td>Between F and C</td><td>Diminished</td><td>Real and inverted</td></tr><tr><td>At C</td><td>At C</td><td>Same size</td><td>Real and inverted</td></tr><tr><td>Between C and F</td><td>Beyond C</td><td>Enlarged</td><td>Real and inverted</td></tr><tr><td>At F</td><td>At infinity</td><td>Highly enlarged</td><td>Real and inverted</td></tr><tr><td>Between Pand F</td><td>Behind the mirror</td><td>Enlarged</td><td>Virtual and erect</td></tr></table>
+
 
 #### 9.2.2 Representation of Images Formed by Spherical Mirrors Using Ray Diagrams
 
@@ -2950,10 +2829,8 @@ Figure 9.8 Formation of image by a convex mirror
 
 Table 9.2 Nature, position and relative size of the image formed by a convex mirror   
 
-| Position of the object                        | Position of the image              | Size of the image              | Nature of the image   |
-|-----------------------------------------------|------------------------------------|--------------------------------|-----------------------|
-| At infinity                                   | At the focus F, behind the mirror  | Highly diminished, point-sized | Virtual and erect     |
-| Between infinity and the pole P of the mirror | Between P and F, behind the mirror | Diminished                     | Virtual and erect     |
+<table><tr><td>Position of the object</td><td>Position of the image</td><td>Size of the image</td><td>Nature of the image</td></tr><tr><td>At infinity</td><td>At the focus F, behind the mirror</td><td>Highly diminished, point-sized</td><td>Virtual and erect</td></tr><tr><td>Between infinity and the pole P of the mirror</td><td>Between P and F, behind the mirror</td><td>Diminished</td><td>Virtual and erect</td></tr></table>
+
 
 You have so far studied the image formation by a plane mirror, a concave mirror and a convex mirror. Which of these mirrors will give the full image of a large object? Let us explore through an Activity.
 
@@ -3226,18 +3103,7 @@ The absolute refractive index of a medium is simply called its refractive index.
 
 Table 9.3 Absolute refractive index of some material media   
 
-| Material medium   |   Refractive index | Material medium   | Refractive index   |
-|-------------------|--------------------|-------------------|--------------------|
-| Air               |             1.0003 | Canada            | 1.53               |
-| Air               |             1.0003 | Balsam            | 1.53               |
-| Ice               |           131      |                   |                    |
-| Water             |             1.33   | Rock salt         | 1.54               |
-| Alcohol           |             1.36   |                   |                    |
-| Kerosene          |             1.44   | Carbon disulphide | 1.63               |
-| Fused quartz      |             1.46   | Dense flint glass | 1.65               |
-| Turbentine oil    |             1.47   | Ruby              | 1.71               |
-| Benzene           |             1.5    | Sapphire          | 1.77               |
-| Crown glass       |             1.52   | Diamond           | 2.42               |
+<table><tr><td>Material medium</td><td>Refractive index</td><td>Material medium</td><td>Refractive index</td></tr><tr><td rowspan="2">Air</td><td rowspan="2">1.0003</td><td>Canada</td><td rowspan="2">1.53</td></tr><tr><td>Balsam</td></tr><tr><td>Ice</td><td>131</td><td></td><td></td></tr><tr><td>Water</td><td>1.33</td><td>Rock salt</td><td>1.54</td></tr><tr><td>Alcohol</td><td>1.36</td><td></td><td></td></tr><tr><td>Kerosene</td><td>1.44</td><td>Carbon disulphide</td><td>1.63</td></tr><tr><td>Fused quartz</td><td>1.46</td><td>Dense flint glass</td><td>1.65</td></tr><tr><td>Tarpentine oil</td><td>1.47</td><td>Ruby</td><td>1.71</td></tr><tr><td>Benzene</td><td>1.50</td><td>Sapphire</td><td>1.77</td></tr><tr><td>Crown glass</td><td>1.52</td><td>Diamond</td><td>2.42</td></tr></table>
 
 Note from Table 9.3 that an optically denser medium may not possess greater mass density. For example, kerosene having higher refractive index, is optically denser than water, although its mass density is less than water.
 
@@ -3305,15 +3171,7 @@ Repeat this Activity by placing object just behind $2 \mathrm { F } _ { \mathrm 
 The nature, position and relative size of the image formed by convex lens for various positions of the object is summarised in Table 9.4.
 
 Table 9.4 Nature, position and relative size of the image formed by a convex lens for various positions of the object   
-
-| Position of the object             | Position of the image                       | Relative Size of the image          | Nature of the image   |
-|------------------------------------|---------------------------------------------|-------------------------------------|-----------------------|
-| At infinity                        | At the focus F2                             | Highly diminished, point-sized      | Real and inverted     |
-| Beyond 2F                          | Between F2and 2F2                           | Diminished                          | Real and inverted     |
-| At 2F1                             | At 2F2                                      | Same size                           | Real and inverted     |
-| Between F1and2F1                   | Beyond 2F2                                  | Enlarged                            | Real and inverted     |
-| At Focus F1                        | At infinity                                 | Infinitely large or Highly enlarged | Real and inverted     |
-| Between P and and optical centre O | Behind the mirror of the lens as the object | Enlarged                            | Virtual and erect     |
+<table><tr><td>Position of the object</td><td>Position of the image</td><td>Relative Size of the image</td><td>Nature of the image</td></tr><tr><td>At infinity</td><td>At the focus F2</td><td>Highly diminished, point-sized</td><td>Real and inverted</td></tr><tr><td>Beyond 2F</td><td>Between F2and 2F2</td><td>Diminished</td><td>Real and inverted</td></tr><tr><td>At 2F1</td><td>At 2F2</td><td>Same size</td><td>Real and inverted</td></tr><tr><td>Between F1and2F1</td><td>Beyond 2F2</td><td>Enlarged</td><td>Real and inverted</td></tr><tr><td>At Focus F1</td><td>At infinity</td><td>Infinitely large or Highly enlarged</td><td>Real and inverted</td></tr><tr><td>Between P and and optical centre O</td><td>Behind the mirror of the lens as the object</td><td>Enlarged</td><td>Virtual and erect</td></tr></table>
 
 Let us now do an Activity to study the nature, position and relative size of the image formed by a concave lens.
 
@@ -3329,10 +3187,7 @@ The summary of the above Activity is given in Table 9.5 below.
 
 Table 9.5 Nature, position and relative size of the image formed by a concave lens for various positions of the object   
 
-| Position of the object                            | Position of the image                 | Relative Size of the image     | Nature of the image   |
-|---------------------------------------------------|---------------------------------------|--------------------------------|-----------------------|
-| At infinity                                       | At focus F1                           | Highly diminished, point-sized | Virtual and erect     |
-| Between infinity and optical centre O of the lens | Between focus F1 and optical centre O | Diminished                     | Virtual and erect     |
+<table><tr><td>Position of the object</td><td>Position of the image</td><td>Relative Size of the image</td><td>Nature of the image</td></tr><tr><td>At infinity</td><td>At focus F1</td><td>Highly diminished, point-sized</td><td>Virtual and erect</td></tr><tr><td>Between infinity and optical centre O of the lens</td><td>Between focus F1 and optical centre O</td><td>Diminished</td><td>Virtual and erect</td></tr></table>
 
 What conclusion can you draw from this Activity? A concave lens will always give a virtual, erect and diminished image, irrespective of the position of the object.
 
@@ -3971,20 +3826,9 @@ We know that an electric circuit, as shown in Fig. 11.1, comprises a cell (or a 
 
 Table 11.1 Symbols of some commonly used components in circuit diagrams   
 
-|   S1.
- No. | Components                          | Symbols                                                                                                                                                                                                   |
-|------------|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|          1 | An electric cell                    | + &#124; -                                                                                                                                                                                                |
-|          2 | A battery or a combination of cells | + &#124; - &#124; - &#124; -                                                                                                                                                                              |
-|          3 | Plug key or switch (open)           | - ()-                                                                                                                                                                                                     |
-|          4 | Plug key or switch (closed)         | - ()-                                                                                                                                                                                                     |
-|          5 | A wire joint                        | -                                                                                                                                                                                                         |
-|          6 | Wires crossing without joining      | -                                                                                                                                                                                                         |
-|          7 | Electric bulb                       | or                                                                                                                                                                                                        |
-|          8 | A resistor of resistance R          |                                                                                                                                                                                                           |
-|          9 | Variable resistance or rheostat     | or                                                                                                                                                                                                        |
-|         10 | Ammeter                             | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|         11 | Voltmeter                           | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -         |
+<table><tr><td>S1.
+No.</td><td>Components</td><td>Symbols</td></tr><tr><td>1</td><td>An electric cell</td><td>+ | -</td></tr><tr><td>2</td><td>A battery or a combination of cells</td><td>+ | - | - | -</td></tr><tr><td>3</td><td>Plug key or switch (open)</td><td>- ()-</td></tr><tr><td>4</td><td>Plug key or switch (closed)</td><td>- ()-</td></tr><tr><td>5</td><td>A wire joint</td><td>-</td></tr><tr><td>6</td><td>Wires crossing without joining</td><td>-</td></tr></table>
+
 
 ### 11.4 OHM’S LAW
 
@@ -3998,14 +3842,9 @@ Is there a relationship between the potential difference across a conductor and 
 ■ Repeat the above steps using three cells and then four cells in the circuit separately.   
 ■ Calculate the ratio of V to I for each pair of potential difference V and current I.
 
-|   S.
- No. |   Number of cells used in the circuit (ampere) | Current through the nichrome wire, I   | Potential difference across the nichrome wire, V (volt)   | V/I
- (volt/ampere)   |
-|-----------|------------------------------------------------|----------------------------------------|-----------------------------------------------------------|----------------------|
-|         1 |                                              1 |                                        |                                                           |                      |
-|         2 |                                              2 |                                        |                                                           |                      |
-|         3 |                                              3 |                                        |                                                           |                      |
-|         4 |                                              4 |                                        |                                                           |                      |
+<table><tr><td>S.
+No.</td><td>Number of cells used in the circuit (ampere)</td><td>Current through the nichrome wire, I</td><td>Potential difference across the nichrome wire, V (volt)</td><td>V/I
+(volt/ampere)</td></tr><tr><td>1</td><td>1</td><td></td><td></td><td></td></tr><tr><td>2</td><td>2</td><td></td><td></td><td></td></tr><tr><td>3</td><td>3</td><td></td><td></td><td></td></tr><tr><td>4</td><td>4</td><td></td><td></td><td></td></tr></table>
 
 ■ Plot a graph between V and I, and observe the nature of the graph.
 
@@ -4117,28 +3956,7 @@ Table 11.2 reveals that the resistivity of an alloy is generally higher than tha
 
 Table 11.2 Electrical resistivity* of some substances at $2 0 \mathrm { { } ^ { \circ } C }$   
 
-|            | Material                     | Resistivity (Ω m)   |
-|------------|------------------------------|---------------------|
-| Conductors | Silver                       | 1.60 × 10-8         |
-| Conductors | Copper                       | 1.62 × 10-8         |
-| Conductors | Aluminium                    | 2.63 × 10-8         |
-| Conductors | Tungsten                     | 5.20 × 10-8         |
-| Conductors | Nickel                       | 6.84 × 10-8         |
-| Conductors | Iron                         | 10.0 × 10-8         |
-| Conductors | Chromium                     | 12.9 × 10-8         |
-| Conductors | Mercury                      | 94.0 × 10-8         |
-| Conductors | Manganese                    | 1.84 × 10-6         |
-| Alloys     | Constantan                   | 49 × 10-6           |
-| Alloys     | (alloy of Cu and Ni)         |                     |
-| Alloys     | Manganin                     | 44 × 10-6           |
-| Alloys     | (alloy of Cu, Mn and Ni)     |                     |
-| Alloys     | Nichrome                     | 100 × 10-6          |
-| Alloys     | (alloy of Ni, Cr, Mn and Fe) |                     |
-| Insulators | Glass                        | 1010 - 1014         |
-| Insulators | Hard rubber                  | 1013 - 1016         |
-| Insulators | Ebonite                      | 1015 - 1017         |
-| Insulators | Diamond                      | 1012 - 1013         |
-| Insulators | Paper (dry)                  | 1012                |
+<table><tr><td></td><td>Material</td><td>Resistivity (Ω m)</td></tr><tr><td rowspan="9">Conductors</td><td>Silver</td><td>1.60 × 10-8</td></tr><tr><td>Copper</td><td>1.62 × 10-8</td></tr><tr><td>Aluminium</td><td>2.63 × 10-8</td></tr><tr><td>Tungsten</td><td>5.20 × 10-8</td></tr><tr><td>Nickel</td><td>6.84 × 10-8</td></tr><tr><td>Iron</td><td>10.0 × 10-8</td></tr><tr><td>Chromium</td><td>12.9 × 10-8</td></tr><tr><td>Mercury</td><td>94.0 × 10-8</td></tr><tr><td>Manganese</td><td>1.84 × 10-6</td></tr><tr><td rowspan="6">Alloys</td><td>Constantan</td><td>49 × 10-6</td></tr><tr><td>(alloy of Cu and Ni)</td><td></td></tr><tr><td>Manganin</td><td>44 × 10-6</td></tr><tr><td>(alloy of Cu, Mn and Ni)</td><td></td></tr><tr><td>Nichrome</td><td>100 × 10-6</td></tr><tr><td>(alloy of Ni, Cr, Mn and Fe)</td><td></td></tr><tr><td rowspan="5">Insulators</td><td>Glass</td><td>1010 - 1014</td></tr><tr><td>Hard rubber</td><td>1013 - 1016</td></tr><tr><td>Ebonite</td><td>1015 - 1017</td></tr><tr><td>Diamond</td><td>1012 - 1013</td></tr><tr><td>Paper (dry)</td><td>1012</td></tr></table>
 
 * You need not memorise these values. You can use these values for solving numerical problems.
 
